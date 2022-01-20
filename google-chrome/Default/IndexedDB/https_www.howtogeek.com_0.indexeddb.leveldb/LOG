@@ -1,0 +1,6 @@
+2022/01/05-11:02:16.136 32fe0 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.howtogeek.com_0.indexeddb.leveldb since it was missing.
+2022/01/05-11:02:16.139 32fe0 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.howtogeek.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/05-11:02:19.958 3362b Level-0 table #5: started
+2022/01/05-11:02:19.960 3362b Level-0 table #5: 385 bytes OK
+2022/01/05-11:02:19.962 3362b Delete type=0 #3
+2022/01/05-11:02:19.962 3362b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2021/05/27-22:22:07.811 106c Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_meeting.tencent.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/27-22:22:07.812 106c Recovering log #4
+2021/05/27-22:22:07.813 106c Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_meeting.tencent.com_0.indexeddb.leveldb/000004.log 
+2021/05/27-22:22:12.531 1096 Level-0 table #8: started
+2021/05/27-22:22:12.531 1096 Level-0 table #8: 0 bytes OK
+2021/05/27-22:22:12.533 1096 Delete type=0 #4
+2021/05/27-22:22:12.533 1096 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/27-22:22:12.533 1096 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

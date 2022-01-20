@@ -1,0 +1,395 @@
+07:56:30 AM.678: CPU Name: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+07:56:30 AM.678: CPU Speed: 2823.166MHz
+07:56:30 AM.678: Physical Cores: 4, Logical Cores: 8
+07:56:30 AM.678: Physical Memory: 7713MB Total, 470MB Free
+07:56:30 AM.678: Kernel Version: Linux 5.8.0-59-generic
+07:56:30 AM.678: Distribution: "Ubuntu" "20.04"
+07:56:30 AM.678: Session Type: x11
+07:56:30 AM.678: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+07:56:30 AM.679: Portable mode: false
+07:56:30 AM.739: OBS 27.0.1 (linux)
+07:56:30 AM.739: ---------------------------------
+07:56:30 AM.740: ---------------------------------
+07:56:30 AM.740: audio settings reset:
+07:56:30 AM.740: 	samples per sec: 48000
+07:56:30 AM.740: 	speakers:        2
+07:56:30 AM.748: ---------------------------------
+07:56:30 AM.748: Initializing OpenGL...
+07:56:30 AM.818: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (WHL GT2)
+07:56:30 AM.818: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.6, shading language 4.60
+07:56:30 AM.831: ---------------------------------
+07:56:30 AM.831: video settings reset:
+07:56:30 AM.831: 	base resolution:   1920x1080
+07:56:30 AM.831: 	output resolution: 852x480
+07:56:30 AM.831: 	downscale filter:  Bicubic
+07:56:30 AM.831: 	fps:               30/1
+07:56:30 AM.831: 	format:            NV12
+07:56:30 AM.831: 	YUV mode:          709/Partial
+07:56:30 AM.831: NV12 texture support not available
+07:56:30 AM.833: Audio monitoring device:
+07:56:30 AM.833: 	name: Default
+07:56:30 AM.833: 	id: default
+07:56:30 AM.833: ---------------------------------
+07:56:30 AM.836: Failed to load 'en-US' text for module: 'decklink-captions.so'
+07:56:30 AM.838: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+07:56:30 AM.959: Failed to load 'en-GB' text for module: 'linux-alsa.so'
+07:56:30 AM.960: Failed to load 'en-GB' text for module: 'linux-capture.so'
+07:56:30 AM.962: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+07:56:30 AM.962: No blackmagic support
+07:56:30 AM.965: Failed to load 'en-GB' text for module: 'linux-jack.so'
+07:56:30 AM.966: Failed to load 'en-GB' text for module: 'linux-pulseaudio.so'
+07:56:30 AM.974: [obs-browser]: Version 2.14.3
+07:56:30 AM.974: [obs-browser]: CEF Version 87.1.12+g03f9336+chromium-87.0.4280.88
+07:56:31 AM.023: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+07:56:31 AM.023: 
+07:56:31 AM.023: FFMPEG VAAPI supported
+07:56:31 AM.031: Failed to load 'en-GB' text for module: 'obs-libfdk.so'
+07:56:31 AM.053: Failed to load 'en-GB' text for module: 'obs-x264.so'
+07:56:31 AM.057: Failed to load 'en-GB' text for module: 'rtmp-services.so'
+07:56:31 AM.062: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+07:56:31 AM.062: 
+07:56:31 AM.062: Couldn't find VLC installation, VLC video source disabled
+07:56:31 AM.062: ---------------------------------
+07:56:31 AM.062:   Loaded Modules:
+07:56:31 AM.062:     vlc-video.so
+07:56:31 AM.062:     text-freetype2.so
+07:56:31 AM.062:     rtmp-services.so
+07:56:31 AM.062:     obs-x264.so
+07:56:31 AM.062:     obs-vst.so
+07:56:31 AM.062:     obs-transitions.so
+07:56:31 AM.062:     obs-outputs.so
+07:56:31 AM.062:     obs-libfdk.so
+07:56:31 AM.062:     obs-filters.so
+07:56:31 AM.062:     obs-ffmpeg.so
+07:56:31 AM.062:     obs-browser.so
+07:56:31 AM.062:     linux-v4l2.so
+07:56:31 AM.062:     linux-pulseaudio.so
+07:56:31 AM.062:     linux-jack.so
+07:56:31 AM.062:     linux-decklink.so
+07:56:31 AM.062:     linux-capture.so
+07:56:31 AM.062:     linux-alsa.so
+07:56:31 AM.062:     image-source.so
+07:56:31 AM.062:     frontend-tools.so
+07:56:31 AM.062:     decklink-ouput-ui.so
+07:56:31 AM.062:     decklink-captions.so
+07:56:31 AM.062: ---------------------------------
+07:56:31 AM.063: ==== Startup complete ===============================================
+07:56:31 AM.067: All scene data cleared
+07:56:31 AM.067: ------------------------------------------------
+07:56:31 AM.076: pulse-input: Server name: 'pulseaudio 13.99.1'
+07:56:31 AM.077: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+07:56:31 AM.077: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+07:56:31 AM.077: [Loaded global audio device]: 'Desktop Audio'
+07:56:31 AM.183: pulse-input: Server name: 'pulseaudio 13.99.1'
+07:56:31 AM.184: pulse-input: Audio format: s16le, 16000 Hz, 1 channels
+07:56:31 AM.184: pulse-input: Started recording from 'alsa_input.usb-SN0002_HIK_1080P_Camera_46000000_SN0002-02.mono-fallback'
+07:56:31 AM.184: [Loaded global audio device]: 'Mic/Aux'
+07:56:31 AM.184: v4l2-input: Start capture from /dev/video2
+07:56:31 AM.469: v4l2-input: Input: 0
+07:56:31 AM.544: v4l2-input: Resolution: 1920x1080
+07:56:31 AM.544: v4l2-input: Pixelformat: YUYV
+07:56:31 AM.544: v4l2-input: Linesize: 3840 Bytes
+07:56:31 AM.544: v4l2-input: Framerate: 5.00 fps
+07:56:31 AM.551: v4l2-input: /dev/video2: select timeout set to 1000000us (5x frame periods)
+07:56:31 AM.596: Switched to scene 'Scene'
+07:56:31 AM.596: ------------------------------------------------
+07:56:31 AM.596: Loaded scenes:
+07:56:31 AM.596: - scene 'Scene':
+07:56:31 AM.598:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+07:56:31 AM.599:     - source: 'Text (FreeType 2)' (text_ft2_source_v2)
+07:56:31 AM.599: ------------------------------------------------
+07:56:31 AM.990: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+07:56:31 AM.990: 
+07:56:34 AM.633: ---------------------------------
+07:56:34 AM.633: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+07:56:34 AM.643: [x264 encoder: 'simple_h264_stream'] settings:
+07:56:34 AM.643: 	rate_control: CBR
+07:56:34 AM.643: 	bitrate:      1500
+07:56:34 AM.643: 	buffer size:  1500
+07:56:34 AM.643: 	crf:          23
+07:56:34 AM.643: 	fps_num:      30
+07:56:34 AM.643: 	fps_den:      1
+07:56:34 AM.643: 	width:        852
+07:56:34 AM.643: 	height:       480
+07:56:34 AM.643: 	keyint:       250
+07:56:34 AM.643: 
+07:56:34 AM.650: libfdk_aac encoder created
+07:56:34 AM.650: libfdk_aac bitrate: 160, channels: 2
+07:56:34 AM.657: ==== Recording Start ===============================================
+07:56:34 AM.657: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hyx/2021-07-09 07-56-34.mkv'...
+07:56:36 AM.791: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hyx/2021-07-09 07-56-34.mkv' stopped
+07:56:36 AM.791: Output 'simple_file_output': stopping
+07:56:36 AM.791: Output 'simple_file_output': Total frames output: 37
+07:56:36 AM.791: Output 'simple_file_output': Total drawn frames: 64
+07:56:36 AM.792: ==== Recording Stop ================================================
+07:56:36 AM.798: libfdk_aac encoder destroyed
+07:56:36 AM.915: ---------------------------------
+07:56:36 AM.915: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+07:56:36 AM.915: [x264 encoder: 'simple_h264_stream'] settings:
+07:56:36 AM.915: 	rate_control: CBR
+07:56:36 AM.915: 	bitrate:      1500
+07:56:36 AM.915: 	buffer size:  1500
+07:56:36 AM.915: 	crf:          23
+07:56:36 AM.915: 	fps_num:      30
+07:56:36 AM.915: 	fps_den:      1
+07:56:36 AM.915: 	width:        852
+07:56:36 AM.915: 	height:       480
+07:56:36 AM.915: 	keyint:       250
+07:56:36 AM.915: 
+07:56:36 AM.918: libfdk_aac encoder created
+07:56:36 AM.918: libfdk_aac bitrate: 160, channels: 2
+07:56:36 AM.918: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+07:56:37 AM.249: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+07:56:37 AM.254: ==== Streaming Start ===============================================
+07:56:38 AM.207: WriteN, RTMP send error 32 (36 bytes)
+07:56:38 AM.207: WriteN, RTMP send error 32 (129 bytes)
+07:56:38 AM.207: WriteN, RTMP send error 9 (42 bytes)
+07:56:38 AM.207: [rtmp stream: 'simple_stream'] Disconnected from rtmp://txy.live-push.bilivideo.com/live-bvc/
+07:56:38 AM.207: Output 'simple_stream': stopping
+07:56:38 AM.207: Output 'simple_stream': Total frames output: 3
+07:56:38 AM.207: Output 'simple_stream': Total drawn frames: 39
+07:56:38 AM.214: ==== Streaming Stop ================================================
+07:56:38 AM.215: libfdk_aac encoder destroyed
+07:56:39 AM.200: ---------------------------------
+07:56:39 AM.200: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+07:56:39 AM.200: [x264 encoder: 'simple_h264_stream'] settings:
+07:56:39 AM.200: 	rate_control: CBR
+07:56:39 AM.200: 	bitrate:      1500
+07:56:39 AM.200: 	buffer size:  1500
+07:56:39 AM.200: 	crf:          23
+07:56:39 AM.200: 	fps_num:      30
+07:56:39 AM.200: 	fps_den:      1
+07:56:39 AM.200: 	width:        852
+07:56:39 AM.200: 	height:       480
+07:56:39 AM.200: 	keyint:       250
+07:56:39 AM.200: 
+07:56:39 AM.202: libfdk_aac encoder created
+07:56:39 AM.202: libfdk_aac bitrate: 160, channels: 2
+07:56:39 AM.203: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+07:56:39 AM.504: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+07:56:39 AM.514: ==== Streaming Start ===============================================
+07:56:40 AM.477: WriteN, RTMP send error 32 (36 bytes)
+07:56:40 AM.477: WriteN, RTMP send error 32 (129 bytes)
+07:56:40 AM.477: WriteN, RTMP send error 9 (42 bytes)
+07:56:40 AM.477: [rtmp stream: 'simple_stream'] Disconnected from rtmp://txy.live-push.bilivideo.com/live-bvc/
+07:56:40 AM.478: Output 'simple_stream': stopping
+07:56:40 AM.478: Output 'simple_stream': Total frames output: 3
+07:56:40 AM.478: Output 'simple_stream': Total drawn frames: 38
+07:56:40 AM.478: Output 'simple_stream':  Reconnecting in 10 seconds..
+07:56:40 AM.489: libfdk_aac encoder destroyed
+07:56:50 AM.478: ---------------------------------
+07:56:50 AM.478: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+07:56:50 AM.478: [x264 encoder: 'simple_h264_stream'] settings:
+07:56:50 AM.478: 	rate_control: CBR
+07:56:50 AM.478: 	bitrate:      1500
+07:56:50 AM.478: 	buffer size:  1500
+07:56:50 AM.478: 	crf:          23
+07:56:50 AM.478: 	fps_num:      30
+07:56:50 AM.478: 	fps_den:      1
+07:56:50 AM.478: 	width:        852
+07:56:50 AM.478: 	height:       480
+07:56:50 AM.478: 	keyint:       250
+07:56:50 AM.478: 
+07:56:50 AM.490: libfdk_aac encoder created
+07:56:50 AM.490: libfdk_aac bitrate: 160, channels: 2
+07:56:50 AM.491: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+07:56:50 AM.755: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+07:56:51 AM.712: WriteN, RTMP send error 32 (49 bytes)
+07:56:51 AM.712: WriteN, RTMP send error 32 (129 bytes)
+07:56:51 AM.712: WriteN, RTMP send error 9 (42 bytes)
+07:56:51 AM.713: [rtmp stream: 'simple_stream'] Disconnected from rtmp://txy.live-push.bilivideo.com/live-bvc/
+07:56:51 AM.713: Output 'simple_stream': stopping
+07:56:51 AM.713: Output 'simple_stream': Total frames output: 3
+07:56:51 AM.713: Output 'simple_stream': Total drawn frames: 37
+07:56:51 AM.713: Output 'simple_stream':  Reconnecting in 10 seconds..
+07:56:51 AM.717: libfdk_aac encoder destroyed
+07:57:01 AM.713: ---------------------------------
+07:57:01 AM.713: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+07:57:01 AM.713: [x264 encoder: 'simple_h264_stream'] settings:
+07:57:01 AM.713: 	rate_control: CBR
+07:57:01 AM.713: 	bitrate:      1500
+07:57:01 AM.713: 	buffer size:  1500
+07:57:01 AM.713: 	crf:          23
+07:57:01 AM.713: 	fps_num:      30
+07:57:01 AM.713: 	fps_den:      1
+07:57:01 AM.713: 	width:        852
+07:57:01 AM.713: 	height:       480
+07:57:01 AM.713: 	keyint:       250
+07:57:01 AM.713: 
+07:57:01 AM.715: libfdk_aac encoder created
+07:57:01 AM.715: libfdk_aac bitrate: 160, channels: 2
+07:57:01 AM.715: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+07:57:02 AM.004: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+08:45:32 AM.383: Stopping stream due to hotkey
+08:45:33 AM.361: [rtmp stream: 'simple_stream'] User stopped the stream
+08:45:33 AM.362: Output 'simple_stream': stopping
+08:45:33 AM.362: Output 'simple_stream': Total frames output: 87292 (87351 attempted)
+08:45:33 AM.362: Output 'simple_stream': Total drawn frames: 87382 (87388 attempted)
+08:45:33 AM.362: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 6 (0.0%)
+08:45:33 AM.362: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 59 (0.1%)
+08:45:33 AM.363: libfdk_aac encoder destroyed
+08:45:33 AM.365: ==== Streaming Stop ================================================
+08:45:59 AM.538: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+08:45:59 AM.538: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+08:45:59 AM.538: device_draw (GL) failed
+08:45:59 AM.742: Starting stream due to hotkey
+08:45:59 AM.742: ---------------------------------
+08:45:59 AM.742: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+08:45:59 AM.742: [x264 encoder: 'simple_h264_stream'] settings:
+08:45:59 AM.742: 	rate_control: CBR
+08:45:59 AM.742: 	bitrate:      1500
+08:45:59 AM.742: 	buffer size:  1500
+08:45:59 AM.742: 	crf:          23
+08:45:59 AM.742: 	fps_num:      30
+08:45:59 AM.742: 	fps_den:      1
+08:45:59 AM.742: 	width:        852
+08:45:59 AM.742: 	height:       480
+08:45:59 AM.742: 	keyint:       250
+08:45:59 AM.742: 
+08:45:59 AM.744: libfdk_aac encoder created
+08:45:59 AM.744: libfdk_aac bitrate: 160, channels: 2
+08:45:59 AM.744: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+08:46:00 AM.024: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+08:46:00 AM.028: ==== Streaming Start ===============================================
+09:13:06 AM.556: Stopping stream due to hotkey
+09:13:07 AM.538: [rtmp stream: 'simple_stream'] User stopped the stream
+09:13:07 AM.539: Output 'simple_stream': stopping
+09:13:07 AM.539: Output 'simple_stream': Total frames output: 47761 (48797 attempted)
+09:13:07 AM.539: Output 'simple_stream': Total drawn frames: 48723 (48834 attempted)
+09:13:07 AM.539: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 111 (0.2%)
+09:13:07 AM.539: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 1036 (2.1%)
+09:13:07 AM.543: libfdk_aac encoder destroyed
+09:13:07 AM.544: ==== Streaming Stop ================================================
+09:13:31 AM.139: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:13:31 AM.139: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:13:31 AM.139: device_draw (GL) failed
+09:13:41 AM.338: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:13:41 AM.338: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:13:41 AM.338: device_draw (GL) failed
+09:15:31 AM.906: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:15:31 AM.907: device_draw (GL) failed
+09:16:41 AM.505: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:16:41 AM.505: device_draw (GL) failed
+09:19:01 AM.672: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:19:01 AM.672: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:19:01 AM.672: device_draw (GL) failed
+09:19:11 AM.872: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:19:11 AM.872: device_draw (GL) failed
+09:22:11 AM.878: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:22:11 AM.879: device_draw (GL) failed
+09:22:22 AM.072: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:22:22 AM.072: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:22:22 AM.072: device_draw (GL) failed
+09:24:02 AM.045: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:24:02 AM.045: device_draw (GL) failed
+09:25:12 AM.238: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:25:12 AM.239: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:25:12 AM.239: device_draw (GL) failed
+09:25:31 AM.638: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:25:31 AM.638: device_draw (GL) failed
+09:27:01 AM.805: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:27:01 AM.805: device_draw (GL) failed
+09:28:02 AM.206: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:28:02 AM.206: device_draw (GL) failed
+09:28:21 AM.608: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:28:21 AM.608: device_draw (GL) failed
+09:29:02 AM.405: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:29:02 AM.405: device_draw (GL) failed
+09:29:11 AM.610: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:29:11 AM.610: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:29:11 AM.610: device_draw (GL) failed
+09:30:42 AM.611: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:30:42 AM.612: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:30:42 AM.612: device_draw (GL) failed
+09:31:12 AM.173: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:31:12 AM.173: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:31:12 AM.173: device_draw (GL) failed
+09:31:22 AM.376: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:31:22 AM.376: device_draw (GL) failed
+09:31:32 AM.577: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:31:32 AM.578: device_draw (GL) failed
+09:31:41 AM.772: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:31:41 AM.772: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:31:41 AM.772: device_draw (GL) failed
+09:32:02 AM.372: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:32:02 AM.372: device_draw (GL) failed
+09:32:42 AM.372: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:32:42 AM.372: device_draw (GL) failed
+09:33:12 AM.172: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:33:12 AM.172: device_draw (GL) failed
+09:34:42 AM.339: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:34:42 AM.339: device_draw (GL) failed
+09:35:42 AM.938: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:35:42 AM.938: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+09:35:42 AM.938: device_draw (GL) failed
+09:36:21 AM.589: ---------------------------------
+09:36:21 AM.589: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+09:36:21 AM.589: [x264 encoder: 'simple_h264_stream'] settings:
+09:36:21 AM.589: 	rate_control: CBR
+09:36:21 AM.589: 	bitrate:      1500
+09:36:21 AM.589: 	buffer size:  1500
+09:36:21 AM.589: 	crf:          23
+09:36:21 AM.589: 	fps_num:      30
+09:36:21 AM.589: 	fps_den:      1
+09:36:21 AM.589: 	width:        852
+09:36:21 AM.589: 	height:       480
+09:36:21 AM.589: 	keyint:       250
+09:36:21 AM.589: 
+09:36:21 AM.596: libfdk_aac encoder created
+09:36:21 AM.596: libfdk_aac bitrate: 160, channels: 2
+09:36:21 AM.596: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+09:36:21 AM.873: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+09:36:21 AM.885: ==== Streaming Start ===============================================
+10:44:35 AM.592: Stopping stream due to hotkey
+10:44:36 AM.607: [rtmp stream: 'simple_stream'] User stopped the stream
+10:44:36 AM.607: Output 'simple_stream': stopping
+10:44:36 AM.607: Output 'simple_stream': Total frames output: 118547 (122812 attempted)
+10:44:36 AM.607: Output 'simple_stream': Total drawn frames: 122534 (122851 attempted)
+10:44:36 AM.607: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 317 (0.3%)
+10:44:36 AM.607: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 4265 (3.5%)
+10:44:36 AM.610: ==== Streaming Stop ================================================
+10:44:36 AM.610: ==== Streaming Stop ================================================
+10:44:36 AM.610: libfdk_aac encoder destroyed
+10:45:26 AM.573: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:45:26 AM.573: device_draw (GL) failed
+10:46:56 AM.578: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:46:56 AM.579: device_draw (GL) failed
+10:49:06 AM.339: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:49:06 AM.339: device_draw (GL) failed
+10:49:16 AM.549: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:49:16 AM.549: device_draw (GL) failed
+10:50:56 AM.939: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:50:56 AM.939: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:50:56 AM.939: device_draw (GL) failed
+10:52:46 AM.706: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:52:46 AM.706: device_draw (GL) failed
+10:54:36 AM.506: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:54:36 AM.506: device_draw (GL) failed
+10:55:16 AM.506: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:55:16 AM.506: device_draw (GL) failed
+10:55:46 AM.272: glBindVertexArray failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:55:46 AM.272: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:55:46 AM.272: device_draw (GL) failed
+10:58:57 AM.072: glDrawArrays failed, glGetError returned GL_INVALID_OPERATION(0x502)
+10:58:57 AM.072: device_draw (GL) failed
+11:00:55 AM.302: ---------------------------------
+11:00:55 AM.302: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+11:00:55 AM.302: [x264 encoder: 'simple_h264_stream'] settings:
+11:00:55 AM.302: 	rate_control: CBR
+11:00:55 AM.302: 	bitrate:      1500
+11:00:55 AM.302: 	buffer size:  1500
+11:00:55 AM.302: 	crf:          23
+11:00:55 AM.302: 	fps_num:      30
+11:00:55 AM.302: 	fps_den:      1
+11:00:55 AM.302: 	width:        852
+11:00:55 AM.302: 	height:       480
+11:00:55 AM.302: 	keyint:       250
+11:00:55 AM.302: 
+11:00:55 AM.303: libfdk_aac encoder created
+11:00:55 AM.303: libfdk_aac bitrate: 160, channels: 2
+11:00:55 AM.303: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+11:01:01 AM.751: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+11:01:01 AM.761: ==== Streaming Start ===============================================
+03:04:22 PM.607: v4l2-input: /dev/video2: failed to dequeue buffer
+03:04:22 PM.608: v4l2-input: /dev/video2: Stopped capture after 128372 frames
+03:04:22 PM.608: v4l2-helpers: unable to stop stream

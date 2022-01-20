@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/PB16020798/Fractal.java</name>
+			<type>1</type>
+			<location>//home/hyx/Downloads/Java_00/0/src3/PB16020798/Fractal.java</location>
+		</link>
+		<link>
+			<name>src/PB16020798/FractalApp.java</name>
+			<type>1</type>
+			<location>//home/hyx/Downloads/Java_00/0/src3/PB16020798/FractalApp.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

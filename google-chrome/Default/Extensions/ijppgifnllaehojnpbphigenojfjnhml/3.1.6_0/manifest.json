@@ -1,0 +1,19 @@
+{
+   "content_scripts": [ {
+      "js": [ "app.js" ],
+      "matches": [ "https://www.youtube.com/playlist?list=*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "View the duration of YouTube playlists",
+   "homepage_url": "https://github.com/sridhama/youtube-playlist-duration",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvRgZhUPzAqCNJeCKnPlRgiAZJVRSEg1kZqlbXKb4rxe7q/hKOENbc8KapphG3Sx8KkXAgujRjLuuuZV9yEb1p4eysegYiGHBJGkQxWNcNFgfekzZaYICTKxMHg3gP4I8MDQFaglyLDwDloMIGWmQnUo7Q4xK4TUrf9W/J4zzSNIt08lwASJTDD+MKHFxajzy0teuqq4hn7+p7IPJf4wo/Ahdq9R90AomMiIFC3ZMs+vo57L5y/Id7HD/dQwd3ZhNoQAAqQYtVnauWgnFZPhI9yXn2clEX5HTR3i9r3aWhbWHiAMy8vMn3YUtEna8hvVCSnzvfGttAZOAM3GXi6d5dQIDAQAB",
+   "manifest_version": 2,
+   "name": "YouTube Playlist Duration",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.6"
+}

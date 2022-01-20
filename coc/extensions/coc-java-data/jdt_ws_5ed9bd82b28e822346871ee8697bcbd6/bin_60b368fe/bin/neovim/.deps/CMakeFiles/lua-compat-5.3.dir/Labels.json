@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/lua-compat-5.3"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/lua-compat-5.3.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/lua-compat-5.3-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lua-compat-5.3"
+		],
+		"name" : "lua-compat-5.3"
+	}
+}

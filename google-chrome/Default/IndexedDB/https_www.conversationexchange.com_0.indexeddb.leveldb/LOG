@@ -1,0 +1,7 @@
+2021/12/16-17:45:56.602 19255 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.conversationexchange.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/16-17:45:56.603 19255 Recovering log #4
+2021/12/16-17:45:56.603 19255 Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.conversationexchange.com_0.indexeddb.leveldb/000004.log 
+2021/12/16-17:46:00.165 19255 Level-0 table #8: started
+2021/12/16-17:46:00.167 19255 Level-0 table #8: 573 bytes OK
+2021/12/16-17:46:00.168 19255 Delete type=0 #4
+2021/12/16-17:46:00.168 19255 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

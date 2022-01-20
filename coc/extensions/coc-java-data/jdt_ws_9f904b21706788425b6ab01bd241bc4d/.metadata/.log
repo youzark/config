@@ -1,0 +1,114 @@
+!SESSION 2021-08-14 09:14:41.326 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.11
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -data /home/hyx/.config/coc/extensions/coc-java-data/jdt_ws_9f904b21706788425b6ab01bd241bc4d
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.231
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.371
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.396
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.403
+!MESSAGE Initializing Java Language Server 1.3.0.202108101830
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.445
+!MESSAGE Installed reference:file:/home/hyx/.config/coc/extensions/node_modules/coc-java-dependency/server/com.microsoft.jdtls.ext.core.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.503
+!MESSAGE Started reference:file:/home/hyx/.config/coc/extensions/node_modules/coc-java-dependency/server/com.microsoft.jdtls.ext.core.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.507
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.507
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.507
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.507
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.507
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.507
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:42.549
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:43.060
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:43.151
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:43.822
+!MESSAGE Try to create an invisible project for the workspace /home/hyx/Computer
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:43.822
+!MESSAGE Creating the Java project Computer_ee69d9a4
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:43.840
+!MESSAGE Finished creating the Java project Computer_ee69d9a4
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:43.974
+!MESSAGE Successfully created a workspace invisible project Computer_ee69d9a4
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:43.991
+!MESSAGE Workspace initialized in 953ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.046
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.056
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.058
+!MESSAGE >> New configuration: {java={enabled=true, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, runtimes=[]}, trace={server=off}, import={gradle={enabled=true, wrapper={enabled=true}, offline={enabled=false}}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={updateSnapshots=false, downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, comments={enabled=true}, onType={enabled=true, fixComment={enabled=true}}}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar], resourceFilters=[node_modules, .git]}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, foldingRange={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}}, selectionRange={enabled=true}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.059
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.168
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.527
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.804
+!MESSAGE begin problem for /sudoku_application.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.804
+!MESSAGE 3 problems reported for /sudoku_application.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.808
+!MESSAGE Validated 1. Took 272 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.821
+!MESSAGE >> Updating classpath for project Computer_ee69d9a4
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.839
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.839
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.841
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.870
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:14:44.871
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-14 09:18:44.345
+!MESSAGE >> document/didClose

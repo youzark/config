@@ -1,0 +1,15 @@
+2021/05/10-23:16:38.462 6430 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_passport.jd.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/10-23:16:38.462 6430 Recovering log #4
+2021/05/10-23:16:38.463 6430 Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_passport.jd.com_0.indexeddb.leveldb/000004.log 
+2021/05/10-23:16:40.913 642f Level-0 table #8: started
+2021/05/10-23:16:40.916 642f Level-0 table #8: 742 bytes OK
+2021/05/10-23:16:40.918 642f Delete type=0 #4
+2021/05/10-23:16:40.918 642f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/10-23:16:40.918 642f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 85 : 1
+2021/05/10-23:16:40.918 642f Compacting 1@1 + 1@2 files
+2021/05/10-23:16:40.920 642f Generated table #9@1: 19 keys, 702 bytes
+2021/05/10-23:16:40.920 642f Compacted 1@1 + 1@2 files => 702 bytes
+2021/05/10-23:16:40.922 642f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/10-23:16:40.923 642f Delete type=2 #5
+2021/05/10-23:16:40.923 642f Delete type=2 #8
+2021/05/10-23:16:40.923 642f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 85 : 1 .. (end); will stop at (end)

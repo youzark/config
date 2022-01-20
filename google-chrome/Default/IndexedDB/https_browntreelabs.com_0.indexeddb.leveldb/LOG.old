@@ -1,0 +1,6 @@
+2021/08/16-00:20:59.933 205af Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_browntreelabs.com_0.indexeddb.leveldb since it was missing.
+2021/08/16-00:20:59.936 205af Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_browntreelabs.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/16-00:21:32.465 2052a Level-0 table #5: started
+2021/08/16-00:21:32.467 2052a Level-0 table #5: 2061 bytes OK
+2021/08/16-00:21:32.469 2052a Delete type=0 #3
+2021/08/16-00:21:32.470 2052a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

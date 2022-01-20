@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="_/java_tutorial/sudoku/src"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-11-openjdk-amd64/lib/jrt-fs.jar"/>
+	<classpathentry kind="lib" path="/home/hyx/lib/javafx-sdk-11.0.2/lib/javafx.web.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+
+###############################################################################
+# autoload 
+# layout
+exec sh ~/.config/login_script/startup_layout.sh
+# net work manager
+exec --no-startup-id nm-applet
+# screen lock utils
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+# wallpaper
+exec --no-startup-id nitrogen --set-auto /home/hyx/.config/i3/background/fate/resonance_of_fate_end_of_eternity-wallpaper-1920x1080.jpg --head=0
+# compton
+exec --no-startup-id compton -b --config /home/hyx/.config/compton/compton.conf
+###############################################################################

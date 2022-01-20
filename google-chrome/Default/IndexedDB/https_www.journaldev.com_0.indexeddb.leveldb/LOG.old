@@ -1,0 +1,6 @@
+2021/09/12-10:55:31.690 4d52 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.journaldev.com_0.indexeddb.leveldb since it was missing.
+2021/09/12-10:55:31.693 4d52 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.journaldev.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/12-10:55:37.430 4e89 Level-0 table #5: started
+2021/09/12-10:55:37.431 4e89 Level-0 table #5: 367 bytes OK
+2021/09/12-10:55:37.432 4e89 Delete type=0 #3
+2021/09/12-10:55:37.433 4e89 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/09/12-15:49:21.694 3516f Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.alphr.com_0.indexeddb.leveldb since it was missing.
+2021/09/12-15:49:21.697 3516f Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.alphr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/12-15:49:54.598 355f0 Level-0 table #5: started
+2021/09/12-15:49:54.600 355f0 Level-0 table #5: 1389 bytes OK
+2021/09/12-15:49:54.608 355f0 Delete type=0 #3
+2021/09/12-15:49:54.608 355f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

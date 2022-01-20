@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/libuv"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/libuv.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/libuv-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libuv-stamp/libuv-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libuv-stamp/libuv-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libuv-stamp/libuv-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libuv-stamp/libuv-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libuv-stamp/libuv-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libuv-stamp/libuv-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libuv-stamp/libuv-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libuv"
+		],
+		"name" : "libuv"
+	}
+}

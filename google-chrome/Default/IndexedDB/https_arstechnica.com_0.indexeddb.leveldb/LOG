@@ -1,0 +1,6 @@
+2021/08/25-21:18:32.341 cd56 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_arstechnica.com_0.indexeddb.leveldb since it was missing.
+2021/08/25-21:18:32.344 cd56 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_arstechnica.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/25-21:18:48.092 cb55 Level-0 table #5: started
+2021/08/25-21:18:48.094 cb55 Level-0 table #5: 1039 bytes OK
+2021/08/25-21:18:48.095 cb55 Delete type=0 #3
+2021/08/25-21:18:48.095 cb55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

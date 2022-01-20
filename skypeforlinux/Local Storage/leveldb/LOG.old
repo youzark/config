@@ -1,0 +1,16 @@
+2021/07/24-16:05:44.317 2239 Reusing MANIFEST /home/hyx/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/07/24-16:05:44.317 2239 Recovering log #220
+2021/07/24-16:05:44.318 2239 Level-0 table #223: started
+2021/07/24-16:05:44.320 2239 Level-0 table #223: 77999 bytes OK
+2021/07/24-16:05:44.321 2239 Delete type=0 #220
+2021/07/24-16:05:44.322 224b Compacting 4@0 + 1@1 files
+2021/07/24-16:05:44.327 224b Generated table #225@0: 14 keys, 78306 bytes
+2021/07/24-16:05:44.327 224b Compacted 4@0 + 1@1 files => 78306 bytes
+2021/07/24-16:05:44.328 224b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/24-16:05:44.328 224b Delete type=2 #219
+2021/07/24-16:05:44.328 224b Delete type=2 #217
+2021/07/24-16:05:44.328 224b Delete type=2 #221
+2021/07/24-16:05:44.328 224b Delete type=2 #215
+2021/07/24-16:05:44.328 224b Delete type=2 #223
+2021/07/24-16:06:06.609 224b Level-0 table #227: started
+2021/07/24-16:06:06.612 224b Level-0 table #227: 78937 bytes OK

@@ -1,0 +1,6 @@
+2021/06/23-16:51:01.997 43c5 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb since it was missing.
+2021/06/23-16:51:02.000 43c5 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/23-16:51:05.191 443c Level-0 table #5: started
+2021/06/23-16:51:05.192 443c Level-0 table #5: 1099 bytes OK
+2021/06/23-16:51:05.194 443c Delete type=0 #3
+2021/06/23-16:51:05.194 443c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

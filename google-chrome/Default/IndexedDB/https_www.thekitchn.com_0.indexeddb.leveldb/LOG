@@ -1,0 +1,6 @@
+2022/01/02-10:45:46.557 1917b Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.thekitchn.com_0.indexeddb.leveldb since it was missing.
+2022/01/02-10:45:46.559 1917b Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.thekitchn.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/02-10:47:40.300 19e47 Level-0 table #5: started
+2022/01/02-10:47:40.302 19e47 Level-0 table #5: 4192 bytes OK
+2022/01/02-10:47:40.304 19e47 Delete type=0 #3
+2022/01/02-10:47:40.304 19e47 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

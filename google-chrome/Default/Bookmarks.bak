@@ -1,0 +1,265 @@
+{
+   "checksum": "725854a3801c3e92553f721bc49ce20a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13225285631225293",
+            "guid": "f50dd3b5-7120-4c1c-b6cc-f0b09cd4f802",
+            "id": "12",
+            "name": "登入页面",
+            "type": "url",
+            "url": "https://jw.ustc.edu.cn/login"
+         }, {
+            "date_added": "13227694632202040",
+            "guid": "a6563b89-9016-47d0-9586-36f36c621bdd",
+            "id": "13",
+            "name": "欢迎，化雍翔 – Blackboard Learn",
+            "type": "url",
+            "url": "https://www.bb.ustc.edu.cn/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1"
+         }, {
+            "date_added": "13246858454221812",
+            "guid": "2815a37b-98c1-4010-810d-cef0046c6546",
+            "id": "14",
+            "name": "Development · Boards · staff / 2020fall-notice_board · GitLab",
+            "type": "url",
+            "url": "http://222.195.68.197/staff/2020-fall-notice_board/-/boards"
+         }, {
+            "date_added": "13242886439503797",
+            "guid": "a8edc3ea-5a25-4717-8606-fe8939f3f218",
+            "id": "15",
+            "name": "USTC评课社区",
+            "type": "url",
+            "url": "https://icourse.club/course/18277/"
+         }, {
+            "date_added": "13235626860399653",
+            "guid": "36137053-cf29-435c-bbad-859a01f271ad",
+            "id": "17",
+            "name": "首頁 — 雲翼網絡",
+            "type": "url",
+            "url": "https://www.cloud-wing.net/user#"
+         }, {
+            "date_added": "13227855398124043",
+            "guid": "c9f08d2f-3f0e-4c2e-a75a-419ebacfa980",
+            "id": "16",
+            "name": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
+            "type": "url",
+            "url": "https://www.jiumodiary.com/"
+         }, {
+            "date_added": "13235625747865749",
+            "guid": "6489e43d-645a-46d6-b4e0-b658db5fad9f",
+            "id": "18",
+            "name": "浅谈部分机场（SS/SSR提供商）的使用感受--完整版（联通）更新中",
+            "type": "url",
+            "url": "http://387099.blogspot.com/2018/03/ssssr.html"
+         }, {
+            "date_added": "13244618856423265",
+            "guid": "ebcf58ae-6107-4fff-bb8e-56357f8046e3",
+            "id": "19",
+            "name": "USTC-Course | :heart:中国科学技术大学课程资源",
+            "type": "url",
+            "url": "https://ustc-resource.github.io/USTC-Course/index.html"
+         }, {
+            "date_added": "13245563529406617",
+            "guid": "812b191d-b16a-42dc-a703-e5f46d164b2f",
+            "id": "20",
+            "name": "The Premier Online Debate Website | Debate.org",
+            "type": "url",
+            "url": "https://www.debate.org/"
+         }, {
+            "date_added": "13261662180923303",
+            "guid": "0dd8d564-06ec-4d6d-a98a-f1ac45a3d135",
+            "id": "21",
+            "name": "Solution_Manual_Artificial_Intelligence_A_Modern_Approach.pdf",
+            "type": "url",
+            "url": "http://www.learngroup.org/uploads/2015-04-01/Solution_Manual_Artificial_Intelligence_A_Modern_Approach.pdf"
+         }, {
+            "date_added": "13263359588250570",
+            "guid": "f0433307-1d10-48ae-9a0e-eb3c05f66fe7",
+            "id": "22",
+            "name": "list",
+            "type": "url",
+            "url": "http://staff.ustc.edu.cn/~linlixu/ai2021spring/ai2021spring.html"
+         }, {
+            "date_added": "13263717540169791",
+            "guid": "3926fe98-c863-4d29-a5a5-cd14412e41bd",
+            "id": "23",
+            "name": "YouGuoliang / ustc_ca2021_lab · GitLab",
+            "type": "url",
+            "url": "https://git.ustc.edu.cn/Colorful/ustc_ca2021_lab"
+         }, {
+            "date_added": "13264859145838517",
+            "guid": "05b63257-2d33-4949-9035-5d06f8985d2b",
+            "id": "5",
+            "name": "Settings – Customise profile",
+            "type": "url",
+            "url": "chrome://settings/manageProfile"
+         }, {
+            "date_added": "13265199895489315",
+            "guid": "bd598113-a7dd-49d3-8459-1297ead4e43f",
+            "id": "25",
+            "name": "欢迎访问并行计算课程教学主页",
+            "type": "url",
+            "url": "http://staff.ustc.edu.cn/~xuyun/pc.htm"
+         }, {
+            "date_added": "13265456867816675",
+            "guid": "a9132d68-cc41-487f-a862-6ebbcce6d508",
+            "id": "27",
+            "name": "并行计算实验",
+            "type": "url",
+            "url": "http://home.ustc.edu.cn/~ustcsd/paraComputing/"
+         }, {
+            "date_added": "13267873761898822",
+            "guid": "72e2bdb7-9e6f-4ee7-acb1-4da3a08451d4",
+            "id": "29",
+            "name": "Query “Sensitivity” types and effects on Differential Privacy Mechanism | by shaistha fathima | Becoming Human: Artificial Intelligence Magazine",
+            "type": "url",
+            "url": "https://becominghuman.ai/query-sensitivity-types-and-effects-on-differential-privacy-mechanism-c94fd14b9837"
+         }, {
+            "date_added": "13268911551093710",
+            "guid": "13c844e6-cd7d-41bd-b4d4-a02b7297e1fc",
+            "id": "31",
+            "name": "USTC-CS-Resources/CS/Artificial-Intelligence/hw/hw8 at master · USTC-CS-Course-Resource/USTC-CS-Resources",
+            "type": "url",
+            "url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/Artificial-Intelligence/hw/hw8"
+         }, {
+            "date_added": "13271514165433333",
+            "guid": "e99d81af-086a-4961-af47-074f705ed940",
+            "id": "33",
+            "name": "(52) Vimium - The Hacker's Browser - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=t67Sn0RGK54&t=5s"
+         }, {
+            "date_added": "13271783146945558",
+            "guid": "f69d0bcc-7b2f-42c5-a92a-7c8c4931c54b",
+            "id": "35",
+            "name": "github.com",
+            "type": "url",
+            "url": "https://github.com/ltzheng/data-privacy-ustc/tree/main/experiments/federated_learning"
+         }, {
+            "date_added": "13272560272432304",
+            "guid": "f4ca6380-07d5-474f-9db4-cebe287ee63c",
+            "id": "38",
+            "name": "vim based browser",
+            "type": "url",
+            "url": "https://github.com/qutebrowser/qutebrowser"
+         }, {
+            "date_added": "13273128245660940",
+            "guid": "0e1e5a7f-be1b-42d3-98e6-f1731e1c1693",
+            "id": "40",
+            "name": "Java - 五分鐘學會 Lombok 用法",
+            "type": "url",
+            "url": "https://kucw.github.io/blog/2020/3/java-lombok/"
+         }, {
+            "date_added": "13273288083438847",
+            "guid": "24ebc13a-071c-4101-ae0c-5b285fac901c",
+            "id": "42",
+            "name": "登錄 — 雲翼網絡",
+            "type": "url",
+            "url": "https://yypro.net/auth/login"
+         }, {
+            "date_added": "13273509271741328",
+            "guid": "52a9abbe-ed19-465d-81e9-c7fccb986d6e",
+            "id": "44",
+            "name": "skywind3000/asynctasks.vim: Modern Task System for Project Building, Testing and Deploying !!",
+            "type": "url",
+            "url": "https://github.com/skywind3000/asynctasks.vim#introduction"
+         }, {
+            "date_added": "13280392891104982",
+            "guid": "df1ca615-a411-42f7-8bd6-3906844d7d3a",
+            "id": "46",
+            "name": "用户中心 — 翼游",
+            "type": "url",
+            "url": "https://yiyo.mobi/user##"
+         }, {
+            "date_added": "13284556718087040",
+            "guid": "0458f424-cbd2-4762-a752-9e33f1d6e893",
+            "id": "48",
+            "name": "ImageNet Classification with Deep Convolutional Neural Networks",
+            "type": "url",
+            "url": "https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf"
+         }, {
+            "date_added": "13284556723002472",
+            "guid": "c97ec550-4233-4be1-b975-8a62323ba8e0",
+            "id": "49",
+            "name": "1307.0471.pdf",
+            "type": "url",
+            "url": "https://arxiv.org/pdf/1307.0471.pdf"
+         }, {
+            "date_added": "13284556727606919",
+            "guid": "741d6a99-aa74-4ebe-b245-aca73cc6f163",
+            "id": "50",
+            "name": "0810.3828.pdf",
+            "type": "url",
+            "url": "https://arxiv.org/pdf/0810.3828.pdf"
+         } ],
+         "date_added": "13264850685147158",
+         "date_modified": "13284556727606919",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13264850685147159",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13233221872954284",
+            "guid": "3367a151-087e-43af-94f5-6b3396e26ed6",
+            "id": "6",
+            "name": "传火女_百度搜索",
+            "type": "url",
+            "url": "https://www.baidu.com/s?tn=SE_baiduhomet2_isv1k3dg&rsv_idx=3&ie=utf-8&bs=%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E7%97%85%E4%BE%8B%E6%95%B0%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98&dsp=ipad&f=3&rsv_bp=1&wd=%E4%BC%A0%E7%81%AB%E5%A5%B3&rsv_pq=f82c45ad0006ef6b&rsv_enter=1&oq=chuan%E2%80%86huo%E2%80%86nv&inputT=1254&rsv_sug3=19&rsv_sug1=16&rsv_sug2=0&rsv_sug4=2332&rsv_sug=1"
+         }, {
+            "date_added": "13248950173170697",
+            "guid": "37545e32-6f52-4805-b4d7-c3e9cdc3e154",
+            "id": "7",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13250648143380473",
+            "guid": "65c05b3d-b9d3-4049-8d7a-08682d3bd82b",
+            "id": "8",
+            "name": "翼游",
+            "type": "url",
+            "url": "https://yiyo.mobi/"
+         }, {
+            "date_added": "13255788439395449",
+            "guid": "836cadaa-d0c8-438a-88cb-8d137ffec0e9",
+            "id": "9",
+            "name": "Lecture 1: Introduction and Probability Review | Video Lectures | Discrete Stochastic Processes | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+            "type": "url",
+            "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/video-lectures/lecture-1-introduction-and-probability-review/"
+         }, {
+            "date_added": "13261664386172370",
+            "guid": "73917ee9-6350-4874-a4b5-57592c2e063c",
+            "id": "10",
+            "name": "USTC-Course/计算方法 at master · USTC-Resource/USTC-Course · GitHub",
+            "type": "url",
+            "url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95"
+         }, {
+            "date_added": "13261665754493201",
+            "guid": "c98944a5-3bc5-4545-b2bb-1c69813c8d04",
+            "id": "11",
+            "name": "Solutions to Numerical Analysis (9780538733519), Pg. 28 :: Homework Help and Answers :: Slader",
+            "type": "url",
+            "url": "https://www.slader.com/textbook/9780538733519-numerical-analysis-9th-edition/28/"
+         } ],
+         "date_added": "13264850685147161",
+         "date_modified": "13261665754493201",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgmAKRDX0NQFACGAKRDX0NQFADIYChYIAhGw9Efn0NQFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgCkQ19DUBQAhgCkQ19DUBQAyGAoWCAIRsPRH59DUBQAYACEAAAAAAAAAACAASI7uw8niL3D698Pt4C8SACABKhhGUGtXaXBmai9aanI3VVVEU2M0elpRPT0S8wEILhLuAQocWW9KSUJVeXdTNUtJSTloU3F2MTdWaUZZcE9ZPRJmWjpBRHF0QVp3RHcyZGFBMnNlSUpuc2lzRVlMMHE5UDhPN2hlZkliUzFVeHFQWkJqYlpqM2ZVcjM4ZlVVdytVOUNrMFZIbVhSOGczdXpGVk1rQXhhUlZxQ2VWeWNUM2VJekpYUT09GAAgAygDMPX3jt+OmvUCOOHFjaPOL0C7tPCA2C9KHGRkY2wrUGVGS3RMSXlzL0QzTXp5aXVEU1F2ND1aJiIk/////wAAAAQ0cVl4WHAyT3BvNUczeWMvYkZ1d21tQnpSSkk9ZdKZzV4SsAIIIxKrAgocZ2FvQ25RQUtlRFYwUGRTNGtOQUF3SG9QaENRPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bUFwdDE2K2Q1aDZtaVBkWlAxQW9UR3hleTJ5UkJ3MmJ1TkR5WTgxWjkwNldUemplSHpiTVc2aW83WnY3WUNWbWNoQXRLOC9BVU80ckh4NEpzYTVEUXFPVEwwY0c0ZWpiOEpwTWhtbUM5UTJJWjFlNmlzLy9nVXFrQlljdlFOZFBEYXVWR013PT0YACADKAMw9feO346a9QI4wbvUma4vQLu08IDYL0ocQ3orSkQ1aENaSlhxdkZIMm9MQWNhYTRvTWdBPVoiIiD////pZm5xb2F5Q3JYZWlGM1NJNnFwZk05K2l4WnV3PWUo0OGpEq0CCA4SqAIKHDBUQXpEWTBFVEFuNzNONzBRREk2anpSNEx5az0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21XNVlWN3FqazlKSjFVQzVCbE1wWm51RG9aSSt1S0FYd3ZKaEM2WStLOHd1R1U0dlRRMFJUMGRER3pteGU5aVJOQ3F0eDZ3VmExZnA3dlFtR1VKQTA3Si9JZ0tYcnJuZ2tlTHAwSE5ENndpeGNsWHJFTk0wV2dJaWljK2pNakYrNGxpSERTQT09GAAgAygDMPbtwbqOmvUCOM350azRLkC7tPCA2C9KHFRtWXhJRk5ER1NXUEtQSmtGOGdnRXhDY2k0bz1aHyId9zg3T3gzNVl6cWpSNmpIMnpZVGJYOTdWRlJDdz1l0Rf3NxKsAggGEqcCChxtVDU4RnRDdG44K1pieXRGWm1MbXVHc0xsSnc9EqYBWjpBRHF0QVp6OFVQSFpwaFhQVnVwTWFBMk1mbndtQWp4N2s1MnVCT0lTcSs3bjBoMEJ1NzZWdk9obkJvQ0t4aTFRaTNaNjBpdFcwNWlUWndBYVpPY0VjWFFQSFY4SThlVGI1eXNNaUhrMW92UWVvV3lEMkljMUxZUjVKK0RaRXpnbzRQMWZSL1g0RnJjbmVIbUhZRUFlTlJXTjFUdGRUMEVxanc9PRgAIAIoAjD1947fjpr1Aji9ipvGni5A6vLDyeIvShxrS3pCTEJNUHhvandQVTBuZFFvbG9waXp0eWc9Wh4iHDhBOG1HUGFsRzhqWUZqUE51S1prV2ZTUksraz1l4JbtYxKwAggfEqsCChxDb3dISWM0TDd6NW5DT1VQaDkrVUR5UjRYNTQ9EqYBWjpBRHF0QVp6OFVQSFpwaFhQVnVwTWFBMk1mbndtQXB0MTYrZDVoNm1pUGRaUDFBb1RHNzBMNm1EbmxMdmI0cis3MGl0d21SZWNIM01sTzdFSi9Qc2RVa3NXRXYxZytFZkE0TWY0c0xmTlN1Zk9vT1JJZmJzUHR5amlrWWlPUnRlVXZjK08zWmxVRmFwTCtScXJpM1MvMkxmcjdxYVlUMmYxSXc9PRgAIAQoBDD1947fjpr1Ajj2lLDAoy9Au7TwgNgvShxKd0JDWUlMRnpNdDlnY01DcUxmUTVrK2xoM009WiIiIP///6YzWFNIRisrOUJ2b0s4ck5RQy9JSUpiTTVMVDQ9ZSjQ4akSrAIICBKnAgocdFJJYkxkOUtFdFp0V3BlZ09VK0dCOWR5UTNZPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabnV1N3lYaVVGVXdUN1VHQmVkMitlWUYzRStXV3VIemhqZjdXRTRDdFRXZklYS1IwWkc4NnhpUnE2V21BTEtMRFR3NnZCS25LaTQvVURmVUlmNm95cHVWK0hMYzZyem5sdFhjQnVIZEJqSGljKzJBVGd3PT0YACABKAEw9feO346a9QI4lJzau98uQLu08IDYL0ocb2p4SmtYZnJtOUZ4YitSMkM2RklVL1lrL0FnPVoeIhxzMFRPb2t2a3RvYzFxNjZuTjArbm9iWjhzR009ZdKZzV4SqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6ZmNoRmpYb0FPaWh2T1BnbWJRL1FRWHQ5MmRmQnRHdmNvaytMOWxOc3N5S1JGNHQwQTdJVzlzL09IdEVuMDUrNUlKc1I5GAAgACgAMPS6gt62t/ACOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3T0YzVnl4aythOWttWG1TVUl0WWdwcHhNeDR2OEREeTZqcUpsMmp2anVzSnRRK3JXaDV2SkFGMEI2YjlWT1h6VmJjaXZIVjVoSG9aOW1Ba1FvTWVsc3FHTUVmQT09GAAgACgAMPS6gt62t/ACOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAZQAAAAASsAIIIRKrAgocOXd0b2djeDRLRUFSckdBWUgvZm5IZDRoZUlvPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bUFwdDE2K2Q1aDZtaVBkWlAxQW9UR3g3eXVxRzBmSUFiVTZ1NGNmV2RPRHlsdEoxTkE0LzhoZk1ydnZqQ2ZNcHZJMWoxTFlqQ0xNZUxoei9qMzcvbEJlSTAydFlQT0pWbUpYbHpTS3JRYkw5dmxsdzdzcmUybG5kelJNaHU3T2ZPVW5aV013PT0YACADKAMw9feO346a9QI4uZGzma0vQLu08IDYL0ocdC9CY0t3L2FnM1hhaXUwdWMrOFpvS3liTzh3PVoiIiD////TL09iWXcva3RTbEJpaXZsVVRjVlo2TFJXQjBVPWU4+TkzEq8CCBsSqgIKHEZSZFlSOUJYV2hoZXhIcFlWVzVOOXY5R3h1Zz0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21XNVlWN3FqazlKSjFVQzVCbE1wWm5raGwyUWpSSm5DSE05RGJEaW1VTGNVYWd6Q01QM3hPN0tncHJ0U0hKQzhNNGpJZkQ4QWQxbnNwNjI4SXNZOEgyZ1owdFlUR1ZTeDczSGVYcUFBVmhqOVhsZFBHRDQ5MUkxd0RxRThwL1p5ZXVoM1l0dz09GAAgASgBMPX3jt+OmvUCOOiDh9GWL0C7tPCA2C9KHFFyWFZBa0VYNmh2OTd0MFRrYllWWm1EQTRGST1aISIf////SWRMNkE4bVQ2enVQVlIzT3ZNeUpLSjk5VFhvPWUAAAAAEq8CCBMSqgIKHHcxQitRaTN6L0VUTkkxTk5ia05sNlhYclRUVT0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21XNVlWN3FqazlKSjFVQzVCbE1wWm51ZzRGbzA0YVhpVEQrN3F2VFBudjRaYThYSjZZTkxvc0VPNFBCUGtoR21qK0N3VVI0OUpvUG0zMlQrZUxydmZ1dVVaWkRQTXFlaW95VjdYMDBPanhGSWs2Q2NGVWNPMkwyaFNtbHdMQjZhUSswaFVRQT09GAAgASgBMPbtwbqOmvUCOOff24DJLkC7tPCA2C9KHE5HSFJJSWg2cWZyWVRFWnlMZkdIeTJLSGJ3WT1aISIf//+4WE1BVGdIc01RdDZnaERHNkpmaWtIZHpBcDZFPWUAAAAAErACCCYSqwIKHERoQ2hCeUFaRHRVaVc1WEIyZzBVc0JPQXBYMD0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21BcHQxNitkNWg2bWlQZFpQMUFvVEczZ29JbkptaG9IUlB3cEQydGpZZ3ZQWGVuRUZ0NTZkR0FRYU9KeExNZ1o2MG1OdlBnNmo2Ny9kSlFLZmlHSVRvajNUVlRXRjdpTUJrSTRBL3JNbzdRQmNMTUFXRVVnUllqK1ZPSWYxeVlXcTMycHNCdz09GAAgBCgEMPX3jt+OmvUCOLC4nIyxL0C7tPCA2C9KHGJKYzVvbE02ZlJvWHB2RSszRkdXdlhBSm9MYz1aIiIg////9Fd3by9JZlQ2T3R1YmxYd1RoaFY0WjI0QUV1OD1lKNDhqRKsAggHEqcCChxiMFJyVzdQdGtCa2dNVmdZb2cxckpLaDhuNlU9EqYBWjpBRHF0QVp6OFVQSFpwaFhQVnVwTWFBMk1mbndtQWp4N2s1MnVCT0lTcSs3bjBoMEJ1K1AybnJMOUZTVkxrcTVYaTZuUEdVZ2FRUEpxSWIvcDRjYXphY0NaNlR2dHBDbDNDdWZhMW1zeWlvWE4renRHOXlyMkVIdERQQk0zYysvdDZLcGRSVkZSOWlBMEhSWGFVTE9hekVHSXpQVnRXZUF2MGc9PRgAIAEoATD1947fjpr1Ajjzq4aS2S5Au7TwgNgvShw3TU5GRUZyZFlSL29oVXFuVXp1ZkNkekdRdlE9Wh4iHGdLTHNTdmdzNkUxN1M1VHUrUE5ic3VEVVhQRT1lAAAAABKvAggVEqoCChxSMlpsVER6NGsyeGZlWFk4WVRudkRWZVhFYU09EqYBWjpBRHF0QVp6OFVQSFpwaFhQVnVwTWFBMk1mbndtVzVZVjdxams5SkoxVUM1QmxNcFpucjQxTFRGRDd0N1FnWHFObDQyNkJ5MGh4b045cUtQQlpiU0VHcXUzN1VuMTArT1RKbVpzSWdVNlUvd1pkeEcvMVdiV1lVN0NLNTllb2k0R01ackNGS1gvbTJzOUFlT3dPM0VETVluZHlJM2lwVS82ZFE9PRgAIAEoATD27cG6jpr1Aji+3M2/iC9Au7TwgNgvShw2Zy8rcjJRN1hObE01c1RnSHJQaWxQN0hQbDA9WiEiH///7kFnSG1uT1Vnc1liaVdXTDUzYmtXdWF6UGF5bz1lAAAAABKtAggKEqgCChxvYUp5TUZ2LzRudDhtbExaQnNWZGlNbjdBOW89EqYBWjpBRHF0QVp6OFVQSFpwaFhQVnVwTWFBMk1mbndtVzVZVjdxams5SkoxVUM1QmxNcFpubSs3VVZHM3N0YkY2U0tVUVRiNVBSejAwSG40M0xGYTZNcG5vbWdvWVdZUDVzdFRYZVI0QzRPVExtVFl0Z3BQUStTeElPNHB1OXdSQ3dMdjFnVTNJMkxVQVErdThxajQzVENvWXczc2xnUWFFakFDMEE9PRgAIAEoATD1947fjpr1Ajj8qNTAiC9Au7TwgNgvShxGcXZqM2c2WHBiL3Z0d2Z6VU5XTm1yZys1ZTA9Wh8iHd1RRjd0cVZPSkVPR0NkZnQ5NVJha3cxNDQyb3M9ZSjQ4akSrQIIDRKoAgocTlp2QzRlSnhmSWhnZXJlNmM2M1lOdVlXZDFvPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabmpMNEs5cGMwRERSSHc1aFVGOTdxNVJ6RW1aN1JIUGJXOHM1MzMrTS9BRUlibWlyK1d2SHFiTnE4dk42eVRnWHh0K0dNM0ZYS2pwUmd3bzFQejhKTE9PTEd5ZThtVGtHQjNRWGZQb0dLWlpUMktDRGRBPT0YACADKAMw9u3Buo6a9QI4vYrP+okuQLu08IDYL0ocMkcza2dGcHQzWVpydXlZVGlSdU1uQnhpbDRRPVofIh31NWhnbmNuRW5NSUFkUkJEblJMZFArcGgyYkRRPWWbPxrMEqwCCAkSpwIKHFA1dDFQN2dtcFBsMEFRQWZISUVVS0pBZDBXRT0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21XNVlWN3FqazlKSjFVQzVCbE1wWm5vNVhWL0lkWDVmNXJVSGJRM1Z2UEVyS0JxZGZrQ2FpZ1FlN0kybXUwdndUTmROYnRuQWFjZjljck1BcjFkT1VpdFhTYUVrZFFEdjRJeThSdGdMaFFiMkpMRDNPVDJvRXRRb29welRuaWNIMm4zTjlpdz09GAAgASgBMPX3jt+OmvUCOOP+5M7yLkC7tPCA2C9KHDlNNWxFZkZZelBDSnlvMzRSSmQwU0xMOGpvMD1aHiIcdk1jc3Q4cnZVZDNBc285SHYwTlZTY2ZpOG9rPWWoulyHEq4CCBESqQIKHHBkQVFFOWtNUDlNTWRBSU9BVWQ1MFRPa2xLUT0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21XNVlWN3FqazlKSjFVQzVCbE1wWm5oQVkzMjZRN1JWdFk1U2xrRzNDYXNWUWc3Y3M1cVpPZFEwalhVNEVkdU5meVlvSWJqK0NzNlNJcXRWZ1RLTVpsQmhYL1JmTXBTQlM1d3dVekZqVzE0ZzJsanlFMm1pSVlZRVVPU3FTUEsza09MTWdqZz09GAAgBCgEMPbtwbqOmvUCOPDu/8CnLkC7tPCA2C9KHGN4QkhwRkQ5ODgvWjcrNlloMjAyTFdXNUtHUT1aICIe/0JjVzJsdVlNMUQzOGtQRXB0T2Fic3UxVVBxaXM9ZWOrnCUSrQIIDxKoAgocbnRpeEFFSGQyb0xSWWZRMGU0Y0NSWE1UV3NnPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabm05ZmdWT1lQam9tUkF0T09HTkhVNjNZczdLMUx6M3FRcmtQWnhHZ25kWmdSaDd5VThqMGIrTEZablZ0YTZSSDNlNmFwcEpMUUdjWE82UmptOFBNRE9nU0FOY3YrOThVaURnOTBkMzFFTkNuUHJPZk9BPT0YACADKAMw9u3Buo6a9QI40LTRxsIuQLu08IDYL0occkdHYldxUFhEMmxTUEoxN1B4ZmtQQk1Kb0p3PVofIh3/Njl0OUZidTBrZlk5K3paUFE2Nm9TTlh1SEhvPWWLnJMtEq8CCAUSqgIKHE1qc05XcVhsM1AwVVlNZzNpbkZKaS9Od3V5az0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21BcHQxNitkNWg2bWlQZFpQMUFvVEc2QzB2dHJCbCtqK3gxV3BMNkIwU1lvdlRVeHlEWlkzbUJUSFcrcnY0UUVIOWN0RCszNXJrZ2tFUE1wNG5SZk5GOW5MR3JDSGJJRHM0VGw1WHNJVkp4a05wbzBTeCtIL0d4emg1aGt2Y01PeFp5TEFuQT09GAAgBigGMPbtwbqOmvUCOP+ZiLSUL0CW08PJ4i9KHHAwQlU3blBWU296L2xqMXB0WndGS1FsZzRjMD1aISIf///9VVZUZld6Y0ZJR0g3OUFGekJsMXhTOFZnbmhZPWWbH8O9Eq4CCBISqQIKHDJqMXdwM0c5YlU5dFdiUDVMQVJ5MTBFK3gzWT0SpgFaOkFEcXRBWno4VVBIWnBoWFBWdXBNYUEyTWZud21XNVlWN3FqazlKSjFVQzVCbE1wWm50WTZFWmJ6QW11cytZb2N0V3lWTW9aZEJidHF0THNxV3VlNTZ5TGNCK3ZQc0UyZkV2Y2N6ZWI2bkwwREp1WWQvZldJVTF5M1NhT2V1Y3RNNWhuT0xpSE9QczZ4c25EZHg0QXZqVWNDb1E0R09ST2pJUT09GAAgASgBMPbtwbqOmvUCOJ77u8CnLkC7tPCA2C9KHEtJR3dsajFMNDZnZHcrM0l6ZjdFL3lVZUptcz1aICIe//1VbmczTHF6Q2plRS9lU216OXllYWZSdTBmSXc9ZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5b1UydUJWNk85cWY2RkxXK3BNbHpzeGNabWRuZlIyYmswVVE4cmtzamQrWTVlS2RpU2VJVkJheG9ieVpCZ3VsWFBQeU01ejhwamhDQWZXOEpiWG9sSHJYZUlJZz09GAAgACgAMPS6gt62t/ACOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAASrwIIFBKqAgocaW9vMFNFbk9RWUJ4L1BnTnhzdlBxcW91STlNPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabmdrYkxoN21mVCtOd2doV0JhQmxHN1d6WlltNm40Y2I3Rm9WVE9tbUd0c0dEQlh3THJKaHA3ZTBNcU5ocjJ5K0lmeFBjZHBUbFNvcmQ4eGxnMkg0ZGl0SE9oZmsrMTROTU81a0RPbDZtVXFzVHgyZDJnPT0YACADKAMw9u3Buo6a9QI4voGWw8wuQLu08IDYL0ocT2xnbnhyVUhXUzJOaVNuNUg5Q3dLV3VBcDRBPVohIh///9xsazZWdUxmamNIdnlwUzFWYi9uSk5sWTF3VU09Zc0nZEMSrwIIHRKqAgocem5vVXFSU2RWa293QXJZQXNPaG1zU2VlQWhJPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bUFwdDE2K2Q1aDZtaVBkWlAxQW9URzV6QVRINExFWENoWnFxOXJoQnRKSVA1L3pFUkRla0xTckJaZ2xmcW40Wm1KY0hUNkhFbVV5Y2RKbVU5aEFEL2hMckd3WEpFRWcyeGx1QXRjZ2xzZUN2NitrV3grek9tNEFSNG45T3VlQllxcTRuSU93PT0YACAEKAQw9feO346a9QI468TC0Z8vQLu08IDYL0ocS0U1T0h5TFFWZjczWUUyd29aQ3JpdmkvWG1rPVohIh////9ML0RBZTJJNlJjR0l2L29jMSt3U2NqS3ZLWWs9ZdUUF18SrwIIGRKqAgocUGtRWmNmTEJ6SGF1NG5oNjc5aVV5MEhvRVRJPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabmxTNTNVTXZUNWM1WHJId3BkYnN2U0djd1ZkSndRU1VVT3MvNm9MQXp5OUowUzd5WnBTMGFYK0toazUzUG9zcmdOT0NHODdKRGdWZG1oaU1TVG5aZ1JHdlBPdFVSQUp0OTFISXRLM09qcWdVZzNGcXVBPT0YACABKAEw9feO346a9QI4wdfC1pUvQLu08IDYL0ocWUtaVW1aL0gxVFJjdFJHRzU0dGNpMmQxeHRBPVohIh////40ODdLVDFhazA5dGd4SVdabTlKeWNOU3dDNU09ZQAAAAASrQIIDBKoAgocWUhvMkRhSkFVY3dWTnl0Q2J6TmdHMUtsazlvPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabmpzVnFsYWloTnQ2a0dqeXR3cVBCbFovTEVkaFduRCtFNWhEM29oaDR6dHlvd1BYQTh6cjlQWW50QmRINWFyekZyN3ZGY2JXZlU1MVNCMzcvWXI5MTR3OXFKRXhybHJsVTBpb0xGWDhycmd1empkK2N3PT0YACAQKBAwgvKQiaOa9QI4+an1/YAuQI7ClcziL0ocSXU2Umt6OVh3NWhYYnIvVDBUS3FtRVlCdkJzPVofIh3WZytDckRzZWZSeTF4WlpsTzVHcGlDR3VBMFNFPWUAAAAAEu8BCCgS6gEKHGVESVRLWFI3MjY4Wml1Z1FpdkdxbXN2ZFVEaz0SZlo6QURxdEFad0R3MmRhQTJzZUlKbnNpc0VZTDBxOVJhdXBIb2d4Y0ZKdFgybi8wMUVkUk5ENlJMTDVxazF2Rnd6QnRrYXVDclRicmdTaTN0QnhVWUdWNWRRdytNYko1bFJJd1E9PRgAIAMoAzD1947fjpr1Ajid44absy9Au7TwgNgvShxYOUtSdjNUREpFODZuYkRZaUI4UURaTFRZUkU9WiIiIP////pEelFpa01hS1JmeHR2ZzRwS3hUTjJVQ20yVzA9ZRoxuUMSrgIIEBKpAgoceWN4OEpQM0VnbDNoOWxIeEo0SGpPclcyOG5VPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabmkyb0x2Qm5XVWJqUFdLY2c2RnpiM2M4c2pCcTJYbmZadlE2OHlJYUV4REdadGFqcWMzWjdkRFZPZkxVQXZkb1NLeTZLVjJPVUs4RnZBM3VYMG9VVkUzU3prc1YrMDgxemNyWVk1Z1BndnJMR1phMHpBPT0YACADKAMw9u3Buo6a9QI4nrqjx4ouQLu08IDYL0ocblIzYktNOHQ3RUxiRGtIS2NsR1NuYTJvbE9RPVogIh7/TlMvM0xWbFJDN0dZWEwrWXkzSHZPa3JWNjNhUT1lReyd3RKtAggLEqgCChxRcy9OdWlFZVBJYmpJLy9oUi83bkFONU83bXc9EqYBWjpBRHF0QVp6OFVQSFpwaFhQVnVwTWFBMk1mbndtVzVZVjdxams5SkoxVUM1QmxNcFpub2JnQXhsbk9LNDdzZXNUK2lmaW1VeVY1ZDZxYmRkQmpETEJ3T0IxUk9FcG52dE13U0dqc0Vua1FCaTlUaENmRHF1OURQVGtoMXIzR0ZPeXVNTUQ1Sm81Z3B1TzRmaCsyTnU4MWlHcjl1Q1pER1ZSbHc9PRgAIAEoATD1947fjpr1Ajj96qfBiC9Au7TwgNgvShxkbldaVXdlcHJGN3czMFFPS2E1VUVWR0lYRTg9Wh8iHe5RcmtzU2NVc0tCMzE0Q2FmMUdhWkhPaFg3SEU9ZTqxXGwSrwIIFhKqAgocbG45ZEN1RjN2OGNJMnNMV0Jwb2tsczNMcEVJPRKmAVo6QURxdEFaejhVUEhacGhYUFZ1cE1hQTJNZm53bVc1WVY3cWprOUpKMVVDNUJsTXBabm5jOGYycHJGckk5YXNOamlkb21DUWdRNHZ4b2hNZ0NqVnBPaHd5V0F3bkF0bDQzL0R4RzE0NFcwUEtmN2FBUnE2d1YydXJmUHBvRldCMXNSb2xHRktuTjRhWnA1dkZCaktpdTFLeHlSSDJ5RU5IYVF3PT0YACABKAEw9u3Buo6a9QI4mp//6I4vQLu08IDYL0ocOEwweWQ0SGd0MC96anp4dUhoOGVkRTY2ZDY4PVohIh////dTWDdmRU42UUkwK0ZzbzB1MXNIYTY2L3dKOUU9ZQAAAAAS7wEILBLqAQocS3M3d2UyTVJTN0FVNVNnNnViVzIzeFpVM3NnPRJmWjpBRHF0QVp3RHcyZGFBMnNlSUpuc2lzRVlMMHE5Uk9RckwrUGtEcW5ucFdiWi9lYm1zK3BCMUpJYUtYSG56WVh4NUo1eE96aXo3VWYyNHFnR1J0TnJHVVdibFY1VUt2aGdxdz09GAAgAygDMPX3jt+OmvUCOL3h3tC0L0C7tPCA2C9KHGZhN0l5Y0pTaVc5YUwyeE1QekxpR25UMWJMRT1aIiIg/////npsVFcwVnFHOFBFV0taMUlqL0hUUENNbjkrbz1lKNDhqRKvAggXEqoCChwwNzdEemJFaU1STWprejlua2ZlM2h1VExNbVE9EqYBWjpBRHF0QVp6OFVQSFpwaFhQVnVwTWFBMk1mbndtVzVZVjdxams5SkoxVUM1QmxNcFpublpQR0dQUUdvRjRjOGNnMUdSR1hGVlVVcytESUl1QU5zZkVOSlJwSE1kci91eFhOa0E3UkR5RGRNQkxzSVlsQ0RoY0FCZGFXekdlUngvSDZpemNFb1ZRYXA5QXkxOHBiQWJ1c3hNZjRHcTZ5NXZaNkE9PRgAIAMoAzD27cG6jpr1AjjJ8taTkC9Au7TwgNgvShxpZ1RESDNudndqSTdTSDB5eVpzcUJKNThMRDQ9WiEiH///+3lXOG5nWnhaNFNMZXFRVXlxa2ZOWHVsT29EQT1l8IHx+xLzAQgxEu4BChxBRDE1S1ZGaHo4UXRMdzc2UFQvaEhzNVRtbFk9EmZaOkFEcXRBWndEdzJkYUEyc2VJSm5zaXNFWUwwcTlIYzRLZ1E0UkpRTUNNdktDbWFNVm1jSjNEQTY3OFhYNlNvWFJjS3hYRzNuYmpWT3VnRWVyZDNzK3RUUC9OM3FyYUxmRHV3PT0YACADKAMw9feO346a9QI4utbJ5N0vQOnLs/3dL0occUM0VVZWb3RrbmZGTjZwUC81dCsrS09YVy9vPVomIiT/////AAAABHlvQ2xOVjIvR3JzbWZuVGQ1dThrRFhNdmNpcz1lKBm1shLzAQgwEu4BChxndVB3NW5ZdDY0ZnlBT2JUY0kvTG82Q2xXWFE9EmZaOkFEcXRBWndEdzJkYUEyc2VJSm5zaXNFWUwwcTkyUEJERlUxaUpWVC9EOFhQTlJKMkNNKytONFFkTjgvZFhRRFRzeDJ3SmVIUmEwZ0VGMDByaVV4ZWgyZlRwZjFXeGEzTE9RPT0YACACKAIw9feO346a9QI4h7DJ5N0vQJ3/3YLeL0oca2JrWXp0WXFTTm0vWXhtRk1QUmdURTFqQXc0PVomIiT/////AAAABFpKTys5cUtjN2FvTXdUaE9QUkVwNnpmd0E1WT1lAAAAABLvAQgqEuoBChxCY0wreGVxSUtjeExPd0NPeU9tYVExK0t5NzA9EmZaOkFEcXRBWndEdzJkYUEyc2VJSm5zaXNFWUwwcTlpUGJHRlFZT2phRnJXanZyemJNUlNJWHdTcUNiVXhEL29DWTJsZ0dUbGFremczSVF5eU5oaVNldjlXMFdabzlpU0V1bmhRPT0YACADKAMw9feO346a9QI477+i57MvQLu08IDYL0ocZE05WjdBbVJWOTBDNk9mNzBDT29xZzd1OUpnPVoiIiD////9TTY2bE9Qa2V2RGxIOTFzRkwrUVFUL0w0Q0JrPWVjq5wlEvQBCDIS7wEKHDhHY0lENlJKYVVUdWYwZk5CQnVYRVg5cUlDWT0SZlo6QURxdEFad0R3MmRhQTJzZUlKbnNpc0VZTDBxOVZIQ01ZeGhZUXQ0Q2JyaGRndGVqZCtyajlqclRnVnZZczYxdmJ5SzZtakVTRDdpcmNKMVdNZWp6U3pNZnZQUEJDNkx4a2c9PRgAIAMoAzD1947fjpr1Aji3+snk3S9A6cuz/d0vShwrSVFKQlJkUXlaSEw4ZkJkaS9iK3dLcEI3MWs9WiciJf////8AAAAEvGVIS0tPSnlPWEovazYzK0Y2c0FQbmd0QU9tUT1lKBm1siCy8MPJ4i8wAQ==",
+   "version": 1
+}

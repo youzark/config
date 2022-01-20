@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/treesitter-c"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/treesitter-c.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/treesitter-c-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"treesitter-c"
+		],
+		"name" : "treesitter-c"
+	}
+}

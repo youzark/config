@@ -1,0 +1,59 @@
+
+###############################################################################
+#settings
+# Font for title
+font pango:Hack Nerd Font Mono 17
+# multi-monitor setting
+workspace 1 output $mainscreen 
+workspace 2 output $sidescreen
+workspace 3 output $sidescreen
+workspace 4 output $sidescreen
+
+# assign [class="Tilda"] 1
+# Hide titlebar
+new_window pixel
+# bar
+bar {
+		position top
+		i3bar_command i3bar --transparency
+		colors {
+			separator  $sepcolor
+			background $bgcolor
+		}
+        # status_command i3status -c /home/hyx/.config/i3status/i3status.conf | i3status-taskwarrior
+		status_command i3blocks -c /home/hyx/.config/i3blocks/i3blocks.conf
+}
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym j resize grow width 1 px or 1 ppt
+        bindsym k resize shrink height 1 px or 1 ppt
+        bindsym l resize grow height 1 px or 1 ppt
+        bindsym semicolon shrink grow width 1 px or 1 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize grow width 1 px or 1 ppt
+        bindsym Down resize shrink height 1 px or 1 ppt
+        bindsym Up resize grow height 1 px or 1 ppt
+        bindsym Right resize shrink width 1 px or 1 ppt
+
+        # back to normal: Enter or Escape or $mod+r
+        bindsym Return mode "default"
+        bindsym Caps_Lock mode "default"
+        bindsym $mod+r mode "default"
+}
+
+################################################
+# Window Color
+# 						border 				background 				text 				indicator
+client.focused 			$bgcolor 			$bgcolor 				$textcolor 			$bgcolor
+client.unfocused 		$ibgcolor 			$ibgcolor 				$textcolor 			$ibgcolor
+client.focused_inactive	$bgcolor 			$bgcolor 				$textcolor 			$bgcolor
+client.urgent 			$ubgcolor 			$ubgcolor 				$textcolor 			$ubgcolor
+################################################
+###############################################################################

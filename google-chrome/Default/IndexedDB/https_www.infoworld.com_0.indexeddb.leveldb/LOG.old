@@ -1,0 +1,6 @@
+2021/09/08-20:45:32.907 36f8e Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.infoworld.com_0.indexeddb.leveldb since it was missing.
+2021/09/08-20:45:32.911 36f8e Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.infoworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/08-20:46:11.358 36f8e Level-0 table #5: started
+2021/09/08-20:46:11.359 36f8e Level-0 table #5: 11058 bytes OK
+2021/09/08-20:46:11.360 36f8e Delete type=0 #3
+2021/09/08-20:46:11.360 36f8e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,67 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/luv-static"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/luv-static.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/luv-static-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/luv-static-stamp/luv-static-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/luv-static-stamp/luv-static-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/luv-static-stamp/luv-static-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/luv-static-stamp/luv-static-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/luv-static-stamp/luv-static-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/luv-static-stamp/luv-static-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/luv-static-stamp/luv-static-build.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/lua-compat-5.3-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"luv-static"
+		],
+		"name" : "luv-static"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ tree-sitter
+# Source files and their labels
+/home/hyx/neovim/.deps/CMakeFiles/tree-sitter
+/home/hyx/neovim/.deps/CMakeFiles/tree-sitter.rule
+/home/hyx/neovim/.deps/CMakeFiles/tree-sitter-complete.rule
+/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-install.rule
+/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-mkdir.rule
+/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-download.rule
+/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-update.rule
+/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-patch.rule
+/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-configure.rule
+/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-build.rule

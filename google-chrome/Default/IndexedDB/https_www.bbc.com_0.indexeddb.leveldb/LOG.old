@@ -1,0 +1,6 @@
+2021/09/08-12:53:01.223 d3423 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb since it was missing.
+2021/09/08-12:53:01.226 d3423 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/08-13:08:42.962 d6f0f Level-0 table #5: started
+2021/09/08-13:08:42.964 d6f0f Level-0 table #5: 149190 bytes OK
+2021/09/08-13:08:42.965 d6f0f Delete type=0 #3
+2021/09/08-13:08:42.965 d6f0f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

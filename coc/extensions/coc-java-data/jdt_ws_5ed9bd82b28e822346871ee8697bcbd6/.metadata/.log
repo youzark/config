@@ -1,0 +1,104 @@
+!SESSION 2021-08-13 12:48:17.448 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.11
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -data /home/hyx/.config/coc/extensions/coc-java-data/jdt_ws_5ed9bd82b28e822346871ee8697bcbd6
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.209
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.334
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.356
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.362
+!MESSAGE Initializing Java Language Server 1.3.0.202108101830
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.400
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.400
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.401
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.401
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.401
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.401
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.432
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.436
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.473
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-08-13 12:48:18.992
+!MESSAGE Failed to read package name from file:/home/hyx/bin/test.java
+!STACK 0
+java.io.FileNotFoundException: /home/hyx/bin/test.java (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:130)
+	at com.google.common.io.Files$FileByteSource.read(Files.java:154)
+	at com.google.common.io.ByteSource$AsCharSource.read(ByteSource.java:472)
+	at com.google.common.io.Files.toString(Files.java:254)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getPackageName(JDTUtils.java:297)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.getPackageName(InvisibleProjectImporter.java:345)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.getPackageName(InvisibleProjectImporter.java:323)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.getPackageName(InvisibleProjectImporter.java:313)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.loadInvisibleProject(InvisibleProjectImporter.java:113)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.importToWorkspace(InvisibleProjectImporter.java:94)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:113)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:102)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:203)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.994
+!MESSAGE Try to create an invisible project for the workspace /home/hyx/bin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:18.994
+!MESSAGE Creating the Java project bin_60b368fe
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.001
+!MESSAGE Finished creating the Java project bin_60b368fe
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.351
+!MESSAGE Successfully created a workspace invisible project bin_60b368fe
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.367
+!MESSAGE Workspace initialized in 953ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.461
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.467
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.470
+!MESSAGE >> New configuration: {java={enabled=true, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, runtimes=[]}, trace={server=off}, import={gradle={enabled=true, wrapper={enabled=true}, offline={enabled=false}}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={updateSnapshots=false, downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, comments={enabled=true}, onType={enabled=true, fixComment={enabled=true}}}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar], resourceFilters=[node_modules, .git]}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, foldingRange={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}}, selectionRange={enabled=true}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.471
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:19.504
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:20.368
+!MESSAGE >> Updating classpath for project bin_60b368fe
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-13 12:48:21.829
+!MESSAGE >> document/didClose

@@ -1,0 +1,6 @@
+2021/10/28-21:09:33.110 f5c07 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.juksy.com_0.indexeddb.leveldb since it was missing.
+2021/10/28-21:09:33.113 f5c07 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.juksy.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/28-21:10:57.795 f5c07 Level-0 table #5: started
+2021/10/28-21:10:57.796 f5c07 Level-0 table #5: 2209 bytes OK
+2021/10/28-21:10:57.797 f5c07 Delete type=0 #3
+2021/10/28-21:10:57.797 f5c07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

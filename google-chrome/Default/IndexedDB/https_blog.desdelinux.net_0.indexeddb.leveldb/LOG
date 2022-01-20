@@ -1,0 +1,6 @@
+2021/05/27-13:45:53.987 9695 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb since it was missing.
+2021/05/27-13:45:53.991 9695 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/27-13:46:32.927 95bf Level-0 table #5: started
+2021/05/27-13:46:32.928 95bf Level-0 table #5: 5870 bytes OK
+2021/05/27-13:46:32.930 95bf Delete type=0 #3
+2021/05/27-13:46:32.930 95bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2022/01/19-07:55:38.705 fa6 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/19-07:55:38.705 fa6 Recovering log #147
+2022/01/19-07:55:38.709 fa6 Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000147.log 
+2022/01/19-08:11:29.786 4165 Level-0 table #152: started
+2022/01/19-08:11:29.791 4165 Level-0 table #152: 37609 bytes OK
+2022/01/19-08:11:29.794 4165 Delete type=0 #147
+2022/01/19-08:11:29.795 4165 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/19-08:11:29.795 4165 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00A\xcb\x9f\xb9A' @ 76837 : 1
+2022/01/19-08:11:29.795 4165 Compacting 1@1 + 1@2 files
+2022/01/19-08:11:29.799 4165 Generated table #153@1: 53 keys, 2667 bytes
+2022/01/19-08:11:29.799 4165 Compacted 1@1 + 1@2 files => 2667 bytes
+2022/01/19-08:11:29.801 4165 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/19-08:11:29.802 4165 Delete type=2 #149
+2022/01/19-08:11:29.802 4165 Delete type=2 #152
+2022/01/19-08:11:29.802 4165 Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00A\xcb\x9f\xb9A' @ 76837 : 1 .. (end); will stop at (end)

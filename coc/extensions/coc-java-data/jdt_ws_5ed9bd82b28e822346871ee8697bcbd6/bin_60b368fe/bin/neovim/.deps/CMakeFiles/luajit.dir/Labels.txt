@@ -1,0 +1,13 @@
+# Target labels
+ luajit
+# Source files and their labels
+/home/hyx/neovim/.deps/CMakeFiles/luajit
+/home/hyx/neovim/.deps/CMakeFiles/luajit.rule
+/home/hyx/neovim/.deps/CMakeFiles/luajit-complete.rule
+/home/hyx/neovim/.deps/build/src/luajit-stamp/luajit-install.rule
+/home/hyx/neovim/.deps/build/src/luajit-stamp/luajit-mkdir.rule
+/home/hyx/neovim/.deps/build/src/luajit-stamp/luajit-download.rule
+/home/hyx/neovim/.deps/build/src/luajit-stamp/luajit-update.rule
+/home/hyx/neovim/.deps/build/src/luajit-stamp/luajit-patch.rule
+/home/hyx/neovim/.deps/build/src/luajit-stamp/luajit-configure.rule
+/home/hyx/neovim/.deps/build/src/luajit-stamp/luajit-build.rule

@@ -1,0 +1,6 @@
+2021/09/08-21:09:13.705 3f747 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.adaltas.com_0.indexeddb.leveldb since it was missing.
+2021/09/08-21:09:13.709 3f747 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.adaltas.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/08-21:09:46.493 3f60d Level-0 table #5: started
+2021/09/08-21:09:46.495 3f60d Level-0 table #5: 3347 bytes OK
+2021/09/08-21:09:46.496 3f60d Delete type=0 #3
+2021/09/08-21:09:46.497 3f60d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

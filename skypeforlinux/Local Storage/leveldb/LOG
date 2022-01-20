@@ -1,0 +1,13 @@
+2021/12/09-10:19:10.435 17884 Reusing MANIFEST /home/hyx/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/12/09-10:19:10.437 17884 Recovering log #224
+2021/12/09-10:19:10.438 17884 Level-0 table #227: started
+2021/12/09-10:19:10.441 17884 Level-0 table #227: 78937 bytes OK
+2021/12/09-10:19:10.441 17884 Recovering log #226
+2021/12/09-10:19:10.441 17884 Reusing old log /home/hyx/.config/skypeforlinux/Local Storage/leveldb/000226.log 
+2021/12/09-10:19:10.443 17884 Delete type=0 #224
+2021/12/09-10:20:10.600 17884 Level-0 table #229: started
+2021/12/09-10:20:10.606 17884 Level-0 table #229: 77549 bytes OK
+2021/12/09-10:20:10.609 17884 Delete type=0 #226
+2021/12/09-10:21:10.595 17884 Level-0 table #231: started
+2021/12/09-10:21:10.601 17884 Level-0 table #231: 77779 bytes OK
+2021/12/09-10:21:10.603 17884 Delete type=0 #228

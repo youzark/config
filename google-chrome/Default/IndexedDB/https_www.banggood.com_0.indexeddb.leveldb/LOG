@@ -1,0 +1,6 @@
+2021/08/31-12:37:35.759 1885b Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.banggood.com_0.indexeddb.leveldb since it was missing.
+2021/08/31-12:37:35.762 1885b Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.banggood.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/31-12:38:11.068 19882 Level-0 table #5: started
+2021/08/31-12:38:11.072 19882 Level-0 table #5: 15347 bytes OK
+2021/08/31-12:38:11.074 19882 Delete type=0 #3
+2021/08/31-12:38:11.074 19882 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

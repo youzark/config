@@ -1,0 +1,6 @@
+2021/11/03-13:37:57.661 328c2 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.duyaoss.com_0.indexeddb.leveldb since it was missing.
+2021/11/03-13:37:57.664 328c2 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.duyaoss.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/03-13:39:07.763 337a2 Level-0 table #5: started
+2021/11/03-13:39:07.767 337a2 Level-0 table #5: 36406 bytes OK
+2021/11/03-13:39:07.769 337a2 Delete type=0 #3
+2021/11/03-13:39:07.770 337a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

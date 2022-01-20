@@ -1,0 +1,15 @@
+2021/06/13-13:17:21.619 232bc Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.jd.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-13:17:21.619 232bc Recovering log #4
+2021/06/13-13:17:21.619 232bc Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.jd.com_0.indexeddb.leveldb/000004.log 
+2021/06/13-13:17:25.373 2396e Level-0 table #8: started
+2021/06/13-13:17:25.374 2396e Level-0 table #8: 914 bytes OK
+2021/06/13-13:17:25.375 2396e Delete type=0 #4
+2021/06/13-13:17:25.375 2396e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/13-13:17:25.375 2396e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 85 : 1
+2021/06/13-13:17:25.376 2396e Compacting 1@1 + 1@2 files
+2021/06/13-13:17:25.377 2396e Generated table #9@1: 21 keys, 725 bytes
+2021/06/13-13:17:25.377 2396e Compacted 1@1 + 1@2 files => 725 bytes
+2021/06/13-13:17:25.378 2396e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/13-13:17:25.378 2396e Delete type=2 #5
+2021/06/13-13:17:25.378 2396e Delete type=2 #8
+2021/06/13-13:17:25.378 2396e Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 85 : 1 .. (end); will stop at (end)

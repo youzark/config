@@ -1,0 +1,117 @@
+!SESSION 2022-01-05 07:28:27.932 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -data /home/hyx/.config/coc/extensions/coc-java-data/jdt_ws_49109372dba24a0c75858fa83f274452
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:28.964
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.137
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.169
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.177
+!MESSAGE Initializing Java Language Server 1.3.0.202108101830
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.221
+!MESSAGE Setting /usr/lib/jvm/java-11-openjdk-amd64 as 'JavaSE-11' environment (id:1641338909207)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.223
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.232
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.233
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.233
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.233
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.233
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.233
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.268
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.269
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.315
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:29.962
+!MESSAGE Workspace initialized in 715ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.006
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.014
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.017
+!MESSAGE >> New configuration: {java={enabled=true, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, runtimes=[{name=JavaSE-11, path=/usr/lib/jvm/java-11-openjdk-amd64}]}, trace={server=off}, import={gradle={enabled=true, wrapper={enabled=true}, offline={enabled=false}}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={updateSnapshots=false, downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, comments={enabled=true}, onType={enabled=true, fixComment={enabled=true}}}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar, /usr/lib/jvm/java-11-openjdk-amd64/lib/jrt-fs.jar, /home/hyx/lib/javafx-sdk-11.0.2/lib/*.jar], resourceFilters=[node_modules, .git]}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, foldingRange={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}}, selectionRange={enabled=true}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.020
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.187
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.190
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.192
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.197
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.605
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.692
+!MESSAGE Reconciled 2. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.864
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.914
+!MESSAGE begin problem for /Fractal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:30.914
+!MESSAGE 1 problems reported for /Fractal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:31.118
+!MESSAGE begin problem for /FractalApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:31.119
+!MESSAGE 1 problems reported for /FractalApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:31.120
+!MESSAGE Validated 2. Took 425 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:31.264
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:32.794
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:32.797
+!MESSAGE Clearing problems for /FractalApp.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:32.835
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-05 07:28:32.836
+!MESSAGE Clearing problems for /Fractal.java

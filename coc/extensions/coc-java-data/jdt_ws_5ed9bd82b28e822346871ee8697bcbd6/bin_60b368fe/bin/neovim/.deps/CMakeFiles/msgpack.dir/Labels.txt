@@ -1,0 +1,13 @@
+# Target labels
+ msgpack
+# Source files and their labels
+/home/hyx/neovim/.deps/CMakeFiles/msgpack
+/home/hyx/neovim/.deps/CMakeFiles/msgpack.rule
+/home/hyx/neovim/.deps/CMakeFiles/msgpack-complete.rule
+/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-install.rule
+/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-mkdir.rule
+/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-download.rule
+/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-update.rule
+/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-patch.rule
+/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-configure.rule
+/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-build.rule

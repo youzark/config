@@ -1,0 +1,1171 @@
+[2021-05-31 21:15:48.329] [info] App starting...
+[2021-05-31 21:15:48.454] [info] [event] app.ready.
+[2021-05-31 21:15:48.506] [info] [event] app.browser-window-created.
+[2021-05-31 21:15:48.539] [info] [event] app.browser-window-created.
+[2021-05-31 21:15:48.580] [info] IP 114.214.244.238
+[2021-05-31 21:15:48.581] [info] os ver 5.8.0-53-generic (x64)
+[2021-05-31 21:15:48.581] [info] paprika setup..
+[2021-05-31 21:15:48.595] [info] deviceId 
+[2021-05-31 21:15:48.693] [info] [event] HandlerManager.onCreateWindow
+[2021-05-31 21:15:48.764] [info] db initialized..
+[2021-05-31 21:15:48.765] [info] handler initialized
+[2021-05-31 21:15:48.766] [info] push initialized..
+[2021-05-31 21:15:48.766] [info] policy initialized..
+[2021-05-31 21:15:49.612] [info] [event] mainWindow.webContents.dom-ready
+[2021-05-31 21:15:50.913] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_DEVICE_ID 2298846547459
+[2021-05-31 21:15:50.914] [info] **** update device ID
+[2021-05-31 21:15:50.914] [info] debug ## push reset
+[2021-05-31 21:15:51.452] [info] [event] mainWindow.focus
+[2021-05-31 21:15:51.899] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-05-31 21:15:51.916] [info] debug ## push connect
+[2021-05-31 21:15:54.344] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-05-31 21:15:54.374] [info] debug ## push reset
+[2021-05-31 21:15:54.399] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-05-31 21:15:55.375] [info] debug ## push connect
+[2021-05-31 21:15:55.437] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-05-31 21:15:56.182] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-05-31 21:16:10.377] [info] [event] mainWindow.blur
+[2021-05-31 21:17:57.145] [info] [event] mainWindow.focus
+[2021-05-31 21:18:00.185] [info] [event] mainWindow.blur
+[2021-05-31 21:18:13.318] [info] [event] mainWindow.focus
+[2021-05-31 21:18:15.034] [info] [event] mainWindow.blur
+[2021-05-31 21:18:27.724] [info] [event] mainWindow.focus
+[2021-05-31 21:18:29.315] [info] [event] mainWindow.close
+[2021-05-31 21:18:29.324] [info] [event] mainWindow.closed
+[2021-05-31 22:14:57.423] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-01 08:53:22.174] [info] App starting...
+[2021-06-01 08:53:22.356] [info] [event] app.ready.
+[2021-06-01 08:53:22.462] [info] [event] app.browser-window-created.
+[2021-06-01 08:53:22.628] [info] IP 114.214.245.216
+[2021-06-01 08:53:22.629] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-01 08:53:22.630] [info] paprika setup..
+[2021-06-01 08:53:22.637] [info] deviceId 2298846547459
+[2021-06-01 08:53:22.728] [info] db initialized..
+[2021-06-01 08:53:22.730] [info] handler initialized
+[2021-06-01 08:53:22.731] [info] push initialized..
+[2021-06-01 08:53:22.732] [info] policy initialized..
+[2021-06-01 09:34:22.770] [info] debug ## push resume
+[2021-06-01 09:34:22.770] [info] debug ## push reset
+[2021-06-01 09:34:23.772] [info] debug ## push connect
+[2021-06-01 09:34:26.796] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-01 09:34:26.798] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-01 09:34:26.799] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-01 09:34:27.799] [info] debug ## push connect
+[2021-06-01 09:34:29.363] [info] debug ## push online
+[2021-06-01 09:34:29.364] [info] debug ## push reset
+[2021-06-01 09:34:29.824] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-01 09:34:30.365] [info] debug ## push connect
+[2021-06-01 09:34:32.442] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-01 11:59:19.725] [info] [event] app.will-quit.
+[2021-06-01 11:59:48.708] [info] App starting...
+[2021-06-01 11:59:49.127] [info] [event] app.ready.
+[2021-06-01 11:59:49.256] [info] [event] app.browser-window-created.
+[2021-06-01 11:59:49.345] [info] IP 114.214.245.216
+[2021-06-01 11:59:49.347] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-01 11:59:49.348] [info] paprika setup..
+[2021-06-01 11:59:49.399] [info] deviceId 2298846547459
+[2021-06-01 11:59:49.637] [info] db initialized..
+[2021-06-01 11:59:49.642] [info] handler initialized
+[2021-06-01 11:59:49.643] [info] push initialized..
+[2021-06-01 11:59:49.646] [info] policy initialized..
+[2021-06-01 14:19:50.711] [info] debug ## push resume
+[2021-06-01 14:19:50.712] [info] debug ## push reset
+[2021-06-01 14:19:52.829] [info] debug ## push connect
+[2021-06-01 14:19:55.860] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-01 14:19:55.865] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-01 14:19:55.866] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-01 14:19:56.867] [info] debug ## push connect
+[2021-06-01 14:19:57.418] [info] debug ## push online
+[2021-06-01 14:19:57.420] [info] debug ## push reset
+[2021-06-01 14:19:57.890] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-01 14:19:58.423] [info] debug ## push connect
+[2021-06-01 14:20:02.559] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-01 17:20:17.087] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-01 20:21:37.686] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-01 22:47:19.534] [info] App starting...
+[2021-06-01 22:47:19.823] [info] [event] app.ready.
+[2021-06-01 22:47:19.947] [info] [event] app.browser-window-created.
+[2021-06-01 22:47:20.025] [info] IP 211.86.144.98
+[2021-06-01 22:47:20.026] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-01 22:47:20.027] [info] paprika setup..
+[2021-06-01 22:47:20.039] [info] deviceId 2298846547459
+[2021-06-01 22:47:20.211] [info] db initialized..
+[2021-06-01 22:47:20.213] [info] handler initialized
+[2021-06-01 22:47:20.214] [info] push initialized..
+[2021-06-01 22:47:20.215] [info] policy initialized..
+[2021-06-01 22:47:20.240] [info] debug ## push online
+[2021-06-01 22:47:20.240] [info] debug ## push reset
+[2021-06-01 22:47:21.241] [info] debug ## push connect
+[2021-06-01 22:47:22.503] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-01 22:52:19.847] [info] debug ## push online
+[2021-06-01 22:52:19.847] [info] debug ## push reset
+[2021-06-01 22:52:20.648] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-01 22:52:20.848] [info] debug ## push connect
+[2021-06-02 07:27:00.120] [info] debug ## push resume
+[2021-06-02 07:27:00.121] [info] debug ## push reset
+[2021-06-02 07:27:02.216] [info] debug ## push connect
+[2021-06-02 07:27:12.399] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-02 07:27:12.452] [info] debug ## push online
+[2021-06-02 07:27:12.452] [info] debug ## push reset
+[2021-06-02 07:27:12.604] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-02 07:27:13.454] [info] debug ## push connect
+[2021-06-02 07:27:15.378] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-02 07:28:39.543] [info] debug ## push online
+[2021-06-02 07:28:39.543] [info] debug ## push reset
+[2021-06-02 07:28:40.512] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-02 07:28:40.544] [info] debug ## push connect
+[2021-06-02 07:29:11.087] [info] debug ## push online
+[2021-06-02 07:29:11.088] [info] debug ## push reset
+[2021-06-02 07:29:11.332] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-02 07:29:12.089] [info] debug ## push connect
+[2021-06-02 07:33:01.498] [info] [event] app.browser-window-created.
+[2021-06-02 07:33:01.612] [info] [event] HandlerManager.onCreateWindow
+[2021-06-02 07:33:01.862] [info] [event] mainWindow.webContents.dom-ready
+[2021-06-02 07:33:03.171] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-02 07:33:03.183] [info] debug ## push reset
+[2021-06-02 07:33:03.655] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-02 07:33:04.135] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-02 07:33:04.184] [info] debug ## push connect
+[2021-06-02 07:33:04.279] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-02 07:33:04.573] [info] [event] mainWindow.close
+[2021-06-02 07:33:04.586] [info] [event] mainWindow.closed
+[2021-06-02 07:33:07.415] [info] [event] app.will-quit.
+[2021-06-05 07:56:44.824] [info] App starting...
+[2021-06-05 07:56:45.043] [info] [event] app.ready.
+[2021-06-05 07:56:45.112] [info] [event] app.browser-window-created.
+[2021-06-05 07:56:45.189] [info] IP 211.86.145.40
+[2021-06-05 07:56:45.190] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-05 07:56:45.191] [info] paprika setup..
+[2021-06-05 07:56:45.199] [info] deviceId 2298846547459
+[2021-06-05 07:56:45.308] [info] db initialized..
+[2021-06-05 07:56:45.311] [info] handler initialized
+[2021-06-05 07:56:45.312] [info] push initialized..
+[2021-06-05 07:56:45.313] [info] policy initialized..
+[2021-06-05 07:58:13.699] [info] App starting...
+[2021-06-05 07:58:13.918] [info] [event] app.ready.
+[2021-06-05 07:58:14.008] [info] [event] app.browser-window-created.
+[2021-06-05 07:58:34.134] [info] IP 211.86.145.40
+[2021-06-05 07:58:34.145] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-05 07:58:34.147] [info] paprika setup..
+[2021-06-05 07:58:34.172] [info] deviceId 2298846547459
+[2021-06-05 07:58:34.248] [info] db initialized..
+[2021-06-05 07:58:34.250] [info] handler initialized
+[2021-06-05 07:58:34.250] [info] push initialized..
+[2021-06-05 07:58:34.251] [info] policy initialized..
+[2021-06-05 07:59:30.730] [info] debug ## push online
+[2021-06-05 07:59:30.733] [info] debug ## push reset
+[2021-06-05 07:59:31.735] [info] debug ## push connect
+[2021-06-05 08:03:22.155] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-05 08:04:21.739] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:04:21.741] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:04:21.742] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:04:22.742] [info] debug ## push connect
+[2021-06-05 08:05:37.401] [info] debug ## push online
+[2021-06-05 08:05:37.401] [info] debug ## push reset
+[2021-06-05 08:05:37.428] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-05 08:05:38.403] [info] debug ## push connect
+[2021-06-05 08:06:17.938] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:06:17.940] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:06:17.941] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:06:18.942] [info] debug ## push connect
+[2021-06-05 08:07:53.779] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:07:53.781] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:07:53.782] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:07:54.783] [info] debug ## push connect
+[2021-06-05 08:09:07.596] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:09:07.598] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:09:07.608] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:09:08.610] [info] debug ## push connect
+[2021-06-05 08:10:03.076] [info] App starting...
+[2021-06-05 08:10:03.295] [info] [event] app.ready.
+[2021-06-05 08:10:03.378] [info] [event] app.browser-window-created.
+[2021-06-05 08:10:23.528] [info] IP 211.86.145.40
+[2021-06-05 08:10:23.541] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-05 08:10:23.544] [info] paprika setup..
+[2021-06-05 08:10:23.570] [info] deviceId 2298846547459
+[2021-06-05 08:10:23.653] [info] db initialized..
+[2021-06-05 08:10:23.654] [info] handler initialized
+[2021-06-05 08:10:23.656] [info] push initialized..
+[2021-06-05 08:10:23.658] [info] policy initialized..
+[2021-06-05 08:11:44.043] [info] debug ## push online
+[2021-06-05 08:11:44.046] [info] debug ## push reset
+[2021-06-05 08:11:45.049] [info] debug ## push connect
+[2021-06-05 08:14:09.803] [info] debug ## push online
+[2021-06-05 08:14:09.806] [info] debug ## push reset
+[2021-06-05 08:14:10.573] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-05 08:14:10.809] [info] debug ## push connect
+[2021-06-05 08:14:39.370] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:14:39.372] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:14:39.417] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:14:40.375] [info] debug ## push connect
+[2021-06-05 08:15:48.823] [info] App starting...
+[2021-06-05 08:15:49.045] [info] [event] app.ready.
+[2021-06-05 08:15:49.123] [info] [event] app.browser-window-created.
+[2021-06-05 08:15:49.234] [info] IP 211.86.145.40
+[2021-06-05 08:15:49.235] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-05 08:15:49.236] [info] paprika setup..
+[2021-06-05 08:15:49.245] [info] deviceId 2298846547459
+[2021-06-05 08:15:49.335] [info] db initialized..
+[2021-06-05 08:15:49.339] [info] handler initialized
+[2021-06-05 08:15:49.341] [info] push initialized..
+[2021-06-05 08:15:49.342] [info] policy initialized..
+[2021-06-05 08:15:49.368] [info] debug ## push online
+[2021-06-05 08:15:49.369] [info] debug ## push reset
+[2021-06-05 08:15:50.370] [info] debug ## push connect
+[2021-06-05 08:20:34.347] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-05 08:21:36.057] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:21:36.060] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:21:36.067] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:21:37.062] [info] debug ## push connect
+[2021-06-05 08:22:02.634] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:22:02.635] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:22:02.636] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:22:03.638] [info] debug ## push connect
+[2021-06-05 08:23:56.633] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:23:56.635] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:23:56.636] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:23:57.637] [info] debug ## push connect
+[2021-06-05 08:24:50.774] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:24:50.774] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:24:50.774] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:24:51.776] [info] debug ## push connect
+[2021-06-05 08:26:01.155] [info] debug ## push online
+[2021-06-05 08:26:01.156] [info] debug ## push reset
+[2021-06-05 08:26:01.170] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-05 08:26:02.158] [info] debug ## push connect
+[2021-06-05 08:27:09.411] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-05 08:27:09.413] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-05 08:27:09.414] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-05 08:27:10.415] [info] debug ## push connect
+[2021-06-05 09:17:25.501] [info] App starting...
+[2021-06-05 09:17:25.837] [info] [event] app.ready.
+[2021-06-05 09:17:25.927] [info] [event] app.browser-window-created.
+[2021-06-05 09:17:26.003] [info] IP 211.86.145.40
+[2021-06-05 09:17:26.004] [info] os ver 5.8.0-53-generic (x64)
+[2021-06-05 09:17:26.005] [info] paprika setup..
+[2021-06-05 09:17:26.015] [info] deviceId 2298846547459
+[2021-06-05 09:17:26.104] [info] db initialized..
+[2021-06-05 09:17:26.109] [info] handler initialized
+[2021-06-05 09:17:26.110] [info] push initialized..
+[2021-06-05 09:17:26.112] [info] policy initialized..
+[2021-06-05 09:17:26.136] [info] debug ## push online
+[2021-06-05 09:17:26.136] [info] debug ## push reset
+[2021-06-05 09:17:27.137] [info] debug ## push connect
+[2021-06-05 09:19:04.063] [info] debug ## push online
+[2021-06-05 09:19:04.069] [info] debug ## push reset
+[2021-06-05 09:19:05.073] [info] debug ## push connect
+[2021-06-05 09:19:05.917] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-05 09:19:05.921] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-05 09:31:30.403] [info] debug ## push online
+[2021-06-05 09:31:30.406] [info] debug ## push reset
+[2021-06-05 09:31:30.992] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-05 09:31:31.408] [info] debug ## push connect
+[2021-06-05 09:32:24.860] [info] debug ## push online
+[2021-06-05 09:32:24.860] [info] debug ## push reset
+[2021-06-05 09:32:24.860] [info] debug ## push online
+[2021-06-05 09:32:24.861] [info] debug ## push reset
+[2021-06-05 09:32:25.029] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-05 09:32:25.860] [info] debug ## push connect
+[2021-06-05 09:32:25.902] [info] debug ## push connect
+[2021-06-07 00:08:40.625] [info] debug ## push resume
+[2021-06-07 00:08:40.626] [info] debug ## push reset
+[2021-06-07 00:08:42.793] [info] debug ## push connect
+[2021-06-07 00:08:52.966] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-07 00:08:52.989] [info] debug ## push online
+[2021-06-07 00:08:52.990] [info] debug ## push reset
+[2021-06-07 00:08:52.994] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-07 00:08:53.993] [info] debug ## push connect
+[2021-06-07 00:09:01.585] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-07 15:44:54.357] [info] debug ## push resume
+[2021-06-07 15:44:54.358] [info] debug ## push reset
+[2021-06-07 15:44:55.289] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-07 15:44:55.359] [info] debug ## push connect
+[2021-06-07 15:45:05.741] [info] debug ## push online
+[2021-06-07 15:45:05.741] [info] debug ## push reset
+[2021-06-07 15:45:05.745] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-07 15:45:06.742] [info] debug ## push connect
+[2021-06-07 15:45:08.703] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-08 08:52:35.374] [info] debug ## push resume
+[2021-06-08 08:52:35.374] [info] debug ## push reset
+[2021-06-08 08:52:36.297] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 08:52:36.375] [info] debug ## push connect
+[2021-06-08 08:52:42.435] [info] debug ## push online
+[2021-06-08 08:52:42.436] [info] debug ## push reset
+[2021-06-08 08:52:42.439] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 08:52:43.437] [info] debug ## push connect
+[2021-06-08 08:52:46.261] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-08 09:34:55.344] [info] debug ## push resume
+[2021-06-08 09:34:55.344] [info] debug ## push reset
+[2021-06-08 09:34:56.289] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 09:34:56.345] [info] debug ## push connect
+[2021-06-08 09:35:06.615] [info] debug ## push online
+[2021-06-08 09:35:06.615] [info] debug ## push reset
+[2021-06-08 09:35:06.624] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 09:35:07.617] [info] debug ## push connect
+[2021-06-08 14:27:17.354] [info] debug ## push resume
+[2021-06-08 14:27:17.355] [info] debug ## push reset
+[2021-06-08 14:27:18.296] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 14:27:18.355] [info] debug ## push connect
+[2021-06-08 14:27:29.157] [info] debug ## push online
+[2021-06-08 14:27:29.157] [info] debug ## push reset
+[2021-06-08 14:27:29.338] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 14:27:30.158] [info] debug ## push connect
+[2021-06-08 14:27:32.097] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-08 16:56:22.394] [info] debug ## push resume
+[2021-06-08 16:56:22.396] [info] debug ## push reset
+[2021-06-08 16:56:23.331] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 16:56:23.396] [info] debug ## push connect
+[2021-06-08 16:56:33.726] [info] debug ## push online
+[2021-06-08 16:56:33.727] [info] debug ## push reset
+[2021-06-08 16:56:33.910] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 16:56:34.728] [info] debug ## push connect
+[2021-06-08 17:27:38.256] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-08 17:57:43.411] [info] debug ## push resume
+[2021-06-08 17:57:43.412] [info] debug ## push reset
+[2021-06-08 17:57:44.337] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 17:57:44.412] [info] debug ## push connect
+[2021-06-08 17:58:00.005] [info] debug ## push online
+[2021-06-08 17:58:00.005] [info] debug ## push reset
+[2021-06-08 17:58:00.008] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 17:58:01.006] [info] debug ## push connect
+[2021-06-08 18:26:05.353] [info] debug ## push resume
+[2021-06-08 18:26:05.354] [info] debug ## push reset
+[2021-06-08 18:26:06.289] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 18:26:06.354] [info] debug ## push connect
+[2021-06-08 18:26:17.917] [info] debug ## push online
+[2021-06-08 18:26:17.918] [info] debug ## push reset
+[2021-06-08 18:26:17.927] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 18:26:18.920] [info] debug ## push connect
+[2021-06-08 18:45:23.367] [info] debug ## push resume
+[2021-06-08 18:45:23.367] [info] debug ## push reset
+[2021-06-08 18:45:24.304] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 18:45:24.369] [info] debug ## push connect
+[2021-06-08 18:45:34.730] [info] debug ## push online
+[2021-06-08 18:45:34.742] [info] debug ## push reset
+[2021-06-08 18:45:34.883] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 18:45:35.744] [info] debug ## push connect
+[2021-06-08 19:06:50.623] [info] debug ## push resume
+[2021-06-08 19:06:50.624] [info] debug ## push reset
+[2021-06-08 19:06:52.810] [info] debug ## push connect
+[2021-06-08 19:07:03.656] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 19:07:03.671] [info] debug ## push online
+[2021-06-08 19:07:03.704] [info] debug ## push reset
+[2021-06-08 19:07:03.868] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-08 19:07:04.707] [info] debug ## push connect
+[2021-06-09 08:06:19.046] [info] App starting...
+[2021-06-09 08:06:19.226] [info] [event] app.ready.
+[2021-06-09 08:06:19.314] [info] [event] app.browser-window-created.
+[2021-06-09 08:06:19.599] [info] IP 114.214.221.169
+[2021-06-09 08:06:19.600] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-09 08:06:19.600] [info] paprika setup..
+[2021-06-09 08:06:19.607] [info] deviceId 2298846547459
+[2021-06-09 08:06:19.686] [info] db initialized..
+[2021-06-09 08:06:19.691] [info] handler initialized
+[2021-06-09 08:06:19.695] [info] push initialized..
+[2021-06-09 08:06:19.696] [info] policy initialized..
+[2021-06-09 08:49:34.528] [info] [event] app.browser-window-created.
+[2021-06-09 08:49:34.637] [info] [event] HandlerManager.onCreateWindow
+[2021-06-09 08:49:35.591] [info] [event] mainWindow.webContents.dom-ready
+[2021-06-09 08:49:37.987] [info] [event] mainWindow.focus
+[2021-06-09 08:49:39.199] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-09 08:49:40.122] [info] [event] mainWindow.close
+[2021-06-09 08:49:40.131] [info] [event] mainWindow.closed
+[2021-06-09 08:49:42.582] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-09 08:49:42.596] [info] debug ## push reset
+[2021-06-09 08:49:43.231] [info] [event] app.will-quit.
+[2021-06-09 16:02:09.459] [info] App starting...
+[2021-06-09 16:02:09.697] [info] [event] app.ready.
+[2021-06-09 16:02:09.775] [info] [event] app.browser-window-created.
+[2021-06-09 16:02:09.924] [info] IP 211.86.147.65
+[2021-06-09 16:02:09.925] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-09 16:02:09.926] [info] paprika setup..
+[2021-06-09 16:02:09.934] [info] deviceId 2298846547459
+[2021-06-09 16:02:10.030] [info] db initialized..
+[2021-06-09 16:02:10.032] [info] handler initialized
+[2021-06-09 16:02:10.034] [info] push initialized..
+[2021-06-09 16:02:10.035] [info] policy initialized..
+[2021-06-10 09:46:00.032] [info] App starting...
+[2021-06-10 09:46:00.206] [info] [event] app.ready.
+[2021-06-10 09:46:00.272] [info] [event] app.browser-window-created.
+[2021-06-10 09:46:00.428] [info] IP 114.214.246.202
+[2021-06-10 09:46:00.429] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-10 09:46:00.430] [info] paprika setup..
+[2021-06-10 09:46:00.438] [info] deviceId 2298846547459
+[2021-06-10 09:46:00.517] [info] db initialized..
+[2021-06-10 09:46:00.520] [info] handler initialized
+[2021-06-10 09:46:00.521] [info] push initialized..
+[2021-06-10 09:46:00.522] [info] policy initialized..
+[2021-06-10 10:01:08.622] [info] debug ## push online
+[2021-06-10 10:01:08.623] [info] debug ## push reset
+[2021-06-10 10:01:09.624] [info] debug ## push connect
+[2021-06-10 10:01:11.217] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-10 10:11:14.803] [info] debug ## push online
+[2021-06-10 10:11:14.804] [info] debug ## push reset
+[2021-06-10 10:11:15.796] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 10:11:15.805] [info] debug ## push connect
+[2021-06-10 10:33:25.074] [info] debug ## push resume
+[2021-06-10 10:33:25.074] [info] debug ## push reset
+[2021-06-10 10:33:25.995] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 10:33:26.075] [info] debug ## push connect
+[2021-06-10 10:33:26.081] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 10:33:26.081] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 10:33:26.090] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 10:33:27.082] [info] debug ## push connect
+[2021-06-10 10:33:27.089] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 10:33:27.089] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 10:33:27.089] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 10:33:28.091] [info] debug ## push connect
+[2021-06-10 10:33:28.103] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 10:33:28.104] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 10:33:28.106] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 10:33:29.107] [info] debug ## push connect
+[2021-06-10 10:33:29.121] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 10:33:29.122] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 10:33:29.123] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 10:33:30.125] [info] debug ## push connect
+[2021-06-10 10:33:30.139] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 10:33:30.141] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 10:33:30.142] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 10:33:30.659] [info] debug ## push online
+[2021-06-10 10:33:30.661] [info] debug ## push reset
+[2021-06-10 10:33:31.142] [info] debug ## push connect
+[2021-06-10 10:33:33.190] [info] debug ## push connect
+[2021-06-10 10:37:13.651] [info] debug ## push online
+[2021-06-10 10:37:13.653] [info] debug ## push reset
+[2021-06-10 10:37:14.267] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 10:37:14.656] [info] debug ## push connect
+[2021-06-10 10:37:50.012] [info] debug ## push online
+[2021-06-10 10:37:50.015] [info] debug ## push reset
+[2021-06-10 10:37:50.637] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 10:37:51.018] [info] debug ## push connect
+[2021-06-10 14:19:36.074] [info] debug ## push resume
+[2021-06-10 14:19:36.074] [info] debug ## push reset
+[2021-06-10 14:19:37.021] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 14:19:37.075] [info] debug ## push connect
+[2021-06-10 14:19:37.081] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 14:19:37.081] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 14:19:37.081] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 14:19:38.083] [info] debug ## push connect
+[2021-06-10 14:19:38.089] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 14:19:38.089] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 14:19:38.089] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 14:19:39.090] [info] debug ## push connect
+[2021-06-10 14:19:39.102] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 14:19:39.104] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 14:19:39.105] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 14:19:40.105] [info] debug ## push connect
+[2021-06-10 14:19:40.119] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 14:19:40.120] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 14:19:40.121] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 14:19:41.123] [info] debug ## push connect
+[2021-06-10 14:19:41.136] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 14:19:41.137] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 14:19:41.138] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 14:19:41.789] [info] debug ## push online
+[2021-06-10 14:19:41.791] [info] debug ## push reset
+[2021-06-10 14:19:42.138] [info] debug ## push connect
+[2021-06-10 14:19:42.793] [info] debug ## push connect
+[2021-06-10 14:19:44.335] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-10 14:44:54.178] [info] debug ## push online
+[2021-06-10 14:44:54.179] [info] debug ## push reset
+[2021-06-10 14:44:55.043] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 14:44:55.182] [info] debug ## push connect
+[2021-06-10 15:11:05.001] [info] debug ## push online
+[2021-06-10 15:11:05.002] [info] debug ## push reset
+[2021-06-10 15:11:05.339] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 15:11:06.004] [info] debug ## push connect
+[2021-06-10 15:16:07.711] [info] debug ## push online
+[2021-06-10 15:16:07.713] [info] debug ## push reset
+[2021-06-10 15:16:08.133] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 15:16:08.715] [info] debug ## push connect
+[2021-06-10 20:06:12.086] [info] debug ## push resume
+[2021-06-10 20:06:12.087] [info] debug ## push reset
+[2021-06-10 20:06:13.022] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 20:06:13.087] [info] debug ## push connect
+[2021-06-10 20:06:13.094] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:13.094] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:13.094] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:14.094] [info] debug ## push connect
+[2021-06-10 20:06:14.100] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:14.101] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:14.101] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:15.102] [info] debug ## push connect
+[2021-06-10 20:06:15.113] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:15.114] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:15.114] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:16.115] [info] debug ## push connect
+[2021-06-10 20:06:16.128] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:16.129] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:16.130] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:17.131] [info] debug ## push connect
+[2021-06-10 20:06:17.145] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:17.147] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:17.148] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:18.149] [info] debug ## push connect
+[2021-06-10 20:06:18.156] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:18.156] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:18.157] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:19.159] [info] debug ## push connect
+[2021-06-10 20:06:19.173] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:19.174] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:19.175] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:19.510] [info] debug ## push online
+[2021-06-10 20:06:19.512] [info] debug ## push reset
+[2021-06-10 20:06:20.176] [info] debug ## push connect
+[2021-06-10 20:06:20.182] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:20.182] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:20.182] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:20.513] [info] debug ## push connect
+[2021-06-10 20:06:20.519] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:20.520] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:20.520] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:21.185] [info] debug ## push connect
+[2021-06-10 20:06:21.201] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:21.203] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:21.204] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:21.520] [info] debug ## push connect
+[2021-06-10 20:06:21.529] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-10 20:06:21.529] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-10 20:06:21.530] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-10 20:06:22.205] [info] debug ## push connect
+[2021-06-10 20:06:24.373] [info] debug ## push connect
+[2021-06-10 20:06:34.398] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-10 20:06:49.314] [info] debug ## push online
+[2021-06-10 20:06:49.315] [info] debug ## push reset
+[2021-06-10 20:06:50.224] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 20:06:50.315] [info] debug ## push connect
+[2021-06-10 20:11:00.093] [info] debug ## push resume
+[2021-06-10 20:11:00.103] [info] debug ## push reset
+[2021-06-10 20:11:01.050] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 20:11:01.104] [info] debug ## push connect
+[2021-06-10 20:11:11.304] [info] debug ## push online
+[2021-06-10 20:11:11.306] [info] debug ## push reset
+[2021-06-10 20:11:11.315] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 20:11:12.310] [info] debug ## push connect
+[2021-06-10 20:27:02.128] [info] debug ## push resume
+[2021-06-10 20:27:02.129] [info] debug ## push reset
+[2021-06-10 20:27:03.058] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 20:27:03.130] [info] debug ## push connect
+[2021-06-10 20:27:13.505] [info] debug ## push online
+[2021-06-10 20:27:13.506] [info] debug ## push reset
+[2021-06-10 20:27:13.515] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 20:27:14.508] [info] debug ## push connect
+[2021-06-10 20:32:09.931] [info] debug ## push online
+[2021-06-10 20:32:09.932] [info] debug ## push reset
+[2021-06-10 20:32:10.404] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-10 20:32:10.933] [info] debug ## push connect
+[2021-06-11 15:39:13.088] [info] debug ## push resume
+[2021-06-11 15:39:13.089] [info] debug ## push reset
+[2021-06-11 15:39:14.011] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-11 15:39:14.090] [info] debug ## push connect
+[2021-06-11 15:39:24.329] [info] debug ## push online
+[2021-06-11 15:39:24.330] [info] debug ## push reset
+[2021-06-11 15:39:24.333] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-11 15:39:25.332] [info] debug ## push connect
+[2021-06-11 15:39:27.254] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-11 18:58:06.617] [info] debug ## push resume
+[2021-06-11 18:58:06.618] [info] debug ## push reset
+[2021-06-11 18:58:07.586] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-11 18:58:07.619] [info] debug ## push connect
+[2021-06-11 18:58:17.889] [info] debug ## push online
+[2021-06-11 18:58:17.890] [info] debug ## push reset
+[2021-06-11 18:58:17.900] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-11 18:58:18.892] [info] debug ## push connect
+[2021-06-11 18:58:20.860] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-11 21:59:14.563] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-12 07:32:07.565] [info] debug ## push resume
+[2021-06-12 07:32:07.566] [info] debug ## push reset
+[2021-06-12 07:32:09.662] [info] debug ## push connect
+[2021-06-12 07:32:19.953] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 07:32:19.981] [info] debug ## push online
+[2021-06-12 07:32:19.982] [info] debug ## push reset
+[2021-06-12 07:32:20.158] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 07:32:20.984] [info] debug ## push connect
+[2021-06-12 07:32:22.833] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-12 07:42:32.475] [info] debug ## push online
+[2021-06-12 07:42:32.476] [info] debug ## push reset
+[2021-06-12 07:42:32.490] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 07:42:33.478] [info] debug ## push connect
+[2021-06-12 07:47:34.377] [info] debug ## push online
+[2021-06-12 07:47:34.378] [info] debug ## push reset
+[2021-06-12 07:47:34.558] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 07:47:35.380] [info] debug ## push connect
+[2021-06-12 08:11:54.637] [info] debug ## push resume
+[2021-06-12 08:11:54.638] [info] debug ## push reset
+[2021-06-12 08:11:55.586] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 08:11:55.638] [info] debug ## push connect
+[2021-06-12 08:12:05.933] [info] debug ## push online
+[2021-06-12 08:12:05.933] [info] debug ## push reset
+[2021-06-12 08:12:06.086] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 08:12:06.935] [info] debug ## push connect
+[2021-06-12 08:36:52.592] [info] debug ## push resume
+[2021-06-12 08:36:52.592] [info] debug ## push reset
+[2021-06-12 08:36:53.559] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 08:36:53.593] [info] debug ## push connect
+[2021-06-12 08:36:58.829] [info] debug ## push online
+[2021-06-12 08:36:58.830] [info] debug ## push reset
+[2021-06-12 08:36:58.840] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-12 08:36:59.833] [info] debug ## push connect
+[2021-06-12 10:32:39.269] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-12 13:32:54.426] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-12 16:32:58.981] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-12 19:33:21.022] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-12 22:33:48.503] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_AUTHENTICATION 0
+[2021-06-12 22:33:48.505] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_AUTHENTICATION
+[2021-06-12 22:33:48.506] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-12 22:33:49.507] [info] debug ## push connect
+[2021-06-12 22:33:56.843] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-13 07:38:38.601] [info] debug ## push resume
+[2021-06-13 07:38:38.602] [info] debug ## push reset
+[2021-06-13 07:38:40.705] [info] debug ## push connect
+[2021-06-13 08:05:29.537] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-13 08:05:29.548] [info] debug ## push resume
+[2021-06-13 08:05:29.548] [info] debug ## push reset
+[2021-06-13 08:05:29.567] [info] debug ## push online
+[2021-06-13 08:05:29.568] [info] debug ## push reset
+[2021-06-13 08:05:29.568] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-13 08:05:30.549] [info] debug ## push connect
+[2021-06-13 08:05:30.589] [info] debug ## push connect
+[2021-06-13 08:05:31.487] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-13 11:05:36.226] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-13 14:05:50.811] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-13 14:05:54.615] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-13 17:06:26.903] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-13 20:07:04.364] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-14 20:12:23.091] [info] App starting...
+[2021-06-14 20:12:23.298] [info] [event] app.ready.
+[2021-06-14 20:12:23.465] [info] [event] app.browser-window-created.
+[2021-06-14 20:12:23.553] [info] IP 114.214.221.51
+[2021-06-14 20:12:23.555] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-14 20:12:23.557] [info] paprika setup..
+[2021-06-14 20:12:23.567] [info] deviceId 2298846547459
+[2021-06-14 20:12:23.920] [info] db initialized..
+[2021-06-14 20:12:23.923] [info] handler initialized
+[2021-06-14 20:12:23.925] [info] push initialized..
+[2021-06-14 20:12:23.925] [info] policy initialized..
+[2021-06-14 20:12:23.953] [info] debug ## push online
+[2021-06-14 20:12:23.954] [info] debug ## push reset
+[2021-06-14 20:12:24.956] [info] debug ## push connect
+[2021-06-14 20:12:29.326] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-14 22:44:11.100] [info] App starting...
+[2021-06-14 22:44:11.321] [info] [event] app.ready.
+[2021-06-14 22:44:11.396] [info] [event] app.browser-window-created.
+[2021-06-14 22:44:11.473] [info] IP 114.214.221.51
+[2021-06-14 22:44:11.475] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-14 22:44:11.475] [info] paprika setup..
+[2021-06-14 22:44:11.484] [info] deviceId 2298846547459
+[2021-06-14 22:44:11.609] [info] db initialized..
+[2021-06-14 22:44:11.613] [info] handler initialized
+[2021-06-14 22:44:11.614] [info] push initialized..
+[2021-06-14 22:44:11.615] [info] policy initialized..
+[2021-06-14 22:44:11.636] [info] debug ## push online
+[2021-06-14 22:44:11.637] [info] debug ## push reset
+[2021-06-14 22:44:12.637] [info] debug ## push connect
+[2021-06-14 22:44:14.164] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-15 09:45:25.900] [info] App starting...
+[2021-06-15 09:45:26.081] [info] [event] app.ready.
+[2021-06-15 09:45:26.281] [info] [event] app.browser-window-created.
+[2021-06-15 09:45:26.379] [info] IP 114.214.221.142
+[2021-06-15 09:45:26.383] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-15 09:45:26.385] [info] paprika setup..
+[2021-06-15 09:45:26.438] [info] deviceId 2298846547459
+[2021-06-15 09:45:26.706] [info] db initialized..
+[2021-06-15 09:45:26.710] [info] handler initialized
+[2021-06-15 09:45:26.711] [info] push initialized..
+[2021-06-15 09:45:26.712] [info] policy initialized..
+[2021-06-15 09:45:26.735] [info] debug ## push online
+[2021-06-15 09:45:26.735] [info] debug ## push reset
+[2021-06-15 09:45:27.736] [info] debug ## push connect
+[2021-06-15 09:45:28.910] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-15 09:49:11.338] [info] debug ## push resume
+[2021-06-15 09:49:11.339] [info] debug ## push reset
+[2021-06-15 09:49:12.275] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-15 09:49:12.340] [info] debug ## push connect
+[2021-06-15 09:49:12.346] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:12.347] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:12.356] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:13.347] [info] debug ## push connect
+[2021-06-15 09:49:13.354] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:13.355] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:13.356] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:14.357] [info] debug ## push connect
+[2021-06-15 09:49:14.362] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:14.366] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:14.366] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:15.368] [info] debug ## push connect
+[2021-06-15 09:49:15.379] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:15.381] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:15.382] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:16.382] [info] debug ## push connect
+[2021-06-15 09:49:16.388] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:16.389] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:16.389] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:17.390] [info] debug ## push connect
+[2021-06-15 09:49:17.400] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:17.400] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:17.400] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:18.402] [info] debug ## push connect
+[2021-06-15 09:49:18.408] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:18.409] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:18.409] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:18.703] [info] debug ## push online
+[2021-06-15 09:49:18.704] [info] debug ## push reset
+[2021-06-15 09:49:19.410] [info] debug ## push connect
+[2021-06-15 09:49:19.416] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:19.416] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:19.416] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:19.704] [info] debug ## push connect
+[2021-06-15 09:49:19.711] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:19.711] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:19.711] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:20.417] [info] debug ## push connect
+[2021-06-15 09:49:20.424] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:20.424] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:20.425] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:20.712] [info] debug ## push connect
+[2021-06-15 09:49:20.727] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:20.729] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:20.730] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:21.425] [info] debug ## push connect
+[2021-06-15 09:49:21.433] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 09:49:21.434] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 09:49:21.434] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 09:49:21.730] [info] debug ## push connect
+[2021-06-15 09:49:22.435] [info] debug ## push connect
+[2021-06-15 10:55:34.069] [info] debug ## push resume
+[2021-06-15 10:55:34.069] [info] debug ## push reset
+[2021-06-15 10:55:35.010] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-15 10:55:35.070] [info] debug ## push connect
+[2021-06-15 10:55:35.076] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 10:55:35.076] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 10:55:35.077] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 10:55:36.078] [info] debug ## push connect
+[2021-06-15 10:55:36.084] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 10:55:36.085] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 10:55:36.085] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 10:55:37.087] [info] debug ## push connect
+[2021-06-15 10:55:37.100] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 10:55:37.101] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 10:55:37.102] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 10:55:38.103] [info] debug ## push connect
+[2021-06-15 10:55:38.115] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 10:55:38.116] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 10:55:38.117] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 10:55:39.119] [info] debug ## push connect
+[2021-06-15 10:55:39.133] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 10:55:39.135] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 10:55:39.136] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 10:55:40.138] [info] debug ## push connect
+[2021-06-15 10:55:40.155] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 10:55:40.156] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 10:55:40.157] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 10:55:41.158] [info] debug ## push connect
+[2021-06-15 10:55:41.164] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 10:55:41.164] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 10:55:41.164] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 10:55:41.530] [info] debug ## push online
+[2021-06-15 10:55:41.530] [info] debug ## push reset
+[2021-06-15 10:55:42.165] [info] debug ## push connect
+[2021-06-15 10:55:42.531] [info] debug ## push connect
+[2021-06-15 13:15:48.045] [info] debug ## push resume
+[2021-06-15 13:15:48.045] [info] debug ## push reset
+[2021-06-15 13:15:49.001] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-15 13:15:49.046] [info] debug ## push connect
+[2021-06-15 13:15:49.052] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:15:49.052] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:15:49.052] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:15:50.053] [info] debug ## push connect
+[2021-06-15 13:15:50.058] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:15:50.059] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:15:50.059] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:15:51.061] [info] debug ## push connect
+[2021-06-15 13:15:51.071] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:15:51.072] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:15:51.072] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:15:52.074] [info] debug ## push connect
+[2021-06-15 13:15:52.084] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:15:52.084] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:15:52.085] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:15:53.087] [info] debug ## push connect
+[2021-06-15 13:15:53.101] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:15:53.102] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:15:53.103] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:15:54.105] [info] debug ## push connect
+[2021-06-15 13:15:54.121] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:15:54.122] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:15:54.123] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:15:55.125] [info] debug ## push connect
+[2021-06-15 13:15:55.141] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:15:55.142] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:15:55.143] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:15:55.578] [info] debug ## push online
+[2021-06-15 13:15:55.579] [info] debug ## push reset
+[2021-06-15 13:15:56.144] [info] debug ## push connect
+[2021-06-15 13:15:56.579] [info] debug ## push connect
+[2021-06-15 13:15:58.240] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-15 13:21:25.064] [info] debug ## push resume
+[2021-06-15 13:21:25.065] [info] debug ## push reset
+[2021-06-15 13:21:26.007] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-15 13:21:26.066] [info] debug ## push connect
+[2021-06-15 13:21:26.072] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:21:26.072] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:21:26.072] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:21:27.074] [info] debug ## push connect
+[2021-06-15 13:21:27.080] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:21:27.081] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:21:27.081] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:21:28.083] [info] debug ## push connect
+[2021-06-15 13:21:28.093] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:21:28.093] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:21:28.094] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:21:29.094] [info] debug ## push connect
+[2021-06-15 13:21:29.103] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:21:29.104] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:21:29.105] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:21:30.107] [info] debug ## push connect
+[2021-06-15 13:21:30.120] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:21:30.121] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:21:30.124] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:21:31.125] [info] debug ## push connect
+[2021-06-15 13:21:31.139] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:21:31.140] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:21:31.141] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:21:31.885] [info] debug ## push online
+[2021-06-15 13:21:31.886] [info] debug ## push reset
+[2021-06-15 13:21:32.142] [info] debug ## push connect
+[2021-06-15 13:21:32.149] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-15 13:21:32.150] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-15 13:21:32.150] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-15 13:21:32.887] [info] debug ## push connect
+[2021-06-15 13:21:33.150] [info] debug ## push connect
+[2021-06-15 18:15:21.078] [info] App starting...
+[2021-06-15 18:15:21.293] [info] [event] app.ready.
+[2021-06-15 18:15:21.381] [info] [event] app.browser-window-created.
+[2021-06-15 18:15:21.456] [info] IP 114.214.222.50
+[2021-06-15 18:15:21.457] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-15 18:15:21.458] [info] paprika setup..
+[2021-06-15 18:15:21.468] [info] deviceId 2298846547459
+[2021-06-15 18:15:21.600] [info] db initialized..
+[2021-06-15 18:15:21.603] [info] handler initialized
+[2021-06-15 18:15:21.604] [info] push initialized..
+[2021-06-15 18:15:21.604] [info] policy initialized..
+[2021-06-15 18:39:56.749] [info] [event] app.will-quit.
+[2021-06-15 22:43:01.078] [info] App starting...
+[2021-06-15 22:43:01.288] [info] [event] app.ready.
+[2021-06-15 22:43:01.359] [info] [event] app.browser-window-created.
+[2021-06-15 22:43:01.680] [info] IP 114.214.222.50
+[2021-06-15 22:43:01.681] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-15 22:43:01.681] [info] paprika setup..
+[2021-06-15 22:43:01.688] [info] deviceId 2298846547459
+[2021-06-15 22:43:01.771] [info] db initialized..
+[2021-06-15 22:43:01.774] [info] handler initialized
+[2021-06-15 22:43:01.774] [info] push initialized..
+[2021-06-15 22:43:01.775] [info] policy initialized..
+[2021-06-16 09:01:43.956] [info] App starting...
+[2021-06-16 09:01:44.167] [info] [event] app.ready.
+[2021-06-16 09:01:44.391] [info] [event] app.browser-window-created.
+[2021-06-16 09:01:44.476] [info] IP 114.214.212.65
+[2021-06-16 09:01:44.480] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-16 09:01:44.482] [info] paprika setup..
+[2021-06-16 09:01:44.511] [info] deviceId 2298846547459
+[2021-06-16 09:01:44.719] [info] db initialized..
+[2021-06-16 09:01:44.722] [info] handler initialized
+[2021-06-16 09:01:44.724] [info] push initialized..
+[2021-06-16 09:01:44.728] [info] policy initialized..
+[2021-06-16 09:01:44.748] [info] debug ## push online
+[2021-06-16 09:01:44.749] [info] debug ## push reset
+[2021-06-16 09:01:45.750] [info] debug ## push connect
+[2021-06-16 09:01:46.826] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-16 09:46:13.984] [info] debug ## push resume
+[2021-06-16 09:46:13.984] [info] debug ## push reset
+[2021-06-16 09:46:14.922] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 09:46:14.985] [info] debug ## push connect
+[2021-06-16 09:46:14.992] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 09:46:14.992] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 09:46:14.993] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 09:46:15.994] [info] debug ## push connect
+[2021-06-16 09:46:16.000] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 09:46:16.000] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 09:46:16.001] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 09:46:17.002] [info] debug ## push connect
+[2021-06-16 09:46:17.014] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 09:46:17.016] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 09:46:17.017] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 09:46:18.018] [info] debug ## push connect
+[2021-06-16 09:46:18.031] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 09:46:18.032] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 09:46:18.033] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 09:46:19.034] [info] debug ## push connect
+[2021-06-16 09:46:19.046] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 09:46:19.047] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 09:46:19.049] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 09:46:20.050] [info] debug ## push connect
+[2021-06-16 09:46:20.057] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 09:46:20.058] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 09:46:20.058] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 09:46:20.907] [info] debug ## push online
+[2021-06-16 09:46:20.908] [info] debug ## push reset
+[2021-06-16 09:46:21.058] [info] debug ## push connect
+[2021-06-16 09:46:21.066] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 09:46:21.066] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 09:46:21.067] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 09:46:21.910] [info] debug ## push connect
+[2021-06-16 09:46:22.081] [info] debug ## push connect
+[2021-06-16 10:10:32.741] [info] debug ## push resume
+[2021-06-16 10:10:32.742] [info] debug ## push reset
+[2021-06-16 10:10:33.656] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 10:10:33.742] [info] debug ## push connect
+[2021-06-16 10:10:33.753] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 10:10:33.753] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 10:10:33.754] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 10:10:34.755] [info] debug ## push connect
+[2021-06-16 10:10:34.762] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 10:10:34.762] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 10:10:34.762] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 10:10:35.763] [info] debug ## push connect
+[2021-06-16 10:10:35.769] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 10:10:35.769] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 10:10:35.769] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 10:10:36.770] [info] debug ## push connect
+[2021-06-16 10:10:36.780] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 10:10:36.782] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 10:10:36.784] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 10:10:37.785] [info] debug ## push connect
+[2021-06-16 10:10:37.792] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 10:10:37.792] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 10:10:37.793] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 10:10:38.794] [info] debug ## push connect
+[2021-06-16 10:10:38.801] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 10:10:38.802] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 10:10:38.802] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 10:10:39.363] [info] debug ## push online
+[2021-06-16 10:10:39.365] [info] debug ## push reset
+[2021-06-16 10:10:39.803] [info] debug ## push connect
+[2021-06-16 10:10:39.817] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 10:10:39.818] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 10:10:39.820] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 10:10:40.368] [info] debug ## push connect
+[2021-06-16 10:10:40.820] [info] debug ## push connect
+[2021-06-16 12:02:32.048] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-16 14:14:25.139] [info] debug ## push resume
+[2021-06-16 14:14:25.141] [info] debug ## push reset
+[2021-06-16 14:14:26.084] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 14:14:26.141] [info] debug ## push connect
+[2021-06-16 14:14:27.340] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 14:14:27.340] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 14:14:27.341] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 14:14:28.343] [info] debug ## push connect
+[2021-06-16 14:14:28.355] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 14:14:28.356] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 14:14:28.357] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 14:14:29.358] [info] debug ## push connect
+[2021-06-16 14:14:29.365] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 14:14:29.365] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 14:14:29.366] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 14:14:30.367] [info] debug ## push connect
+[2021-06-16 14:14:30.375] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 14:14:30.376] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 14:14:30.377] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 14:14:31.378] [info] debug ## push connect
+[2021-06-16 14:14:31.393] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 14:14:31.394] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 14:14:31.395] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 14:14:32.397] [info] debug ## push connect
+[2021-06-16 14:14:32.415] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-16 14:14:32.416] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-16 14:14:32.417] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-16 14:14:32.889] [info] debug ## push online
+[2021-06-16 14:14:32.890] [info] debug ## push reset
+[2021-06-16 14:14:33.418] [info] debug ## push connect
+[2021-06-16 14:14:33.891] [info] debug ## push connect
+[2021-06-16 15:03:20.077] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-16 18:03:41.031] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-16 20:57:41.763] [info] debug ## push online
+[2021-06-16 20:57:41.763] [info] debug ## push reset
+[2021-06-16 20:57:42.335] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 20:57:42.764] [info] debug ## push connect
+[2021-06-16 21:02:44.111] [info] debug ## push online
+[2021-06-16 21:02:44.111] [info] debug ## push reset
+[2021-06-16 21:02:44.343] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 21:02:45.114] [info] debug ## push connect
+[2021-06-16 21:03:48.769] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-16 21:17:50.174] [info] debug ## push online
+[2021-06-16 21:17:50.175] [info] debug ## push reset
+[2021-06-16 21:17:50.462] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 21:17:51.177] [info] debug ## push connect
+[2021-06-16 21:22:54.577] [info] debug ## push online
+[2021-06-16 21:22:54.578] [info] debug ## push reset
+[2021-06-16 21:22:54.926] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 21:22:55.580] [info] debug ## push connect
+[2021-06-16 22:38:31.226] [info] debug ## push online
+[2021-06-16 22:38:31.227] [info] debug ## push reset
+[2021-06-16 22:38:32.216] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-16 22:38:32.228] [info] debug ## push connect
+[2021-06-17 10:57:28.190] [info] debug ## push resume
+[2021-06-17 10:57:28.190] [info] debug ## push reset
+[2021-06-17 10:57:29.101] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-17 10:57:29.191] [info] debug ## push connect
+[2021-06-17 10:57:30.326] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 10:57:30.327] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 10:57:30.327] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 10:57:31.328] [info] debug ## push connect
+[2021-06-17 10:57:31.341] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 10:57:31.343] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 10:57:31.344] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 10:57:32.344] [info] debug ## push connect
+[2021-06-17 10:57:32.356] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 10:57:32.357] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 10:57:32.359] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 10:57:33.359] [info] debug ## push connect
+[2021-06-17 10:57:33.371] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 10:57:33.372] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 10:57:33.373] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 10:57:34.374] [info] debug ## push connect
+[2021-06-17 10:57:34.388] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 10:57:34.390] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 10:57:34.391] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 10:57:35.392] [info] debug ## push connect
+[2021-06-17 10:57:35.398] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 10:57:35.398] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 10:57:35.398] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 10:57:36.021] [info] debug ## push online
+[2021-06-17 10:57:36.022] [info] debug ## push reset
+[2021-06-17 10:57:36.399] [info] debug ## push connect
+[2021-06-17 10:57:37.024] [info] debug ## push connect
+[2021-06-17 10:57:38.627] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-17 11:02:50.266] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 11:02:50.268] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 11:02:50.269] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 11:02:51.270] [info] debug ## push connect
+[2021-06-17 11:33:08.145] [info] debug ## push resume
+[2021-06-17 11:33:08.146] [info] debug ## push reset
+[2021-06-17 11:33:09.087] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-17 11:33:09.146] [info] debug ## push connect
+[2021-06-17 11:33:09.152] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 11:33:09.153] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 11:33:09.153] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 11:33:10.153] [info] debug ## push connect
+[2021-06-17 11:33:10.159] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 11:33:10.160] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 11:33:10.160] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 11:33:11.160] [info] debug ## push connect
+[2021-06-17 11:33:11.168] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 11:33:11.168] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 11:33:11.169] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 11:33:12.169] [info] debug ## push connect
+[2021-06-17 11:33:12.182] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 11:33:12.183] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 11:33:12.184] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 11:33:13.185] [info] debug ## push connect
+[2021-06-17 11:33:13.194] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 11:33:13.194] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 11:33:13.195] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 11:33:13.950] [info] debug ## push online
+[2021-06-17 11:33:13.951] [info] debug ## push reset
+[2021-06-17 11:33:14.195] [info] debug ## push connect
+[2021-06-17 11:33:14.953] [info] debug ## push connect
+[2021-06-17 12:24:27.593] [info] debug ## push resume
+[2021-06-17 12:24:27.594] [info] debug ## push reset
+[2021-06-17 12:24:28.553] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-17 12:24:28.594] [info] debug ## push connect
+[2021-06-17 12:24:33.754] [info] debug ## push online
+[2021-06-17 12:24:33.755] [info] debug ## push reset
+[2021-06-17 12:24:33.755] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-17 12:24:34.757] [info] debug ## push connect
+[2021-06-17 12:58:27.155] [info] debug ## push resume
+[2021-06-17 12:58:27.156] [info] debug ## push reset
+[2021-06-17 12:58:28.094] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-17 12:58:28.157] [info] debug ## push connect
+[2021-06-17 12:58:38.818] [info] debug ## push online
+[2021-06-17 12:58:38.819] [info] debug ## push reset
+[2021-06-17 12:58:38.827] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-17 12:58:39.822] [info] debug ## push connect
+[2021-06-17 13:22:31.502] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 13:22:31.504] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 13:22:31.506] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 13:22:32.507] [info] debug ## push connect
+[2021-06-17 13:23:52.580] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 13:23:52.581] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 13:23:52.582] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 13:23:52.583] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 13:23:52.584] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 13:23:52.584] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 13:23:52.585] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 13:23:52.585] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 13:23:52.585] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 13:23:52.586] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 13:23:52.586] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 13:23:52.586] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 13:23:52.586] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 13:23:52.587] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 13:23:52.587] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 13:23:52.587] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 13:23:52.588] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 13:23:52.588] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 13:23:53.584] [info] debug ## push connect
+[2021-06-17 13:25:13.674] [info] debug ## push connect
+[2021-06-17 13:26:33.748] [info] debug ## push connect
+[2021-06-17 13:27:53.821] [info] debug ## push connect
+[2021-06-17 13:29:13.892] [info] debug ## push connect
+[2021-06-17 13:31:03.866] [info] App starting...
+[2021-06-17 13:31:04.067] [info] [event] app.ready.
+[2021-06-17 13:31:04.198] [info] [event] app.browser-window-created.
+[2021-06-17 13:31:04.299] [info] IP 211.86.145.201
+[2021-06-17 13:31:04.300] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-17 13:31:04.301] [info] paprika setup..
+[2021-06-17 13:31:04.332] [info] deviceId 2298846547459
+[2021-06-17 13:31:04.478] [info] db initialized..
+[2021-06-17 13:31:04.482] [info] handler initialized
+[2021-06-17 13:31:04.483] [info] push initialized..
+[2021-06-17 13:31:04.484] [info] policy initialized..
+[2021-06-17 15:16:10.621] [info] debug ## push resume
+[2021-06-17 15:16:10.622] [info] debug ## push reset
+[2021-06-17 15:16:11.623] [info] debug ## push connect
+[2021-06-17 15:16:14.655] [info] P PAPRIKA_STATE_ERROR PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK 0
+[2021-06-17 15:16:14.659] [info] debug ***** push connect error PAPRIKA_DETAILED_STATE_ERROR_SERVER_NETWORK
+[2021-06-17 15:16:14.660] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_ERROR 0
+[2021-06-17 15:16:15.662] [info] debug ## push connect
+[2021-06-17 15:16:16.367] [info] debug ## push online
+[2021-06-17 15:16:16.367] [info] debug ## push reset
+[2021-06-17 15:16:17.369] [info] debug ## push connect
+[2021-06-17 15:16:26.691] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-17 15:16:26.694] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_CANCEL 0
+[2021-06-17 16:07:23.317] [info] App starting...
+[2021-06-17 16:07:23.543] [info] [event] app.ready.
+[2021-06-17 16:07:23.625] [info] [event] app.browser-window-created.
+[2021-06-17 16:07:23.723] [info] IP 211.86.145.201
+[2021-06-17 16:07:23.724] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-17 16:07:23.725] [info] paprika setup..
+[2021-06-17 16:07:23.732] [info] deviceId 2298846547459
+[2021-06-17 16:07:23.866] [info] db initialized..
+[2021-06-17 16:07:23.870] [info] handler initialized
+[2021-06-17 16:07:23.871] [info] push initialized..
+[2021-06-17 16:07:23.873] [info] policy initialized..
+[2021-06-17 17:56:14.542] [info] [event] app.will-quit.
+[2021-06-17 17:56:57.203] [info] App starting...
+[2021-06-17 17:56:57.804] [info] [event] app.ready.
+[2021-06-17 17:56:57.953] [info] [event] app.browser-window-created.
+[2021-06-17 17:56:58.114] [info] IP 211.86.145.201
+[2021-06-17 17:56:58.115] [info] os ver 5.8.0-55-generic (x64)
+[2021-06-17 17:56:58.116] [info] paprika setup..
+[2021-06-17 17:56:58.138] [info] deviceId 2298846547459
+[2021-06-17 17:56:58.174] [info] [event] app.browser-window-created.
+[2021-06-17 17:56:58.460] [info] [event] HandlerManager.onCreateWindow
+[2021-06-17 17:56:58.555] [info] db initialized..
+[2021-06-17 17:56:58.559] [info] handler initialized
+[2021-06-17 17:56:58.561] [info] push initialized..
+[2021-06-17 17:56:58.563] [info] policy initialized..
+[2021-06-17 17:56:59.748] [info] [event] mainWindow.webContents.dom-ready
+[2021-06-17 17:57:01.094] [info] P PAPRIKA_STATE_PREPARING PAPRIKA_DETAILED_STATE_PREPARING_UPDATED_AUTH_TOKEN 0
+[2021-06-17 17:57:02.662] [info] [event] mainWindow.focus
+[2021-06-17 17:57:02.950] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-17 17:57:02.969] [info] debug ## push reset
+[2021-06-17 17:57:03.971] [info] debug ## push connect
+[2021-06-17 17:57:04.040] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-17 17:57:04.180] [info] P PAPRIKA_STATE_FINISHED PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS 0
+[2021-06-17 17:57:04.515] [info] [event] app.browser-window-created.
+[2021-06-17 17:57:05.401] [info] [event] mainWindow.blur
+[2021-06-17 17:57:15.024] [info] [event] mainWindow.focus
+[2021-06-17 17:57:17.962] [info] [event] mainWindow.close
+[2021-06-17 17:57:17.983] [info] [event] mainWindow.closed
+[2021-06-17 17:57:21.924] [info] [event] app.will-quit.

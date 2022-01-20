@@ -1,0 +1,250 @@
+Build started at 2021-07-24T10:06:28.852946
+Main binary: /usr/bin/python3
+Build Options: 
+Python system: Linux
+The Meson build system
+Version: 0.53.2
+Source dir: /home/hyx/i3-4.19.2
+Build dir: /home/hyx/i3-4.19.2/builddir
+Build type: native build
+Project name: i3
+Project version: 4.19.2
+No CFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+No CPPFLAGS in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/hyx/i3-4.19.2/builddir/meson-private/sanitycheckc.c -o /home/hyx/i3-4.19.2/builddir/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/hyx/i3-4.19.2/builddir/meson-private/sanitycheckc.exe
+C compiler for the build machine: cc (gcc 9.3.0 "cc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0")
+C linker for the build machine: cc ld.bfd 2.34
+No CFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+No CPPFLAGS in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/hyx/i3-4.19.2/builddir/meson-private/sanitycheckc.c -o /home/hyx/i3-4.19.2/builddir/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/hyx/i3-4.19.2/builddir/meson-private/sanitycheckc.exe
+C compiler for the host machine: cc (gcc 9.3.0 "cc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0")
+C linker for the host machine: cc ld.bfd 2.34
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmpp9vnmruc
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmpp9vnmruc/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmpp9vnmruc/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wunused-value 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wunused-value: YES 
+Program meson/meson-dist-script found: YES (/home/hyx/i3-4.19.2/meson/meson-dist-script)
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmpc54a4q2u
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmpc54a4q2u/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmpc54a4q2u/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ 
+        #define strndup meson_disable_define_of_strndup
+        
+        #include <limits.h>
+        #undef strndup
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char strndup (void);
+        
+        #if defined __stub_strndup || defined __stub___strndup
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return strndup ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "strndup" : YES 
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmp4um4yweu
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmp4um4yweu/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmp4um4yweu/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ 
+        #define mkdirp meson_disable_define_of_mkdirp
+        
+        #include <limits.h>
+        #undef mkdirp
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char mkdirp (void);
+        
+        #if defined __stub_mkdirp || defined __stub___mkdirp
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return mkdirp ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ /usr/bin/ld: /tmp/cc86iilq.o: in function `main':
+testfile.c:(.text+0x9): undefined reference to `mkdirp'
+collect2: error: ld returned 1 exit status
+
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmp86pnrwr9
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmp86pnrwr9/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmp86pnrwr9/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ 
+        int main(void) {
+        #ifdef __has_builtin
+            #if !__has_builtin(__builtin_mkdirp)
+                #error "__builtin_mkdirp not found"
+            #endif
+        #elif ! defined(mkdirp)
+            /* Check for __builtin_mkdirp only if no includes were added to the
+             * prefix above, which means no definition of mkdirp can be found.
+             * We would always check for this, but we get false positives on
+             * MSYS2 if we do. Their toolchain is broken, but we can at least
+             * give them a workaround. */
+            #if 1
+                __builtin_mkdirp;
+            #else
+                #error "No definition for __builtin_mkdirp found in the prefix"
+            #endif
+        #endif
+        return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ /home/hyx/i3-4.19.2/builddir/meson-private/tmp86pnrwr9/testfile.c: In function 'main':
+/home/hyx/i3-4.19.2/builddir/meson-private/tmp86pnrwr9/testfile.c:14:17: error: '__builtin_mkdirp' undeclared (first use in this function); did you mean '__builtin_fdim'?
+   14 |                 __builtin_mkdirp;
+      |                 ^~~~~~~~~~~~~~~~
+      |                 __builtin_fdim
+/home/hyx/i3-4.19.2/builddir/meson-private/tmp86pnrwr9/testfile.c:14:17: note: each undeclared identifier is reported only once for each function it appears in
+
+Checking for function "mkdirp" : NO 
+Configuring config.h.in using configuration
+Running command: /usr/bin/[ -f docs/hacking-howto.html ]
+--- stdout ---
+
+--- stderr ---
+
+
+WARNING: Project targeting '>=0.45.0' but tried to use feature introduced in '0.53.0': summary
+Running command: /usr/bin/[ -f man/i3.1 ]
+--- stdout ---
+
+--- stderr ---
+
+
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmpdknlh3fi
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmpdknlh3fi/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmpdknlh3fi/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -lm -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library m found: YES
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmpp9qniah7
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmpp9qniah7/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmpp9qniah7/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -lrt -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library rt found: YES
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmpr7qxvqgg
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmpr7qxvqgg/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmpr7qxvqgg/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -liconv -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ /usr/bin/ld: cannot find -liconv
+collect2: error: ld returned 1 exit status
+
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmprf48qi05
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmprf48qi05/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmprf48qi05/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ #include<stdio.h>
+        
+        int main(void) {
+            printf("%ld\n", (long)(sizeof(void *)));
+            return 0;
+        };
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Program stdout:
+
+8
+
+Program stderr:
+
+
+Running compile:
+Working directory:  /home/hyx/i3-4.19.2/builddir/meson-private/tmpslm595zl
+Command line:  cc /home/hyx/i3-4.19.2/builddir/meson-private/tmpslm595zl/testfile.c -o /home/hyx/i3-4.19.2/builddir/meson-private/tmpslm595zl/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/x86_64-linux-gnu/9/
+programs: =/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/bin/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/bin/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/lib/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/lib/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/9/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/9/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+Library iconv found: NO
+Pkg-config binary for MachineChoice.HOST is not cached.
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default pkg-config fallback at pkg-config
+Trying pkg-config binary pkg-config for machine MachineChoice.HOST at ['/usr/bin/pkg-config']
+Found pkg-config: /usr/bin/pkg-config (0.29.1)
+Determining dependency 'libstartup-notification-1.0' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion libstartup-notification-1.0` -> 1
+
+Run-time dependency libstartup-notification-1.0 found: NO (tried pkgconfig)
+
+meson.build:303:0: ERROR: Dependency "libstartup-notification-1.0" not found, tried pkgconfig

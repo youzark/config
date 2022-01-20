@@ -1,0 +1,6 @@
+2021/07/09-10:59:15.846 ef77 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb since it was missing.
+2021/07/09-10:59:15.850 ef77 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-11:06:32.913 f363 Level-0 table #5: started
+2021/07/09-11:06:32.914 f363 Level-0 table #5: 1153 bytes OK
+2021/07/09-11:06:32.915 f363 Delete type=0 #3
+2021/07/09-11:06:32.915 f363 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,365 @@
+[2021-05-31 21:15:49.469] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-31 21:15:49.473] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_z.t.6.3.p.s' }
+[2021-05-31 21:15:49.525] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-31 21:15:49.529] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-31 21:15:49.577] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-05-31 21:15:49.578] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-05-31 21:15:49.581] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-05-31 21:15:49.695] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-31 21:15:49.697] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-05-31 21:15:49.698] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-05-31 21:15:49.707] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-05-31 21:15:49.708] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-31 21:15:49.710] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-31 21:15:49.711] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-31 21:15:49.712] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-31 21:15:49.713] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-31 21:15:49.714] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-31 21:15:49.715] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-31 21:15:49.720] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-05-31 21:15:49.721] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-31 21:15:49.722] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-31 21:15:49.728] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-31 21:15:49.729] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-31 21:15:49.730] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-31 21:15:49.731] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-31 21:15:49.732] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-31 21:15:49.734] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-05-31 21:15:49.736] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-31 21:15:54.655] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-31 21:15:54.959] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-31 21:15:55.452] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '2298846547459' }
+[2021-05-31 21:15:55.454] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-05-31 21:15:55.454] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-31 21:15:56.778] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'my_link' }
+[2021-05-31 21:15:56.779] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-31 21:15:56.780] [debug] my links render
+[2021-05-31 21:16:02.994] [debug] **[overlay]  { type: 'SET_ACCOUNT_PHASE', value: 'signup' }
+[2021-05-31 21:16:02.995] [debug] **[overlay]  { type: 'ACCOUNT_STATE', value: true }
+[2021-05-31 21:16:02.995] [debug] **[overlay]  { type: 'SELECT_SPECIFIC_DEVICE', value: false }
+[2021-05-31 21:16:02.996] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-31 21:16:06.738] [debug] **[overlay]  {
+  type: 'SET_TOAST_TEXT',
+  toastType: 0,
+  value: 'Please accept the terms of service'
+}
+[2021-05-31 21:16:09.241] [debug] **[overlay]  { type: 'SET_TOAST_SHOW', value: false }
+[2021-05-31 21:16:10.379] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-31 21:16:56.788] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-31 21:18:00.189] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-31 21:18:15.037] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-06-02 07:33:01.705] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-02 07:33:01.709] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_k.q.z.q.5.b' }
+[2021-06-02 07:33:01.779] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-02 07:33:01.783] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-06-02 07:33:01.835] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-06-02 07:33:01.836] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-06-02 07:33:01.837] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-06-02 07:33:01.987] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-06-02 07:33:01.992] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-06-02 07:33:01.998] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-06-02 07:33:02.026] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-06-02 07:33:02.028] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-06-02 07:33:02.030] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-06-02 07:33:02.032] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-06-02 07:33:02.038] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-06-02 07:33:02.044] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-06-02 07:33:02.048] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-06-02 07:33:02.050] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-06-02 07:33:02.059] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-06-02 07:33:02.061] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-06-02 07:33:02.062] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-06-02 07:33:02.090] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-06-02 07:33:02.094] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-06-02 07:33:02.098] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-06-02 07:33:02.101] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-06-02 07:33:02.108] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-06-02 07:33:02.113] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '2298846547459' }
+[2021-06-02 07:33:02.115] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-06-02 07:33:02.123] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-06-02 07:33:03.478] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-06-02 07:33:03.786] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-06-02 07:33:04.324] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '2298846547459' }
+[2021-06-02 07:33:04.327] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-06-02 07:33:04.338] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-06-09 08:49:35.435] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-09 08:49:35.439] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_f.o.e.p.z.c' }
+[2021-06-09 08:49:35.498] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-09 08:49:35.503] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-06-09 08:49:35.561] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-06-09 08:49:35.562] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-06-09 08:49:35.563] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-06-09 08:49:35.740] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-06-09 08:49:35.741] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-06-09 08:49:35.743] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-06-09 08:49:35.768] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-06-09 08:49:35.774] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-06-09 08:49:35.778] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-06-09 08:49:35.780] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-06-09 08:49:35.783] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-06-09 08:49:35.787] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-06-09 08:49:35.792] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-06-09 08:49:35.796] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-06-09 08:49:35.812] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-06-09 08:49:35.815] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-06-09 08:49:35.816] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-06-09 08:49:35.849] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-06-09 08:49:35.855] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-06-09 08:49:35.860] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-06-09 08:49:35.862] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-06-09 08:49:35.864] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-06-09 08:49:35.871] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '2298846547459' }
+[2021-06-09 08:49:35.873] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-06-09 08:49:35.875] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-06-17 17:56:59.302] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-17 17:56:59.311] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_m.f.c.r.y.b' }
+[2021-06-17 17:56:59.461] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-17 17:56:59.471] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-06-17 17:56:59.677] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-06-17 17:56:59.679] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-06-17 17:56:59.681] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-06-17 17:56:59.980] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-06-17 17:56:59.982] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-06-17 17:56:59.985] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-06-17 17:56:59.999] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-06-17 17:57:00.001] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-06-17 17:57:00.004] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-06-17 17:57:00.011] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-06-17 17:57:00.016] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-06-17 17:57:00.018] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-06-17 17:57:00.019] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-06-17 17:57:00.021] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-06-17 17:57:00.035] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-06-17 17:57:00.037] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-06-17 17:57:00.039] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-06-17 17:57:00.055] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-06-17 17:57:00.058] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-06-17 17:57:00.062] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-06-17 17:57:00.067] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-06-17 17:57:00.069] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-06-17 17:57:00.075] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '2298846547459' }
+[2021-06-17 17:57:00.077] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-06-17 17:57:00.084] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-06-17 17:57:03.260] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-06-17 17:57:03.568] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-06-17 17:57:04.203] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '2298846547459' }
+[2021-06-17 17:57:04.209] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-06-17 17:57:04.214] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-06-17 17:57:04.502] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-06-17 17:57:04.915] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-17 17:57:04.924] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_k.9.c.w.p.h' }
+[2021-06-17 17:57:05.080] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-06-17 17:57:05.142] [debug] **[overlay]  { type: 'SETTINGS_CATEGORY_INDEX', value: 0 }
+[2021-06-17 17:57:05.231] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '2298846547459' }
+[2021-06-17 17:57:05.232] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-06-17 17:57:05.234] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-06-17 17:57:05.235] [debug] {
+  email: '',
+  profileName: 'hyx-Lenovo-XiaoXin-Air-13IWL',
+  profileImageUrl: '',
+  notification: true,
+  autorun: true,
+  trayAfterClose: true,
+  contextMenu: true,
+  overwriteFile: false,
+  preserveTimestamp: true,
+  checkReceiveFilelist: true,
+  downloadPath: '/home/hyx',
+  findNearby: true,
+  deviceDiscover: true,
+  planType: 0,
+  useProxyServer: false,
+  proxyType: 'HTTP',
+  proxyHost: '',
+  proxyPort: '80',
+  proxyUsername: '',
+  proxyPassword: '',
+  torrentEnabled: false
+}
+[2021-06-17 17:57:05.236] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: '' }
+[2021-06-17 17:57:05.237] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'hyx-Lenovo-XiaoXin-Air-13IWL' }
+[2021-06-17 17:57:05.239] [debug] **[overlay]  { type: 'TOP_PROFILE_IMAGEURL', value: '' }
+[2021-06-17 17:57:05.240] [debug] **[overlay]  { type: 'SETTINGS_NOTIFICATION', value: true }
+[2021-06-17 17:57:05.242] [debug] **[overlay]  { type: 'SETTINGS_AUTORUN', value: true }
+[2021-06-17 17:57:05.244] [debug] **[overlay]  { type: 'SETTINGS_TRAYAFTERCLOSE', value: true }
+[2021-06-17 17:57:05.246] [debug] **[overlay]  { type: 'SETTINGS_CONTEXT_MENU', value: true }
+[2021-06-17 17:57:05.247] [debug] **[overlay]  { type: 'SETTINGS_OVERWRITE', value: false }
+[2021-06-17 17:57:05.248] [debug] **[overlay]  { type: 'SETTINGS_PRESERVE_TIMESTAMP', value: true }
+[2021-06-17 17:57:05.249] [debug] **[overlay]  { type: 'SETTINGS_CHECK_RECEIVE_FILELIST', value: true }
+[2021-06-17 17:57:05.250] [debug] **[overlay]  { type: 'SETTINGS_DOWNLOAD_PATH', value: '/home/hyx' }
+[2021-06-17 17:57:05.251] [debug] **[overlay]  { type: 'SETTINGS_FIND_NEARBY', value: true }
+[2021-06-17 17:57:05.252] [debug] **[overlay]  { type: 'SETTINGS_DEVICE_DISCOVER', value: true }
+[2021-06-17 17:57:05.253] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-06-17 17:57:05.254] [debug] **[overlay]  { type: 'SET_USE_PROXY_SERVER', value: false }
+[2021-06-17 17:57:05.255] [debug] **[overlay]  { type: 'SET_PROXY_TYPE', value: 'HTTP' }
+[2021-06-17 17:57:05.256] [debug] **[overlay]  { type: 'SET_PROXY_HOST', value: '' }
+[2021-06-17 17:57:05.259] [debug] **[overlay]  { type: 'SET_PROXY_PORT', value: '80' }
+[2021-06-17 17:57:05.264] [debug] **[overlay]  { type: 'SET_PROXY_USERNAME', value: '' }
+[2021-06-17 17:57:05.271] [debug] **[overlay]  { type: 'SET_PROXY_PASSWORD', value: '' }
+[2021-06-17 17:57:05.276] [debug] **[overlay]  { type: 'SETTINGS_USE_TORRENT', value: false }
+[2021-06-17 17:57:05.404] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-06-17 17:57:12.417] [debug] **[overlay]  { type: 'SETTINGS_AUTORUN', value: false }
+[2021-06-17 17:57:12.419] [debug] **[overlay]  { type: 'SET_PROXY_TYPE_LIST_SHOW', value: false }
+[2021-06-17 17:57:14.953] [debug] **[overlay]  { type: 'SET_PROXY_TYPE_LIST_SHOW', value: false }

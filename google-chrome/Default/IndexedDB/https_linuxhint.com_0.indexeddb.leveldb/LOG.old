@@ -1,0 +1,15 @@
+2021/09/01-16:39:47.176 27f8d Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/01-16:39:47.176 27f8d Recovering log #14
+2021/09/01-16:39:47.176 27f8d Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/000014.log 
+2021/09/01-16:39:50.644 27f8c Level-0 table #19: started
+2021/09/01-16:39:50.646 27f8c Level-0 table #19: 209 bytes OK
+2021/09/01-16:39:50.648 27f8c Delete type=0 #14
+2021/09/01-16:39:50.648 27f8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/01-16:39:50.648 27f8c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 15 : 1
+2021/09/01-16:39:50.648 27f8c Compacting 1@1 + 1@2 files
+2021/09/01-16:39:50.650 27f8c Generated table #20@1: 9 keys, 365 bytes
+2021/09/01-16:39:50.650 27f8c Compacted 1@1 + 1@2 files => 365 bytes
+2021/09/01-16:39:50.652 27f8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/01-16:39:50.652 27f8c Delete type=2 #16
+2021/09/01-16:39:50.652 27f8c Delete type=2 #19
+2021/09/01-16:39:50.653 27f8c Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 15 : 1 .. (end); will stop at (end)

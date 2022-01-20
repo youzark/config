@@ -1,0 +1,131 @@
+09:09:22 AM.768: ================================
+09:09:22 AM.768: Warning: OBS is already running!
+09:09:22 AM.768: ================================
+09:09:22 AM.768: User is now running multiple instances of OBS!
+09:09:22 AM.785: CPU Name: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+09:09:22 AM.785: CPU Speed: 806.038MHz
+09:09:22 AM.786: Physical Cores: 4, Logical Cores: 8
+09:09:22 AM.786: Physical Memory: 7713MB Total, 3233MB Free
+09:09:22 AM.786: Kernel Version: Linux 5.8.0-59-generic
+09:09:22 AM.786: Distribution: "Ubuntu" "20.04"
+09:09:22 AM.787: Session Type: x11
+09:09:22 AM.787: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+09:09:22 AM.788: Portable mode: false
+09:09:22 AM.834: OBS 27.0.1 (linux)
+09:09:22 AM.834: ---------------------------------
+09:09:22 AM.835: ---------------------------------
+09:09:22 AM.835: audio settings reset:
+09:09:22 AM.835: 	samples per sec: 48000
+09:09:22 AM.835: 	speakers:        2
+09:09:22 AM.848: ---------------------------------
+09:09:22 AM.849: Initializing OpenGL...
+09:09:22 AM.897: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (WHL GT2)
+09:09:22 AM.897: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.6, shading language 4.60
+09:09:22 AM.914: ---------------------------------
+09:09:22 AM.914: video settings reset:
+09:09:22 AM.914: 	base resolution:   1920x1080
+09:09:22 AM.914: 	output resolution: 852x480
+09:09:22 AM.914: 	downscale filter:  Bicubic
+09:09:22 AM.914: 	fps:               30/1
+09:09:22 AM.914: 	format:            NV12
+09:09:22 AM.914: 	YUV mode:          709/Partial
+09:09:22 AM.914: NV12 texture support not available
+09:09:22 AM.919: Audio monitoring device:
+09:09:22 AM.919: 	name: Default
+09:09:22 AM.919: 	id: default
+09:09:22 AM.919: ---------------------------------
+09:09:22 AM.920: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:09:22 AM.923: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+09:09:23 AM.022: Failed to load 'en-GB' text for module: 'linux-alsa.so'
+09:09:23 AM.023: Failed to load 'en-GB' text for module: 'linux-capture.so'
+09:09:23 AM.025: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:09:23 AM.025: No blackmagic support
+09:09:23 AM.025: Failed to load 'en-GB' text for module: 'linux-jack.so'
+09:09:23 AM.026: Failed to load 'en-GB' text for module: 'linux-pulseaudio.so'
+09:09:23 AM.031: [obs-browser]: Version 2.14.3
+09:09:23 AM.031: [obs-browser]: CEF Version 87.1.12+g03f9336+chromium-87.0.4280.88
+09:09:23 AM.053: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+09:09:23 AM.053: 
+09:09:23 AM.053: FFMPEG VAAPI supported
+09:09:23 AM.055: Failed to load 'en-GB' text for module: 'obs-libfdk.so'
+09:09:23 AM.059: Failed to load 'en-GB' text for module: 'obs-x264.so'
+09:09:23 AM.060: Failed to load 'en-GB' text for module: 'rtmp-services.so'
+09:09:23 AM.062: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+09:09:23 AM.062: 
+09:09:23 AM.062: Couldn't find VLC installation, VLC video source disabled
+09:09:23 AM.062: ---------------------------------
+09:09:23 AM.062:   Loaded Modules:
+09:09:23 AM.062:     vlc-video.so
+09:09:23 AM.062:     text-freetype2.so
+09:09:23 AM.062:     rtmp-services.so
+09:09:23 AM.062:     obs-x264.so
+09:09:23 AM.062:     obs-vst.so
+09:09:23 AM.062:     obs-transitions.so
+09:09:23 AM.062:     obs-outputs.so
+09:09:23 AM.062:     obs-libfdk.so
+09:09:23 AM.062:     obs-filters.so
+09:09:23 AM.062:     obs-ffmpeg.so
+09:09:23 AM.062:     obs-browser.so
+09:09:23 AM.062:     linux-v4l2.so
+09:09:23 AM.062:     linux-pulseaudio.so
+09:09:23 AM.062:     linux-jack.so
+09:09:23 AM.062:     linux-decklink.so
+09:09:23 AM.062:     linux-capture.so
+09:09:23 AM.062:     linux-alsa.so
+09:09:23 AM.062:     image-source.so
+09:09:23 AM.062:     frontend-tools.so
+09:09:23 AM.062:     decklink-ouput-ui.so
+09:09:23 AM.062:     decklink-captions.so
+09:09:23 AM.062: ---------------------------------
+09:09:23 AM.063: ==== Startup complete ===============================================
+09:09:23 AM.065: All scene data cleared
+09:09:23 AM.065: ------------------------------------------------
+09:09:23 AM.073: pulse-input: Server name: 'pulseaudio 13.99.1'
+09:09:23 AM.073: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+09:09:23 AM.073: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+09:09:23 AM.074: [Loaded global audio device]: 'Desktop Audio'
+09:09:23 AM.179: pulse-input: Server name: 'pulseaudio 13.99.1'
+09:09:23 AM.181: pulse-input: Audio format: s16le, 16000 Hz, 1 channels
+09:09:23 AM.181: pulse-input: Started recording from 'alsa_input.usb-SN0002_HIK_1080P_Camera_46000000_SN0002-02.mono-fallback'
+09:09:23 AM.181: [Loaded global audio device]: 'Mic/Aux'
+09:09:23 AM.218: v4l2-input: Start capture from /dev/video0
+09:09:23 AM.451: v4l2-input: Input: 0
+09:09:23 AM.526: v4l2-input: Resolution: 1920x1080
+09:09:23 AM.526: v4l2-input: Pixelformat: YUYV
+09:09:23 AM.526: v4l2-input: Linesize: 3840 Bytes
+09:09:23 AM.526: v4l2-input: Framerate: 5.00 fps
+09:09:23 AM.533: v4l2-input: /dev/video0: select timeout set to 1000000us (5x frame periods)
+09:09:23 AM.533: Switched to scene 'Scene'
+09:09:23 AM.534: ------------------------------------------------
+09:09:23 AM.534: Loaded scenes:
+09:09:23 AM.534: - scene 'Scene':
+09:09:23 AM.536:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+09:09:23 AM.536:     - source: 'Text (FreeType 2)' (text_ft2_source_v2)
+09:09:23 AM.536: ------------------------------------------------
+09:09:24 AM.002: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+09:09:24 AM.002: 
+09:09:32 AM.540: ---------------------------------
+09:09:32 AM.540: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+09:09:32 AM.541: [x264 encoder: 'simple_h264_stream'] settings:
+09:09:32 AM.541: 	rate_control: CBR
+09:09:32 AM.541: 	bitrate:      1500
+09:09:32 AM.541: 	buffer size:  1500
+09:09:32 AM.541: 	crf:          23
+09:09:32 AM.541: 	fps_num:      30
+09:09:32 AM.541: 	fps_den:      1
+09:09:32 AM.541: 	width:        852
+09:09:32 AM.541: 	height:       480
+09:09:32 AM.541: 	keyint:       250
+09:09:32 AM.541: 
+09:09:32 AM.549: libfdk_aac encoder created
+09:09:32 AM.549: libfdk_aac bitrate: 160, channels: 2
+09:09:32 AM.550: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://txy.live-push.bilivideo.com/live-bvc/...
+09:09:32 AM.923: [rtmp stream: 'simple_stream'] Connection to rtmp://txy.live-push.bilivideo.com/live-bvc/ successful
+09:09:32 AM.934: ==== Streaming Start ===============================================
+08:45:03 PM.335: v4l2-input: /dev/video0: select timed out
+08:45:03 PM.335: v4l2-input: /dev/video0: failed to log status
+08:45:04 PM.335: v4l2-input: /dev/video0: select timed out
+08:45:04 PM.335: v4l2-input: /dev/video0: failed to log status
+08:45:05 PM.336: v4l2-input: /dev/video0: failed to dequeue buffer
+08:45:05 PM.337: v4l2-input: /dev/video0: Stopped capture after 42992 frames
+08:45:05 PM.337: v4l2-helpers: unable to stop stream

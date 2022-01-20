@@ -1,0 +1,6 @@
+2021/11/29-18:55:06.290 14e37 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.thenewslens.com_0.indexeddb.leveldb since it was missing.
+2021/11/29-18:55:06.294 14e37 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.thenewslens.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-18:55:09.229 14e37 Level-0 table #5: started
+2021/11/29-18:55:09.231 14e37 Level-0 table #5: 1071 bytes OK
+2021/11/29-18:55:09.233 14e37 Delete type=0 #3
+2021/11/29-18:55:09.233 14e37 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

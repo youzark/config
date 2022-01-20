@@ -1,0 +1,6 @@
+2021/07/23-19:08:18.394 5ea4 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_tv.cctv.com_0.indexeddb.leveldb since it was missing.
+2021/07/23-19:08:18.397 5ea4 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_tv.cctv.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/23-19:08:26.724 60d4 Level-0 table #5: started
+2021/07/23-19:08:26.725 60d4 Level-0 table #5: 838 bytes OK
+2021/07/23-19:08:26.726 60d4 Delete type=0 #3
+2021/07/23-19:08:26.726 60d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

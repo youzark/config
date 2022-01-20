@@ -1,0 +1,6 @@
+2021/07/15-22:12:15.950 17e1d Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb since it was missing.
+2021/07/15-22:12:15.952 17e1d Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/15-22:17:07.927 17ffe Level-0 table #5: started
+2021/07/15-22:17:07.929 17ffe Level-0 table #5: 880 bytes OK
+2021/07/15-22:17:07.931 17ffe Delete type=0 #3
+2021/07/15-22:17:07.931 17ffe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

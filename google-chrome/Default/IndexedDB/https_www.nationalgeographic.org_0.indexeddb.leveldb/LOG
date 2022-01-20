@@ -1,0 +1,18 @@
+2021/12/14-19:32:36.916 247f9 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.nationalgeographic.org_0.indexeddb.leveldb since it was missing.
+2021/12/14-19:32:36.918 247f9 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.nationalgeographic.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/14-19:32:39.279 247f8 Level-0 table #5: started
+2021/12/14-19:32:39.280 247f8 Level-0 table #5: 680 bytes OK
+2021/12/14-19:32:39.282 247f8 Delete type=0 #3
+2021/12/14-19:32:39.282 247f8 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/14-19:32:41.292 247a5 Level-0 table #7: started
+2021/12/14-19:32:41.293 247a5 Level-0 table #7: 237 bytes OK
+2021/12/14-19:32:41.294 247a5 Delete type=0 #4
+2021/12/14-19:32:41.294 247a5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/14-19:32:41.294 247a5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 25 : 0
+2021/12/14-19:32:41.294 247a5 Compacting 1@1 + 1@2 files
+2021/12/14-19:32:41.295 247a5 Generated table #8@1: 8 keys, 425 bytes
+2021/12/14-19:32:41.295 247a5 Compacted 1@1 + 1@2 files => 425 bytes
+2021/12/14-19:32:41.296 247a5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/14-19:32:41.296 247a5 Delete type=2 #5
+2021/12/14-19:32:41.296 247a5 Delete type=2 #7
+2021/12/14-19:32:41.297 247a5 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 25 : 0 .. (end); will stop at (end)

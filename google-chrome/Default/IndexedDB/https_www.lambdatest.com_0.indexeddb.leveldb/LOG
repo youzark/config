@@ -1,0 +1,6 @@
+2021/07/17-21:08:48.835 15c3c Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.lambdatest.com_0.indexeddb.leveldb since it was missing.
+2021/07/17-21:08:48.847 15c3c Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.lambdatest.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/17-21:09:21.625 15c3c Level-0 table #5: started
+2021/07/17-21:09:21.627 15c3c Level-0 table #5: 6043 bytes OK
+2021/07/17-21:09:21.629 15c3c Delete type=0 #3
+2021/07/17-21:09:21.630 15c3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

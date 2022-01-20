@@ -1,0 +1,15 @@
+2021/08/29-20:38:42.022 e4ca Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.javatpoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/29-20:38:42.022 e4ca Recovering log #4
+2021/08/29-20:38:42.022 e4ca Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.javatpoint.com_0.indexeddb.leveldb/000004.log 
+2021/08/29-20:38:47.022 e4ca Level-0 table #8: started
+2021/08/29-20:38:47.023 e4ca Level-0 table #8: 209 bytes OK
+2021/08/29-20:38:47.024 e4ca Delete type=0 #4
+2021/08/29-20:38:47.024 e4ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/08/29-20:38:47.024 e4ca Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 12 : 1
+2021/08/29-20:38:47.024 e4ca Compacting 1@1 + 1@2 files
+2021/08/29-20:38:47.025 e4ca Generated table #9@1: 9 keys, 375 bytes
+2021/08/29-20:38:47.025 e4ca Compacted 1@1 + 1@2 files => 375 bytes
+2021/08/29-20:38:47.026 e4ca compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/29-20:38:47.026 e4ca Delete type=2 #5
+2021/08/29-20:38:47.026 e4ca Delete type=2 #8
+2021/08/29-20:38:47.026 e4ca Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 12 : 1 .. (end); will stop at (end)

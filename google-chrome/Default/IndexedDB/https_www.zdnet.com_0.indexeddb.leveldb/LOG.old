@@ -1,0 +1,6 @@
+2021/08/11-19:37:47.427 c1df Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb since it was missing.
+2021/08/11-19:37:47.440 c1df Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/11-19:37:51.239 c2c4 Level-0 table #5: started
+2021/08/11-19:37:51.241 c2c4 Level-0 table #5: 838 bytes OK
+2021/08/11-19:37:51.243 c2c4 Delete type=0 #3
+2021/08/11-19:37:51.243 c2c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

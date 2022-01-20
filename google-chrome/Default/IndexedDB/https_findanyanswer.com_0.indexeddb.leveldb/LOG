@@ -1,0 +1,18 @@
+2021/08/16-20:40:18.259 b59c Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_findanyanswer.com_0.indexeddb.leveldb since it was missing.
+2021/08/16-20:40:18.262 b59c Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_findanyanswer.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/16-20:40:19.044 b3e0 Level-0 table #5: started
+2021/08/16-20:40:19.045 b3e0 Level-0 table #5: 569 bytes OK
+2021/08/16-20:40:19.046 b3e0 Delete type=0 #3
+2021/08/16-20:40:19.046 b3e0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/16-20:40:21.049 b5fd Level-0 table #7: started
+2021/08/16-20:40:21.051 b5fd Level-0 table #7: 256 bytes OK
+2021/08/16-20:40:21.052 b5fd Delete type=0 #4
+2021/08/16-20:40:21.053 b5fd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/08/16-20:40:21.053 b5fd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2021/08/16-20:40:21.053 b5fd Compacting 1@1 + 1@2 files
+2021/08/16-20:40:21.054 b5fd Generated table #8@1: 6 keys, 253 bytes
+2021/08/16-20:40:21.054 b5fd Compacted 1@1 + 1@2 files => 253 bytes
+2021/08/16-20:40:21.055 b5fd compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/16-20:40:21.056 b5fd Delete type=2 #5
+2021/08/16-20:40:21.056 b5fd Delete type=2 #7
+2021/08/16-20:40:21.056 b5fd Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

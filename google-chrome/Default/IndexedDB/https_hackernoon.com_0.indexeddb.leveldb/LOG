@@ -1,0 +1,15 @@
+2021/09/24-14:16:34.704 433d Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/24-14:16:34.704 433d Recovering log #4
+2021/09/24-14:16:34.704 433d Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/000004.log 
+2021/09/24-14:16:40.969 472d Level-0 table #8: started
+2021/09/24-14:16:40.972 472d Level-0 table #8: 507 bytes OK
+2021/09/24-14:16:40.974 472d Delete type=0 #4
+2021/09/24-14:16:40.975 472d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/24-14:16:40.975 472d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x008\x005\x009\x009\x005\x009\x009\x004\x009' @ 64 : 1
+2021/09/24-14:16:40.975 472d Compacting 1@1 + 1@2 files
+2021/09/24-14:16:40.977 472d Generated table #9@1: 18 keys, 554 bytes
+2021/09/24-14:16:40.977 472d Compacted 1@1 + 1@2 files => 554 bytes
+2021/09/24-14:16:40.979 472d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/24-14:16:40.979 472d Delete type=2 #5
+2021/09/24-14:16:40.979 472d Delete type=2 #8
+2021/09/24-14:16:40.979 472d Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x008\x005\x009\x009\x005\x009\x009\x004\x009' @ 64 : 1 .. (end); will stop at (end)

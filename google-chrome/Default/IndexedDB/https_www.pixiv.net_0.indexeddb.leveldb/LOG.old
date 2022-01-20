@@ -1,0 +1,6 @@
+2021/08/08-21:38:39.745 29f0 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb since it was missing.
+2021/08/08-21:38:39.747 29f0 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/08-21:38:50.311 299d Level-0 table #5: started
+2021/08/08-21:38:50.314 299d Level-0 table #5: 39132 bytes OK
+2021/08/08-21:38:50.316 299d Delete type=0 #3
+2021/08/08-21:38:50.316 299d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

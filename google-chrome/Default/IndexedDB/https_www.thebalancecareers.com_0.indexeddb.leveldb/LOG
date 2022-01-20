@@ -1,0 +1,6 @@
+2022/01/07-18:51:46.173 52db5 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.thebalancecareers.com_0.indexeddb.leveldb since it was missing.
+2022/01/07-18:51:46.176 52db5 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.thebalancecareers.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/07-18:51:56.293 53c9e Level-0 table #5: started
+2022/01/07-18:51:56.295 53c9e Level-0 table #5: 401 bytes OK
+2022/01/07-18:51:56.298 53c9e Delete type=0 #3
+2022/01/07-18:51:56.298 53c9e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

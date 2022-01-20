@@ -1,0 +1,8 @@
+2021/05/11-08:29:44.627 7ece Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_ebced9a71f918b3665c9cc1a86e5e7d0.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/11-08:29:44.628 7ece Recovering log #4
+2021/05/11-08:29:44.628 7ece Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_ebced9a71f918b3665c9cc1a86e5e7d0.safeframe.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2021/05/11-08:29:47.238 7ece Level-0 table #8: started
+2021/05/11-08:29:47.238 7ece Level-0 table #8: 0 bytes OK
+2021/05/11-08:29:47.250 7ece Delete type=0 #4
+2021/05/11-08:29:47.251 7ece Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/11-08:29:47.251 7ece Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/09/06-20:30:14.435 721b7 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/06-20:30:14.435 721b7 Recovering log #7
+2021/09/06-20:30:14.435 721b7 Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/000007.log 
+2021/09/06-20:30:20.930 721b7 Level-0 table #12: started
+2021/09/06-20:30:20.931 721b7 Level-0 table #12: 209 bytes OK
+2021/09/06-20:30:20.932 721b7 Delete type=0 #7
+2021/09/06-20:30:20.932 721b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/06-20:30:20.933 721b7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 12 : 1
+2021/09/06-20:30:20.933 721b7 Compacting 1@1 + 1@2 files
+2021/09/06-20:30:20.934 721b7 Generated table #13@1: 9 keys, 373 bytes
+2021/09/06-20:30:20.934 721b7 Compacted 1@1 + 1@2 files => 373 bytes
+2021/09/06-20:30:20.935 721b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/06-20:30:20.935 721b7 Delete type=2 #12
+2021/09/06-20:30:20.935 721b7 Delete type=2 #9
+2021/09/06-20:30:20.935 721b7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 12 : 1 .. (end); will stop at (end)

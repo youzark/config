@@ -1,0 +1,6 @@
+2021/06/13-19:08:32.120 29495 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2021/06/13-19:08:32.132 29495 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-19:08:38.314 295d1 Level-0 table #5: started
+2021/06/13-19:08:38.314 295d1 Level-0 table #5: 827 bytes OK
+2021/06/13-19:08:38.316 295d1 Delete type=0 #3
+2021/06/13-19:08:38.316 295d1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

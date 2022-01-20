@@ -1,0 +1,152 @@
+!SESSION 2021-12-31 19:20:15.350 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.11
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -data /home/hyx/.config/coc/extensions/coc-java-data/jdt_ws_1af33757e71d2dba2d2e9a26ba3bf56a
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.302
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.458
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.490
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.497
+!MESSAGE Initializing Java Language Server 1.3.0.202108101830
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.540
+!MESSAGE Setting /usr/lib/jvm/java-11-openjdk-amd64 as 'JavaSE-11' environment (id:1640949616524)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.542
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.552
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.552
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.552
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.553
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.553
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.553
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.585
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.589
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:16.629
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:17.072
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:20:17.073
+!MESSAGE No previous Gradle project at /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku, it must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-12-31 19:20:17.075
+!MESSAGE /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku/gradle/wrapper/gradle-wrapper.jar doesn't exist.
+!STACK 1
+org.eclipse.core.runtime.CoreException: /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku/gradle/wrapper/gradle-wrapper.jar doesn't exist.
+	at org.eclipse.jdt.ls.core.internal.ExceptionFactory.newException(ExceptionFactory.java:28)
+	at org.eclipse.jdt.ls.internal.gradle.checksums.WrapperValidator.checkWrapper(WrapperValidator.java:94)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.getGradleDistribution(GradleProjectImporter.java:157)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.getBuildConfiguration(GradleProjectImporter.java:266)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.startSynchronization(GradleProjectImporter.java:257)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importDir(GradleProjectImporter.java:147)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.lambda$0(GradleProjectImporter.java:124)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1085)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importToWorkspace(GradleProjectImporter.java:124)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:113)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:102)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:203)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2021-12-31 19:20:17.076
+!MESSAGE /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku/gradle/wrapper/gradle-wrapper.jar doesn't exist.
+!SESSION 2021-12-31 19:35:21.449 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.11
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -data /home/hyx/.config/coc/extensions/coc-java-data/jdt_ws_1af33757e71d2dba2d2e9a26ba3bf56a
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.251
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.653
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.740
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.757
+!MESSAGE Initializing Java Language Server 1.3.0.202108101830
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.806
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.806
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.807
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.808
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.809
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.809
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.892
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:23.893
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:24.070
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:26.133
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-31 19:35:26.137
+!MESSAGE No previous Gradle project at /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku, it must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-12-31 19:35:26.141
+!MESSAGE /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku/gradle/wrapper/gradle-wrapper.jar doesn't exist.
+!STACK 1
+org.eclipse.core.runtime.CoreException: /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku/gradle/wrapper/gradle-wrapper.jar doesn't exist.
+	at org.eclipse.jdt.ls.core.internal.ExceptionFactory.newException(ExceptionFactory.java:28)
+	at org.eclipse.jdt.ls.internal.gradle.checksums.WrapperValidator.checkWrapper(WrapperValidator.java:94)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.getGradleDistribution(GradleProjectImporter.java:157)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.getBuildConfiguration(GradleProjectImporter.java:266)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.startSynchronization(GradleProjectImporter.java:257)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importDir(GradleProjectImporter.java:147)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.lambda$0(GradleProjectImporter.java:124)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1085)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importToWorkspace(GradleProjectImporter.java:124)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:113)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:102)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:203)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2021-12-31 19:35:26.144
+!MESSAGE /home/hyx/Computer/java_tutorial/fx/JavaDesktopSudoku/gradle/wrapper/gradle-wrapper.jar doesn't exist.

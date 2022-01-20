@@ -1,0 +1,15 @@
+2021/12/21-19:07:33.281 94ff Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/21-19:07:33.282 94ff Recovering log #4
+2021/12/21-19:07:33.282 94ff Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/000004.log 
+2021/12/21-19:10:33.534 9e3a Level-0 table #8: started
+2021/12/21-19:10:33.536 9e3a Level-0 table #8: 58031 bytes OK
+2021/12/21-19:10:33.538 9e3a Delete type=0 #4
+2021/12/21-19:10:33.539 9e3a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/21-19:10:33.539 9e3a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 230 : 1
+2021/12/21-19:10:33.539 9e3a Compacting 1@1 + 1@2 files
+2021/12/21-19:10:33.542 9e3a Generated table #9@1: 35 keys, 16280 bytes
+2021/12/21-19:10:33.542 9e3a Compacted 1@1 + 1@2 files => 16280 bytes
+2021/12/21-19:10:33.543 9e3a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/21-19:10:33.544 9e3a Delete type=2 #5
+2021/12/21-19:10:33.544 9e3a Delete type=2 #8
+2021/12/21-19:10:33.545 9e3a Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 230 : 1 .. (end); will stop at (end)

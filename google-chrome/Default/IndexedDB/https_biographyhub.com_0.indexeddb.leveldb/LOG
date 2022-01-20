@@ -1,0 +1,6 @@
+2021/07/26-20:51:29.391 740a Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_biographyhub.com_0.indexeddb.leveldb since it was missing.
+2021/07/26-20:51:29.404 740a Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_biographyhub.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/26-20:51:44.130 7435 Level-0 table #5: started
+2021/07/26-20:51:44.131 7435 Level-0 table #5: 6026 bytes OK
+2021/07/26-20:51:44.133 7435 Delete type=0 #3
+2021/07/26-20:51:44.133 7435 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

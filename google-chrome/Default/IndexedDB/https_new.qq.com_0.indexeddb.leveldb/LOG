@@ -1,0 +1,6 @@
+2021/12/14-20:38:16.575 2ed1e Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_new.qq.com_0.indexeddb.leveldb since it was missing.
+2021/12/14-20:38:16.577 2ed1e Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_new.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/14-20:38:35.100 2f357 Level-0 table #5: started
+2021/12/14-20:38:35.102 2f357 Level-0 table #5: 1112 bytes OK
+2021/12/14-20:38:35.104 2f357 Delete type=0 #3
+2021/12/14-20:38:35.105 2f357 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

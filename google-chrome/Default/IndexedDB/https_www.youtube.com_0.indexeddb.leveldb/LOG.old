@@ -1,0 +1,12 @@
+2022/01/20-09:18:29.644 59fc Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/20-09:18:29.644 59fc Recovering log #3350
+2022/01/20-09:18:29.649 59fc Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/003350.log 
+2022/01/20-09:18:32.588 5982 Level-0 table #3355: started
+2022/01/20-09:18:32.611 5982 Level-0 table #3355: 1122905 bytes OK
+2022/01/20-09:18:32.612 5982 Delete type=0 #3350
+2022/01/20-09:18:40.083 59fd Compacting 1@1 + 1@2 files
+2022/01/20-09:18:40.090 59fd Generated table #3356@1: 610 keys, 213666 bytes
+2022/01/20-09:18:40.090 59fd Compacted 1@1 + 1@2 files => 213666 bytes
+2022/01/20-09:18:40.092 59fd compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/20-09:18:40.092 59fd Delete type=2 #3352
+2022/01/20-09:18:40.092 59fd Delete type=2 #3355

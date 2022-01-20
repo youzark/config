@@ -1,0 +1,6 @@
+2021/10/25-13:04:33.331 7603b Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_news.sina.cn_0.indexeddb.leveldb since it was missing.
+2021/10/25-13:04:33.334 7603b Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_news.sina.cn_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/25-13:04:36.917 779b2 Level-0 table #5: started
+2021/10/25-13:04:36.918 779b2 Level-0 table #5: 1504 bytes OK
+2021/10/25-13:04:36.919 779b2 Delete type=0 #3
+2021/10/25-13:04:36.919 779b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

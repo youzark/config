@@ -1,0 +1,15 @@
+2021/09/14-21:30:43.126 64d85 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.infoworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/14-21:30:43.126 64d85 Recovering log #4
+2021/09/14-21:30:43.126 64d85 Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.infoworld.com_0.indexeddb.leveldb/000004.log 
+2021/09/14-21:30:49.262 64f1d Level-0 table #8: started
+2021/09/14-21:30:49.264 64f1d Level-0 table #8: 20805 bytes OK
+2021/09/14-21:30:49.265 64f1d Delete type=0 #4
+2021/09/14-21:30:49.265 64f1d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/14-21:30:49.265 64f1d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 157 : 1
+2021/09/14-21:30:49.265 64f1d Compacting 1@1 + 1@2 files
+2021/09/14-21:30:49.266 64f1d Generated table #9@1: 45 keys, 7190 bytes
+2021/09/14-21:30:49.266 64f1d Compacted 1@1 + 1@2 files => 7190 bytes
+2021/09/14-21:30:49.267 64f1d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/14-21:30:49.267 64f1d Delete type=2 #5
+2021/09/14-21:30:49.267 64f1d Delete type=2 #8
+2021/09/14-21:30:49.268 64f1d Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 157 : 1 .. (end); will stop at (end)

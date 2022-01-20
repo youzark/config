@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "coc-clangd": ">=0.18.2",
+    "coc-cmake": ">=0.2.0",
+    "coc-html": ">=1.5.1",
+    "coc-java": ">=1.5.4",
+    "coc-java-dependency": ">=0.1.1",
+    "coc-java-intellicode": ">=0.0.1",
+    "coc-json": ">=1.4.0",
+    "coc-lua": ">=1.0.1",
+    "coc-markdownlint": ">=1.12.3",
+    "coc-marketplace": ">=1.8.1",
+    "coc-pydocstring": ">=0.7.1",
+    "coc-pyright": ">=1.1.194",
+    "coc-sh": ">=0.6.1",
+    "coc-snippets": ">=2.4.7",
+    "coc-sumneko-lua": ">=0.0.12",
+    "coc-tabnine": ">=1.3.4",
+    "coc-tsserver": ">=1.9.4",
+    "coc-vimlsp": ">=0.12.5",
+    "coc-yaml": ">=1.6.1"
+  }
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/msgpack"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/msgpack.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/msgpack-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/msgpack-stamp/msgpack-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"msgpack"
+		],
+		"name" : "msgpack"
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/hyx/.config/pomotroid/logs/.2f1e821ee9b29ecacab938dfe2e69a6919ccc647-audit.json",
+    "files": [
+        {
+            "date": 1629561871787,
+            "name": "/home/hyx/.config/pomotroid/logs/pomotroid-2021-08-22.log",
+            "hash": "5c9d7cb36b07c5504bc35a3c34bfe1bf"
+        }
+    ]
+}

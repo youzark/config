@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/gperf"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/gperf.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/gperf-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/gperf-stamp/gperf-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/gperf-stamp/gperf-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/gperf-stamp/gperf-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/gperf-stamp/gperf-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/gperf-stamp/gperf-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/gperf-stamp/gperf-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/gperf-stamp/gperf-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gperf"
+		],
+		"name" : "gperf"
+	}
+}

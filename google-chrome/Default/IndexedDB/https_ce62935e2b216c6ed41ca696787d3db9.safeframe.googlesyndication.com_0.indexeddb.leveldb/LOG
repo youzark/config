@@ -1,0 +1,6 @@
+2021/12/21-18:47:07.279 50f6 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_ce62935e2b216c6ed41ca696787d3db9.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/12/21-18:47:07.283 50f6 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_ce62935e2b216c6ed41ca696787d3db9.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/21-18:47:38.822 550a Level-0 table #5: started
+2021/12/21-18:47:38.823 550a Level-0 table #5: 480 bytes OK
+2021/12/21-18:47:38.824 550a Delete type=0 #3
+2021/12/21-18:47:38.824 550a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

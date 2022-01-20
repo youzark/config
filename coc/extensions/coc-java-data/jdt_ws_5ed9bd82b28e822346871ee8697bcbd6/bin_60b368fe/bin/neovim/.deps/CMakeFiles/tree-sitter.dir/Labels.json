@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/tree-sitter"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/tree-sitter.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/tree-sitter-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/tree-sitter-stamp/tree-sitter-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tree-sitter"
+		],
+		"name" : "tree-sitter"
+	}
+}

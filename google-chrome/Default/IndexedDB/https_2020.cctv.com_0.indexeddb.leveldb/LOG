@@ -1,0 +1,7 @@
+2021/07/30-20:58:50.991 e385 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_2020.cctv.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/30-20:58:50.991 e385 Recovering log #3
+2021/07/30-20:58:50.992 e385 Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_2020.cctv.com_0.indexeddb.leveldb/000003.log 
+2021/07/30-20:59:03.676 e265 Level-0 table #5: started
+2021/07/30-20:59:03.678 e265 Level-0 table #5: 844 bytes OK
+2021/07/30-20:59:03.679 e265 Delete type=0 #3
+2021/07/30-20:59:03.680 e265 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

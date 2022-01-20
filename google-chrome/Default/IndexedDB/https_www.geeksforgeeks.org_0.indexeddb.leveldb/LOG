@@ -1,0 +1,8 @@
+2021/05/22-19:46:28.880 217d0 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.geeksforgeeks.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/22-19:46:28.881 217d0 Recovering log #7
+2021/05/22-19:46:28.881 217d0 Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.geeksforgeeks.org_0.indexeddb.leveldb/000007.log 
+2021/05/22-19:47:13.632 217d0 Level-0 table #11: started
+2021/05/22-19:47:13.632 217d0 Level-0 table #11: 0 bytes OK
+2021/05/22-19:47:13.634 217d0 Delete type=0 #7
+2021/05/22-19:47:13.635 217d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/22-19:47:13.635 217d0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

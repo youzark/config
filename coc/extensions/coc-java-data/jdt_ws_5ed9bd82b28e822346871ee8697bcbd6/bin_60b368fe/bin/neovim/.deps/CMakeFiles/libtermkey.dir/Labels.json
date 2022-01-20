@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/libtermkey"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/libtermkey.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/CMakeFiles/libtermkey-complete.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libtermkey-stamp/libtermkey-install.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libtermkey-stamp/libtermkey-mkdir.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libtermkey-stamp/libtermkey-download.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libtermkey-stamp/libtermkey-update.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libtermkey-stamp/libtermkey-patch.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libtermkey-stamp/libtermkey-configure.rule"
+		},
+		{
+			"file" : "/home/hyx/neovim/.deps/build/src/libtermkey-stamp/libtermkey-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libtermkey"
+		],
+		"name" : "libtermkey"
+	}
+}

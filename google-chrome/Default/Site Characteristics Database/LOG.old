@@ -1,0 +1,5 @@
+2022/01/20-09:18:24.358 595f Reusing MANIFEST /home/hyx/.config/google-chrome/Default/Site Characteristics Database/MANIFEST-000001
+2022/01/20-09:18:24.358 595f Recovering log #3
+2022/01/20-09:18:24.359 595f (ignoring error) /home/hyx/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 66 bytes; Corruption: missing start of fragmented record(2)
+2022/01/20-09:18:24.362 595f (ignoring error) /home/hyx/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 14 bytes; Corruption: missing start of fragmented record(2)
+2022/01/20-09:18:24.364 595f Reusing old log /home/hyx/.config/google-chrome/Default/Site Characteristics Database/000003.log 

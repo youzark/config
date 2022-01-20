@@ -1,0 +1,6 @@
+2021/07/09-19:26:57.720 b24d Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_forums.developer.nvidia.com_0.indexeddb.leveldb since it was missing.
+2021/07/09-19:26:57.723 b24d Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_forums.developer.nvidia.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-19:28:14.943 baaa Level-0 table #5: started
+2021/07/09-19:28:14.944 baaa Level-0 table #5: 5988 bytes OK
+2021/07/09-19:28:14.945 baaa Delete type=0 #3
+2021/07/09-19:28:14.945 baaa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

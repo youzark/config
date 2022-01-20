@@ -1,0 +1,73 @@
+{
+	"java.configuration.runtimes": 
+	[
+		{
+			"name" : "JavaSE-11",
+			"path": "/usr/lib/jvm/java-11-openjdk-amd64"
+		}
+	],
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/usr/lib/jvm/java-11-openjdk-amd64/lib/jrt-fs.jar",
+		"/home/hyx/lib/javafx-sdk-11.0.2/lib/*.jar"
+	],
+	"languageserver": 
+	{
+		"ccls":
+		{
+			"command" : "ccls",
+			"filetypes": ["c","cuda","objc","objcpp","h"],
+			"rootPatterns": [".ccls-root","compile_commands.json"],
+			"initializationOptions": 
+			{
+				"cache":
+				{
+					"directory":".ccls-cache"
+				},
+				"client":
+				{
+					"snippetSupport":true
+				},
+				"clang" :
+				{
+					"extraArgs": ["-std=c++17"]
+				}
+			}
+		}
+	},
+	"snippets.ultisnips.directories": 
+	[
+		"/home/hyx/.config/snippets/UltiSnip",
+		"/home/hyx/.config/snippets/mine"
+	],
+  	"suggest.completionItemKindLabels": 
+ 	{
+		"keyword": "\uf1de",
+		"variable": "\ue79b",
+		"value": "\uf89f",
+		"operator": "\u03a8",
+		"constructor": "\uf0ad",
+		"function": "\u0192",
+		"reference": "\ufa46",
+		"constant": "\uf8fe",
+		"method": "\uf09a",
+		"struct": "\ufb44",
+		"class": "\uf0e8",
+		"interface": "\uf417",
+		"text": "\ue612",
+		"enum": "\uf435",
+		"enumMember": "\uf02b",
+		"module": "\uf40d",
+		"color": "\ue22b",
+		"property": "\ue624",
+		"field": "\uf9be",
+		"unit": "\uf475",
+		"event": "\ufacd",
+		"file": "\uf723",
+		"folder": "\uf114",
+		"snippet": "\ue60b",
+		"typeParameter": "\uf728",
+		"default": "\uf29c"
+	},
+	"suggest.labelMaxLength": 50
+}

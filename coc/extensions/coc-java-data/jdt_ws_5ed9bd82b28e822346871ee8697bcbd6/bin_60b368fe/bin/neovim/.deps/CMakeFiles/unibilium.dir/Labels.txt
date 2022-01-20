@@ -1,0 +1,13 @@
+# Target labels
+ unibilium
+# Source files and their labels
+/home/hyx/neovim/.deps/CMakeFiles/unibilium
+/home/hyx/neovim/.deps/CMakeFiles/unibilium.rule
+/home/hyx/neovim/.deps/CMakeFiles/unibilium-complete.rule
+/home/hyx/neovim/.deps/build/src/unibilium-stamp/unibilium-install.rule
+/home/hyx/neovim/.deps/build/src/unibilium-stamp/unibilium-mkdir.rule
+/home/hyx/neovim/.deps/build/src/unibilium-stamp/unibilium-download.rule
+/home/hyx/neovim/.deps/build/src/unibilium-stamp/unibilium-update.rule
+/home/hyx/neovim/.deps/build/src/unibilium-stamp/unibilium-patch.rule
+/home/hyx/neovim/.deps/build/src/unibilium-stamp/unibilium-configure.rule
+/home/hyx/neovim/.deps/build/src/unibilium-stamp/unibilium-build.rule

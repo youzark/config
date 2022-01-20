@@ -1,0 +1,6 @@
+2021/06/08-14:43:42.482 7f74 Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_ct.epro.sogou.com_0.indexeddb.leveldb since it was missing.
+2021/06/08-14:43:42.486 7f74 Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_ct.epro.sogou.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/08-14:43:44.514 7ec5 Level-0 table #5: started
+2021/06/08-14:43:44.517 7ec5 Level-0 table #5: 840 bytes OK
+2021/06/08-14:43:44.519 7ec5 Delete type=0 #3
+2021/06/08-14:43:44.519 7ec5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

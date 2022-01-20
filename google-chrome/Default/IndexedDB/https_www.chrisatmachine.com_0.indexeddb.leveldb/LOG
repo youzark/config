@@ -1,0 +1,15 @@
+2021/09/08-16:03:54.026 1004be Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.chrisatmachine.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/08-16:03:54.027 1004be Recovering log #11
+2021/09/08-16:03:54.027 1004be Reusing old log /home/hyx/.config/google-chrome/Default/IndexedDB/https_www.chrisatmachine.com_0.indexeddb.leveldb/000011.log 
+2021/09/08-16:05:07.706 1010ec Level-0 table #16: started
+2021/09/08-16:05:07.707 1010ec Level-0 table #16: 8018 bytes OK
+2021/09/08-16:05:07.709 1010ec Delete type=0 #11
+2021/09/08-16:05:07.709 1010ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/08-16:05:07.709 1010ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00v\x00i\x00r\x00t\x00u\x00a\x00l\x00b\x00o\x00x' @ 1663 : 1
+2021/09/08-16:05:07.709 1010ec Compacting 1@1 + 1@2 files
+2021/09/08-16:05:07.710 1010ec Generated table #17@1: 127 keys, 6293 bytes
+2021/09/08-16:05:07.710 1010ec Compacted 1@1 + 1@2 files => 6293 bytes
+2021/09/08-16:05:07.711 1010ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/08-16:05:07.711 1010ec Delete type=2 #13
+2021/09/08-16:05:07.711 1010ec Delete type=2 #16
+2021/09/08-16:05:07.712 1010ec Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00v\x00i\x00r\x00t\x00u\x00a\x00l\x00b\x00o\x00x' @ 1663 : 1 .. (end); will stop at (end)

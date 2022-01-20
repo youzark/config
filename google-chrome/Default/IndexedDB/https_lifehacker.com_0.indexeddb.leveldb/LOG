@@ -1,0 +1,6 @@
+2021/08/26-15:23:26.037 75ae Creating DB /home/hyx/.config/google-chrome/Default/IndexedDB/https_lifehacker.com_0.indexeddb.leveldb since it was missing.
+2021/08/26-15:23:26.049 75ae Reusing MANIFEST /home/hyx/.config/google-chrome/Default/IndexedDB/https_lifehacker.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/26-15:23:51.901 7556 Level-0 table #5: started
+2021/08/26-15:23:51.902 7556 Level-0 table #5: 1039 bytes OK
+2021/08/26-15:23:51.903 7556 Delete type=0 #3
+2021/08/26-15:23:51.904 7556 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

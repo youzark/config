@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/hyx/.config/coc/extensions/coc-java-data/jdt_ws_5ed9bd82b28e822346871ee8697bcbd6/.metadata/.plugins/org.eclipse.jdt.core
